@@ -204,10 +204,10 @@ def main():
         repo_data['info'] = fetch_repo_info(repo)
 
         # fetch issues:
-        repo_data['issues'] = fetch_issues(repo, max_issues=10)
+        repo_data['issues'] = fetch_issues(repo, max_issues=100)
 
         # fetch commits:
-        repo_data['commits'] = fetch_commits(repo, max_commits=10)
+        repo_data['commits'] = fetch_commits(repo, max_commits=100)
 
         # store individual repo data:
         all_data[repo] = repo_data
