@@ -175,7 +175,7 @@ def main():
     print("="*60)
 
     # Check rate limit before starting:
-    remainig = check_rate_limit()
+    remaining = check_rate_limit()
     if remainig < 100:
         print("Warning: Low rate limit remaining. Consider waiting.")
         return
