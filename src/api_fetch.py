@@ -28,7 +28,7 @@ REPOSITORIES = [
     "pandas-dev/pandas",
     "numpy/numpy",
     "scikit-learn/scikit-learn",
-    "openmrs/openmrs-core",
+    "apache/airflow",
     "mlflow/mlflow"
 ]
 
@@ -38,7 +38,7 @@ def check_rate_limit():
     response = requests.get(f"{BASE_URL}/rate_limit", headers=HEADERS)
     if response.status_code == 200:
         data = response.json()
-        core = data['respurces']['core']
+        core = data['resources']['core']
         print(
             f"Rate limit: {core['remaining']} remaining out of {core['limit']}")
         print(f"Reset time: {datetime.fromtimestamp(core['reset'])}")
@@ -75,7 +75,7 @@ def fetch_issues(repo, max_issues=100):
 
         if response.status_code == 200:
             batch = response.json()
-            if not batch:
+            if not batch or len(batch) == 0:
                 break   # No more issues
 
             # Filter out pull requests:
@@ -124,7 +124,7 @@ def fetch_commits(repo, max_commits=100):
 
         if response.status_code == 200:
             batch = response.json()
-            if not batch:
+            if not batch or len(batch) == 0:
                 break
 
             commits.extend(batch)
@@ -157,14 +157,14 @@ def fetch_repo_info(repo):
 
 def save_data(data, filename):
     """Save data to JSON file in the data/raw directory"""
-    raw_data_dir = Path("openSourceHealthAnalysis/data/raw")
+    raw_data_dir = Path("data/raw")
     raw_data_dir.mkdir(parents=True, exist_ok=True)
 
-    filepath = raw_data_dir/filename
-    with open(filename, 'w', encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+    filepath = raw_data_dir / filename
+    with open(filepath, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
 
-    print(f"Data saved to {filepath}")
+    print(f"Saved to {filepath}")
 
 
 def main():
@@ -181,7 +181,7 @@ def main():
         return
 
     # Create timestamp for this collection run:
-    timestamp = datetime.now.strftime("%Y%m%d_%H%M%S")
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
 
     # Collect data for each repo:
 
@@ -204,10 +204,10 @@ def main():
         repo_data['info'] = fetch_repo_info(repo)
 
         # fetch issues:
-        repo_data['issues'] = fetch_issues(repo, max_issues=100)
+        repo_data['issues'] = fetch_issues(repo, max_issues=10)
 
         # fetch commits:
-        repo_data['commits'] = fetch_commits(repo, max_commits=100)
+        repo_data['commits'] = fetch_commits(repo, max_commits=10)
 
         # store individual repo data:
         all_data[repo] = repo_data
