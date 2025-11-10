@@ -176,7 +176,7 @@ def main():
 
     # Check rate limit before starting:
     remaining = check_rate_limit()
-    if remainig < 100:
+    if remaining < 100:
         print("Warning: Low rate limit remaining. Consider waiting.")
         return
 
@@ -208,6 +208,11 @@ def main():
 
         # fetch commits:
         repo_data['commits'] = fetch_commits(repo, max_commits=100)
+
+        if not repo_data['issues'] and not repo_data['commits']:
+            print(f"Warning: No data collected for {repo}")
+            print(
+                f"\tIssues: {len(repo_data['issues'])}, Commits: {len(repo_data['commits'])}")
 
         # store individual repo data:
         all_data[repo] = repo_data
