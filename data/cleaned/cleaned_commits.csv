@@ -1,0 +1,1644 @@
+repo_name,sha,author_name,author_email,author_date,committer_name,commit_date,message,message_length
+scikit-learn/scikit-learn,7cf4fcb3d4f73ab4d4284ddb423e23b42cdb8e1f,Christine P. Chai,star1327p@gmail.com,2025-11-10 02:35:49+00:00,GitHub,2025-11-10 02:35:49+00:00,DOC: Improve formatting of `sklearn.mixture` API documentation (#32681),71
+scikit-learn/scikit-learn,4e2f1b7094d27ddca17bee1eee61af2ab20a7d23,Arpan Mukherjee,mukherjeearpan381@gmail.com,2025-11-09 08:01:22+00:00,GitHub,2025-11-09 08:01:22+00:00,DOC Improve load_iris docstring example (#32677),48
+scikit-learn/scikit-learn,6a75463b13351258cb93758ffcd9ccf20c366c04,roychan,roychan@users.noreply.github.com,2025-11-09 06:27:04+00:00,GitHub,2025-11-09 06:27:04+00:00,DOC Fix a typo in plot_calibration_multiclass.py (#32679),57
+scikit-learn/scikit-learn,adca6aedab552925e2689f2a885b0a6e094d1659,Christine P. Chai,star1327p@gmail.com,2025-11-08 09:42:35+00:00,GitHub,2025-11-08 09:42:35+00:00,DOC: Add reference link to LocalOutlierFactor (LOF) (#32674),60
+scikit-learn/scikit-learn,0cf432642e979ab837a40986231972fa38a794a3,Josef Affourtit,josef.affourtit@gmail.com,2025-11-08 04:43:21+00:00,GitHub,2025-11-08 04:43:21+00:00,"Add array API support to `calinski_harabasz_score` (#32600)
+
+Co-authored-by: Omar Salman <omar.salman@arbisoft.com>",115
+scikit-learn/scikit-learn,5d11c04fda4ba10a24a9bc7c0b277cfcc837e032,Christine P. Chai,star1327p@gmail.com,2025-11-08 00:16:43+00:00,GitHub,2025-11-08 00:16:43+00:00,DOC: Correct the typos in a Benchmark file comments (#32672),60
+scikit-learn/scikit-learn,f8108d9993e4e96dd933ff1d88d38a69c2667ba5,Christine P. Chai,star1327p@gmail.com,2025-11-07 20:45:28+00:00,GitHub,2025-11-07 20:45:28+00:00,DOC Correct many typos in code comments (#32666),48
+scikit-learn/scikit-learn,d5396757a97c622908f2649a0c01ecda986a353d,Shruti Nath,51656807+snath-xoc@users.noreply.github.com,2025-11-07 16:26:02+00:00,GitHub,2025-11-07 16:26:02+00:00,"Raise error logreg liblinear (#31888)
+
+Co-authored-by: antoinebaker <antoinebaker@users.noreply.github.com>",107
+scikit-learn/scikit-learn,c8a5f807a365a069b4d96da1a84318ce6253eab7,Tim Head,betatim@gmail.com,2025-11-07 12:13:22+00:00,GitHub,2025-11-07 12:13:22+00:00,"DOC Add ""wikipedia self-edit rule"" to inclusion criteria (#32663)",65
+scikit-learn/scikit-learn,8ab764fa16843d939271aa6b1015993a25b3bb17,Stefanie Senger,91849487+StefanieSenger@users.noreply.github.com,2025-11-06 17:02:18+00:00,GitHub,2025-11-06 17:02:18+00:00,DOC add information on 'needs triage' label in contribution guide (#32574),74
+scikit-learn/scikit-learn,b58306391d99639d5a4c874f1217c5d88ba4dd95,François Goupil,98105626+francoisgoupil@users.noreply.github.com,2025-11-06 13:40:17+00:00,GitHub,2025-11-06 13:40:17+00:00,"DOC Update sponsor page: reorganize sponsors and add BNP Paribas Group (#32642)
+
+Co-authored-by: François Goupil <fanfcorp@users.noreply.github.com>
+Co-authored-by: Loïc Estève <loic.esteve@ymail.com>
+Co-authored-by: Lucy Liu <jliu176@gmail.com>
+Co-authored-by: Tim Head <betatim@gmail.com>",290
+scikit-learn/scikit-learn,8aceace67fa64d898f25726d61f22ca4f5a06359,Tim Head,betatim@gmail.com,2025-11-06 11:01:27+00:00,GitHub,2025-11-06 11:01:27+00:00,"FIX Fix `DecisionTree*` partitioning with missing values present (#32351)
+
+Co-authored-by: Olivier Grisel <olivier.grisel@ensta.org>",132
+scikit-learn/scikit-learn,b1b01a1611e1f5af939e12e070e8bfad17ce25b2,Dmitry Kobak,dmitry.kobak@uni-tuebingen.de,2025-11-06 09:46:39+00:00,GitHub,2025-11-06 09:46:39+00:00,"FEA Add support for arbitrary metrics and informative initialization to MDS (#32229)
+
+Co-authored-by: antoinebaker <antoinebaker@users.noreply.github.com>
+Co-authored-by: Adrin Jalali <adrin.jalali@gmail.com>",208
+scikit-learn/scikit-learn,7df99e5f3825b4aab01cf44833e01ad9d2fa6276,Lucy Liu,jliu176@gmail.com,2025-11-06 09:30:40+00:00,GitHub,2025-11-06 09:30:40+00:00,MNT: Update test names to use `confusion_matrix_at_thresholds` (#32657),71
+scikit-learn/scikit-learn,62b6acde1b5fefb9f7c09b8cf066b0df885896b0,Daniel Herrera-Esposito,dherrera1911@gmail.com,2025-11-06 09:29:24+00:00,GitHub,2025-11-06 09:29:24+00:00,"FIX: Reduce bias of  `covariance.MinCovDet` with consistency correction (#32117)
+
+Co-authored-by: Shruti Nath <51656807+snath-xoc@users.noreply.github.com>",155
+scikit-learn/scikit-learn,985bd88b17ac6766dcda4c8d2031f11dfef6c2f5,Dea María Léon,deamarialeon@gmail.com,2025-11-06 07:10:59+00:00,GitHub,2025-11-06 07:10:59+00:00,CI Update ubuntu_atlas lock file (#32653),41
+scikit-learn/scikit-learn,04972ec5f05d8b0e20a0f990914c14bd638b8eef,Success Moses,syko2021@gmail.com,2025-11-05 13:44:10+00:00,GitHub,2025-11-05 13:44:10+00:00,"FEA add `confusion_matrix_at_thresholds` (#30134)
+
+Co-authored-by: Guillaume Lemaitre <guillaume@probabl.ai>
+Co-authored-by: Adrin Jalali <adrin.jalali@gmail.com>
+Co-authored-by: Jérémie du Boisberranger <jeremie@probabl.ai>
+Co-authored-by: Lucy Liu <jliu176@gmail.com>",269
+scikit-learn/scikit-learn,cc2e1aaf1d662219dfa76ac8481f04163d3a594a,Loïc Estève,loic.esteve@ymail.com,2025-11-05 09:58:18+00:00,GitHub,2025-11-05 09:58:18+00:00,CI Update to macOS-15-intel (#32649),36
+scikit-learn/scikit-learn,c122d53c05d280f5f7be0a2ea2665ab53ba21e97,Dea María Léon,deamarialeon@gmail.com,2025-11-05 09:00:34+00:00,GitHub,2025-11-05 09:00:34+00:00,MAINT Clean up after Python 3.11 bump (#32646),46
+scikit-learn/scikit-learn,80b6512fbf57027a60f20e56d2fa7a578710cf8f,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2025-11-05 06:30:44+00:00,GitHub,2025-11-05 06:30:44+00:00,"Bump the actions group with 5 updates (#32629)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",131
+scikit-learn/scikit-learn,bc40938449495204f04584c729ff8a37fa396b3a,scikit-learn-bot,tjpfdev@gmail.com,2025-11-05 06:14:00+00:00,GitHub,2025-11-05 06:14:00+00:00,":lock: :robot: CI Update lock files for array-api CI build(s) :lock: :robot: (#32636)
+
+Co-authored-by: Lock file bot <noreply@github.com>
+Co-authored-by: Loïc Estève <loic.esteve@ymail.com>",189
+scikit-learn/scikit-learn,42536ba3f61500ecf72cebefe6fbf1f084e902bd,Christine P. Chai,star1327p@gmail.com,2025-11-05 05:03:49+00:00,GitHub,2025-11-05 05:03:49+00:00,DOC: Add Reference links to `CalibratedClassifierCV` API (#32647),65
+scikit-learn/scikit-learn,14162d45062e84a4c93ccbef9edb885585886830,Christine P. Chai,star1327p@gmail.com,2025-11-04 14:03:33+00:00,GitHub,2025-11-04 14:03:33+00:00,"DOC: Move a large part of text comments from code to narrative (#32625)
+
+Co-authored-by: Arturo Amor <86408019+ArturoAmorQ@users.noreply.github.com>",148
+scikit-learn/scikit-learn,eee6582df6f64678c81209037d3800b4f319fb88,Loïc Estève,loic.esteve@ymail.com,2025-11-04 05:45:42+00:00,GitHub,2025-11-04 05:45:42+00:00,MNT Add example dependencies to version bumping script (#32557),63
+scikit-learn/scikit-learn,0ab459649f6804fa17a707ee9a0d733885bbd4ef,Matt J.,matthieu@probabl.ai,2025-11-03 13:26:31+00:00,GitHub,2025-11-03 13:26:31+00:00,"TST Javascript testing using Playwright (#32345)
+
+Co-authored-by: Jérémie du Boisberranger <jeremie@probabl.ai>",111
+scikit-learn/scikit-learn,7d1199b65a340493233558774802d731f846429f,scikit-learn-bot,tjpfdev@gmail.com,2025-11-03 11:24:57+00:00,GitHub,2025-11-03 11:24:57+00:00,":lock: :robot: CI Update lock files for free-threaded CI build(s) :lock: :robot: (#32635)
+
+Co-authored-by: Lock file bot <noreply@github.com>",141
+scikit-learn/scikit-learn,ce27c87947098f01eeaba624cc001c9994c9ec4e,Anne Beyer,anne.beyer@mailbox.org,2025-11-01 08:17:23+00:00,GitHub,2025-11-01 08:17:23+00:00,DOC rename tag to `setup_development_environment` (#32623),58
+scikit-learn/scikit-learn,d41f7340dca3319bba1b3b67659f11769904d7f0,Dea María Léon,deamarialeon@gmail.com,2025-10-31 15:54:00+00:00,GitHub,2025-10-31 15:54:00+00:00,"MAINT Clean-up scipy<1.10 code (#32615)
+
+Co-authored-by: Loïc Estève <loic.esteve@ymail.com>",92
+scikit-learn/scikit-learn,ca39ad1238ac70cb22b80b34566ec56ff5b4a8e0,Omar Salman,omar.salman@arbisoft.com,2025-10-31 10:13:43+00:00,GitHub,2025-10-31 10:13:43+00:00,FEA Add array API support for `cohen_kappa_score` (#32619),58
+scikit-learn/scikit-learn,e40c216e73c34976ba664dcaca0d523df6ddd753,Zubair Shakoor,57657330+zubairshakoorarbisoft@users.noreply.github.com,2025-10-31 09:25:58+00:00,GitHub,2025-10-31 09:25:58+00:00,FEA Add array API support for `laplacian_kernel` (#32613),57
+scikit-learn/scikit-learn,e04f9cb981b202d581bf7843d4fda9cd010e89a9,Daniel Herrera-Esposito,dherrera1911@gmail.com,2025-10-31 09:02:42+00:00,GitHub,2025-10-31 09:02:42+00:00,"ENH: Add `covariance_estimator` to `QuadraticDiscriminantAnalysis` (#32108)
+
+Co-authored-by: Olivier Grisel <olivier.grisel@ensta.org>",134
+scikit-learn/scikit-learn,8728604cfdaa3005b7faddb9fbf26a19bc13033d,Arthur Lacote,arthur.lcte@gmail.com,2025-10-31 08:46:11+00:00,GitHub,2025-10-31 08:46:11+00:00,"PERF: support multiple percentile ranks in input of `_weighted_percentile` (#32538)
+
+Co-authored-by: Olivier Grisel <olivier.grisel@ensta.org>
+Co-authored-by: Lucy Liu <jliu176@gmail.com>",187
+scikit-learn/scikit-learn,c0d52f7119f23d6e6a8d9e5e6050e6adb5206a26,Christine P. Chai,star1327p@gmail.com,2025-10-31 05:25:08+00:00,GitHub,2025-10-31 05:25:08+00:00,DOC: Revise authorship-licensing formatting in Examples (#32568),64
+scikit-learn/scikit-learn,664ec17228e8edd8682b9307d81ca707c697bdff,Lucy Liu,jliu176@gmail.com,2025-10-31 05:18:56+00:00,GitHub,2025-10-31 05:18:56+00:00,DOC Fix comment in `_median` (#32616),37
+scikit-learn/scikit-learn,b4b62d20ae495e614d1e50f2b616c04aadc09c2e,Josef Affourtit,josef.affourtit@gmail.com,2025-10-31 05:11:50+00:00,GitHub,2025-10-31 05:11:50+00:00,"Add array API support to `det_curve` (#32586)
+
+Co-authored-by: Lucy Liu <jliu176@gmail.com>",91
+scikit-learn/scikit-learn,1e9b5234f07216e48d5b0aa2a9d7ee76b6e04682,Olivier Grisel,olivier.grisel@ensta.org,2025-10-31 05:07:22+00:00,GitHub,2025-10-31 05:07:22+00:00,"DOC update and improve the `sample_weight` entry in the glossary (#30564)
+
+Co-authored-by: Gael Varoquaux <gael.varoquaux@normalesup.org>
+Co-authored-by: Stefanie Senger <91849487+StefanieSenger@users.noreply.github.com>
+Co-authored-by: Lucy Liu <jliu176@gmail.com>",265
+scikit-learn/scikit-learn,0f9b6a6c0bbbcbbb7f509016fa1006facfe1ba8d,Loïc Estève,loic.esteve@ymail.com,2025-10-30 14:04:40+00:00,GitHub,2025-10-30 14:04:40+00:00,MNT Remove empty file added by mistake (#32612),47
+scikit-learn/scikit-learn,acd6798d8814048f0073c805f3ceaaa55b51f191,Tim Head,betatim@gmail.com,2025-10-30 13:54:29+00:00,GitHub,2025-10-30 13:54:29+00:00,Tell agents to disclose that they were used (#32584),52
+scikit-learn/scikit-learn,686633a62619890c78e2d40c659275d54df55032,Loïc Estève,loic.esteve@ymail.com,2025-10-30 13:27:55+00:00,GitHub,2025-10-30 13:27:55+00:00,MNT Remove scikit-image from test lock-file (#32610),52
+scikit-learn/scikit-learn,5dede99cc25880fafb80fdf3a6039c18ff82e351,Omar Salman,omar.salman@arbisoft.com,2025-10-30 09:53:11+00:00,GitHub,2025-10-30 09:53:11+00:00,FEA Add array API support for GaussianNB (#32497),49
+scikit-learn/scikit-learn,61e5fc65d1403b2f943a79986c056ae5a39bc7cc,Dea María Léon,deamarialeon@gmail.com,2025-10-30 09:00:31+00:00,GitHub,2025-10-30 09:00:31+00:00,CI Use Python 3.11 in doc_min_dependencies build (#32606),57
+scikit-learn/scikit-learn,da81d965027e95a7cd164a68715c2358242d90ef,Lucy Liu,jliu176@gmail.com,2025-10-30 08:28:49+00:00,GitHub,2025-10-30 08:28:49+00:00,DOC Add class API reference links to `StratifiedGroupKFold` docstring (#32602),78
+scikit-learn/scikit-learn,f267e045a395e5a0253f5e3280c14e2cf14e6dc5,Omar Salman,omar.salman@arbisoft.com,2025-10-30 08:22:03+00:00,GitHub,2025-10-30 08:22:03+00:00,FEA Add array API support for `balanced_accuracy_score` (#32604),64
+scikit-learn/scikit-learn,886829ae577ba7a47307e9cfbe6bcc6118296830,Olivier Grisel,olivier.grisel@ensta.org,2025-10-30 05:06:56+00:00,GitHub,2025-10-30 05:06:56+00:00,FIX remove useless method overrides to fix docstrings (#32607),62
+scikit-learn/scikit-learn,e4a764121c9e26aa116649ab6ecc9b1c14b02d7c,Loïc Estève,loic.esteve@ymail.com,2025-10-29 15:37:36+00:00,GitHub,2025-10-29 15:37:36+00:00,DOC Add changelog about free-threaded support (#32528),54
+scikit-learn/scikit-learn,1eed9d35b1bdf28c153663c994fee1942221857c,Loïc Estève,loic.esteve@ymail.com,2025-10-29 13:45:10+00:00,GitHub,2025-10-29 13:45:10+00:00,CI Move to manylinux_2_28 for Linux wheels (#32603),51
+scikit-learn/scikit-learn,5ced0a03cab3a485fd48e54704117ae970113a71,Dea María Léon,deamarialeon@gmail.com,2025-10-29 12:16:50+00:00,GitHub,2025-10-29 12:16:50+00:00,CI Bump lock files for doc build (#32605),41
+scikit-learn/scikit-learn,560ba4fbf167b1627ba0420b5ee0fa5dda0032d6,Omar Salman,omar.salman@arbisoft.com,2025-10-29 05:13:42+00:00,GitHub,2025-10-29 05:13:42+00:00,"FEA Add array API support for `manhattan_distances` (#32597)
+
+Co-authored-by: Lucy Liu <jliu176@gmail.com>",106
+scikit-learn/scikit-learn,dd5591520330281345076d6587e2ee3429c1b2e7,Loïc Estève,loic.esteve@ymail.com,2025-10-29 02:18:11+00:00,GitHub,2025-10-29 02:18:11+00:00,CI Make 'conda create' command less verbose' (#32596),53
+scikit-learn/scikit-learn,70be2e25e1c5ee6b78d7c065512df3c81ca9a701,pfolch,paufolchcodera@gmail.com,2025-10-29 01:30:21+00:00,GitHub,2025-10-29 01:30:21+00:00,"FIX stratification in StratifiedGroupKFold when shuffle=True (#32540)
+
+Co-authored-by: Olivier Grisel <olivier.grisel@ensta.org>
+Co-authored-by: Lucy Liu <jliu176@gmail.com>",173
+scikit-learn/scikit-learn,729f5331acd0963fb9f3b811cef0f6c554bf57ba,Arthur Lacote,arthur.lcte@gmail.com,2025-10-29 01:21:18+00:00,GitHub,2025-10-29 01:21:18+00:00,TST: Trees: test multi-output with every criterion on toy example (#32575),74
+scikit-learn/scikit-learn,0088b0b485e0f4e775cc6ce94fa5bd557f20db41,Anne Beyer,anne.beyer@mailbox.org,2025-10-28 11:17:17+00:00,GitHub,2025-10-28 11:17:17+00:00,"DOC Clearer linear ""get your development environment"" setup documentation  (#32509)
+
+Co-authored-by: Stefanie Senger <91849487+StefanieSenger@users.noreply.github.com>",167
+scikit-learn/scikit-learn,dd216766cda800c1272c9f334557e824b67af678,Mahi Dhiman,mahidh2005@gmail.com,2025-10-28 10:49:32+00:00,GitHub,2025-10-28 10:49:32+00:00,"DOC Document 'all random seeds' commit marker (#32553)
+
+Co-authored-by: Olivier Grisel <olivier.grisel@ensta.org>
+Co-authored-by: Loïc Estève <loic.esteve@ymail.com>",165
+scikit-learn/scikit-learn,1358f7a87edf7ab6e2498e77a9f4cbd600166a86,Scott Huberty,52462026+scott-huberty@users.noreply.github.com,2025-10-28 04:01:37+00:00,GitHub,2025-10-28 04:01:37+00:00,"FIX, DOC: Replace deprecated matplotlib method in Faces tutorial (#32567)",73
+scikit-learn/scikit-learn,72d97bceec1af70d9b65bb49d12abdd5694e67f1,scikit-learn-bot,tjpfdev@gmail.com,2025-10-27 13:39:41+00:00,GitHub,2025-10-27 13:39:41+00:00,":lock: :robot: CI Update lock files for main CI build(s) :lock: :robot: (#32581)
+
+Co-authored-by: Lock file bot <noreply@github.com>
+Co-authored-by: Olivier Grisel <olivier.grisel@ensta.org>",190
+scikit-learn/scikit-learn,ce655eb1a4c75522875fe301f60db5af95ec34f9,Arthur Lacote,arthur.lcte@gmail.com,2025-10-27 11:10:57+00:00,GitHub,2025-10-27 11:10:57+00:00,MNT: remove workaround for numpy bug fixed in 1.20 (#32577),59
+scikit-learn/scikit-learn,6195659a04a87415d5f3d0cc8730fd9e7c4eebc4,scikit-learn-bot,tjpfdev@gmail.com,2025-10-27 10:04:37+00:00,GitHub,2025-10-27 10:04:37+00:00,":lock: :robot: CI Update lock files for array-api CI build(s) :lock: :robot: (#32580)
+
+Co-authored-by: Lock file bot <noreply@github.com>",137
+scikit-learn/scikit-learn,1e052c48e57a1196868f918e4d88c27075a3b364,scikit-learn-bot,tjpfdev@gmail.com,2025-10-27 10:03:53+00:00,GitHub,2025-10-27 10:03:53+00:00,":lock: :robot: CI Update lock files for scipy-dev CI build(s) :lock: :robot: (#32579)
+
+Co-authored-by: Lock file bot <noreply@github.com>",137
+scikit-learn/scikit-learn,5741bac9a1ccc9c43e3597a796e430ef9eeedc0f,Christine P. Chai,star1327p@gmail.com,2025-10-24 17:22:16+00:00,GitHub,2025-10-24 17:22:16+00:00,DOC: Update the references for Isolation forest (#32554),56
+scikit-learn/scikit-learn,6fedf3469f45ff9f24c714c8d6b150b72a523511,MUHAMMED SINAN D,carreersins@gmail.com,2025-10-24 13:31:20+00:00,GitHub,2025-10-24 13:31:20+00:00,DOC: Fix duplicate words in documentation (#32564),50
+scikit-learn/scikit-learn,f0cce3ad8eb6a293c579fe4a95aedbb60b1780b5,Lucy Liu,jliu176@gmail.com,2025-10-24 07:00:28+00:00,GitHub,2025-10-24 07:00:28+00:00,FIX Infer `pos_label` in Display method `from_cv_results` (#32372),66
+scikit-learn/scikit-learn,8d4fc4a85cde93a0502909fdccec1b807d903a38,Dea María Léon,deamarialeon@gmail.com,2025-10-23 15:50:46+00:00,GitHub,2025-10-23 15:50:46+00:00,"MNT Bump to Python 3.11 for remaining pymin CI builds (#32555)
+
+Co-authored-by: Loïc Estève <loic.esteve@ymail.com>",115
+scikit-learn/scikit-learn,081dffd88dde7195261f020b62bdfd2d0eb56305,Thomas S.,thomas@probabl.ai,2025-10-23 15:49:06+00:00,GitHub,2025-10-23 15:49:06+00:00,"CI Handle `[all random seeds]` commit marker in GHA (#32505)
+
+Co-authored-by: Loïc Estève <loic.esteve@ymail.com>",113
+scikit-learn/scikit-learn,eaab848275da772e4295d57c0c263d9cd39e1417,achyuthan.s,113010327+Achyuthan-S@users.noreply.github.com,2025-10-23 15:15:35+00:00,GitHub,2025-10-23 15:15:35+00:00,DOC: Clarify recommended usage of fit_transform() vs fit().transform() in TargetEncoder (#32347),96
+scikit-learn/scikit-learn,3eb55e2a8c5303aa24237654997245315cb0471d,Loïc Estève,loic.esteve@ymail.com,2025-10-23 11:47:58+00:00,GitHub,2025-10-23 11:47:58+00:00,MNT Remove tomli additional dependency from .pre-commit.yaml (#32550),69
+scikit-learn/scikit-learn,4f8ed074ca1ccbcbe62498fc9c0e5c553d91306e,Omar Salman,omar.salman@arbisoft.com,2025-10-23 11:34:24+00:00,GitHub,2025-10-23 11:34:24+00:00,"FEA Add array API support for temperature scaling in CalibratedClassifierCV (#32246)
+
+Co-authored-by: Lucy Liu <jliu176@gmail.com>",130
+scikit-learn/scikit-learn,f1261a9356fe4519ac25af3a2e2b7ec31de3be96,Nitin Pratap Singh,152788570+Nitin-Prata@users.noreply.github.com,2025-10-22 15:13:13+00:00,GitHub,2025-10-22 15:13:13+00:00,MNT Use const for DEFAULT_SEED in _random.pxd (#32537),54
+scikit-learn/scikit-learn,a3a3b5ad15c7566746288ed32d9875cd8542db95,scikit-learn-bot,tjpfdev@gmail.com,2025-10-21 16:22:24+00:00,GitHub,2025-10-21 16:22:24+00:00,":lock: :robot: CI Update lock files for scipy-dev CI build(s) :lock: :robot: (#32542)
+
+Co-authored-by: Lock file bot <noreply@github.com>
+Co-authored-by: Olivier Grisel <olivier.grisel@ensta.org>",195
+scikit-learn/scikit-learn,7211ee4dc422dd9fc8ed380fd7523f78257cacb4,François Paugam,35327799+FrancoisPgm@users.noreply.github.com,2025-10-21 16:18:19+00:00,GitHub,2025-10-21 16:18:19+00:00,MNT Clean up deprecations for 1.8: fit_params (#32521),54
+scikit-learn/scikit-learn,597646a32b8b8737ee1e0a566186307d336ac461,Guillaume Lemaitre,guillaume@probabl.ai,2025-10-21 16:10:06+00:00,GitHub,2025-10-21 16:10:06+00:00,"MAINT add jupyter extension and pre-commit in devcontainer (#32342)
+
+Co-authored-by: Loïc Estève <loic.esteve@ymail.com>",120
+scikit-learn/scikit-learn,b65c6f0b9f40ebdbe9e44007f8387f9d145abaee,Guillaume Lemaitre,guillaume@probabl.ai,2025-10-21 13:57:22+00:00,GitHub,2025-10-21 13:57:22+00:00,DOC update the list of scikit-learn members (#32548),52
+scikit-learn/scikit-learn,f5511be2376a86b92c36d776e43a687a7bf9a2f6,Stefanie Senger,91849487+StefanieSenger@users.noreply.github.com,2025-10-21 08:56:55+00:00,GitHub,2025-10-21 08:56:55+00:00,MNT bump to Python 3.11 for `pymin_conda_forge_openblas_min_dependencies` (#32530),82
+scikit-learn/scikit-learn,7f91c8fa00271785ab94a4cf50c96344a0d0030a,Zubair Shakoor,57657330+zubairshakoorarbisoft@users.noreply.github.com,2025-10-20 16:16:40+00:00,GitHub,2025-10-20 16:16:40+00:00,"MNT: Replace internal _searchsorted helper with api xp.searchsorted support (#32547)
+
+Co-authored-by: Zubair Shakoor <zubair.shakoor@A006-00863.local>",150
+scikit-learn/scikit-learn,f498ff2f1b9a8c0602823eef19882d970c50145d,Loïc Estève,loic.esteve@ymail.com,2025-10-20 14:18:36+00:00,GitHub,2025-10-20 14:18:36+00:00,MNT Fix 'make clean' for free-threaded Python (#32531),54
+scikit-learn/scikit-learn,e44838d8c85a8063df9803924358f26bd985fef6,Olivier Grisel,olivier.grisel@ensta.org,2025-10-20 13:48:35+00:00,GitHub,2025-10-20 13:48:35+00:00,MNT Fix pandas 3 `select_dtypes` warning (#32545),49
+scikit-learn/scikit-learn,e2d44a25905ccf9235038a32745482c0f417b254,Xiao Yuan,yuanx749@gmail.com,2025-10-20 13:45:42+00:00,GitHub,2025-10-20 13:45:42+00:00,DOC: Fix typo in LatentDirichletAllocation user guide (#32539),62
+scikit-learn/scikit-learn,12a04b6c531fd1349fe68f8da07533c784eaf132,François Paugam,35327799+FrancoisPgm@users.noreply.github.com,2025-10-20 12:17:22+00:00,GitHub,2025-10-20 12:17:22+00:00,MNT Clean up deprecations for 1.8: base_estimator arg in SelfTrainingClassifier (#32524),88
+scikit-learn/scikit-learn,43c5887114a1d8999d411ae2eb99bc039852954d,François Paugam,35327799+FrancoisPgm@users.noreply.github.com,2025-10-20 12:16:00+00:00,GitHub,2025-10-20 12:16:00+00:00,MNT Clean up deprecations for 1.8: generate_only in check_estimator (#32525),76
+scikit-learn/scikit-learn,6a406603fc0728deb67f402ad910c4449d4ea876,François Paugam,35327799+FrancoisPgm@users.noreply.github.com,2025-10-20 12:14:25+00:00,GitHub,2025-10-20 12:14:25+00:00,MNT Clean up deprecations for 1.8: _estimator_html_repr (#32527),64
+scikit-learn/scikit-learn,c932a1ccdb49cfff1b957498a74632b57365c600,scikit-learn-bot,tjpfdev@gmail.com,2025-10-20 08:12:08+00:00,GitHub,2025-10-20 08:12:08+00:00,":lock: :robot: CI Update lock files for free-threaded CI build(s) :lock: :robot: (#32541)
+
+Co-authored-by: Lock file bot <noreply@github.com>",141
+scikit-learn/scikit-learn,de4fb46086f003bf6978d36c11053521ca32e047,scikit-learn-bot,tjpfdev@gmail.com,2025-10-20 08:11:50+00:00,GitHub,2025-10-20 08:11:50+00:00,":lock: :robot: CI Update lock files for array-api CI build(s) :lock: :robot: (#32543)
+
+Co-authored-by: Lock file bot <noreply@github.com>",137
+scikit-learn/scikit-learn,661959893e3f204815afc8abf5e031bd56edec34,scikit-learn-bot,tjpfdev@gmail.com,2025-10-20 08:11:05+00:00,GitHub,2025-10-20 08:11:05+00:00,":lock: :robot: CI Update lock files for main CI build(s) :lock: :robot: (#32544)
+
+Co-authored-by: Lock file bot <noreply@github.com>",132
+scikit-learn/scikit-learn,428a8cbdcbc0241c40209ac68653ac11b9e9e505,Andrés H. Zapke,41900951+Microcosmos22@users.noreply.github.com,2025-10-18 13:01:57+00:00,GitHub,2025-10-18 13:01:57+00:00,FIX Substitute validate_data when both _check_feature_names and _check_n_features are used (#32481),99
+scikit-learn/scikit-learn,e409401e6a7c1431b0e3ba38b58adea41c197219,Christine P. Chai,star1327p@gmail.com,2025-10-18 06:26:03+00:00,GitHub,2025-10-18 06:26:03+00:00,DOC: Remove 'print(__doc__)' in scikit-learn examples (#32529),62
+scikit-learn/scikit-learn,baf965de6b054b9161f1439744d402b57ec732c1,Dea María Léon,deamarialeon@gmail.com,2025-10-17 14:13:12+00:00,GitHub,2025-10-17 14:13:12+00:00,CI Remove python 3.10 wheels (#32522),37
+scikit-learn/scikit-learn,7d8b4396a133127b6fa9780915bb3545a53603d0,Kenneth Enevoldsen,kenevoldsen@pm.me,2025-10-17 14:11:19+00:00,GitHub,2025-10-17 14:11:19+00:00,"DOC Add reference to OpenMP parallelism in MiniBatchKMeans doc (#32520)
+
+Co-authored-by: Loïc Estève <loic.esteve@ymail.com>",124
+scikit-learn/scikit-learn,c6b547c57e79cb72bb19b5e032ad2a2f028bdfea,Matt J.,matthieu@probabl.ai,2025-10-17 12:14:54+00:00,GitHub,2025-10-17 12:14:54+00:00,FIX Guess theme based on estimator parent node color (#32477),61
+scikit-learn/scikit-learn,56c74de012ab2c464824938b455e370fd58a34ed,Olivier Grisel,olivier.grisel@ensta.org,2025-10-17 10:08:15+00:00,GitHub,2025-10-17 10:08:15+00:00,Fix pandas warning for pandas 3.0 (#32523),42
+scikit-learn/scikit-learn,a9b3898e56c9e97b63d4699160b1de440e3f2947,Christine P. Chai,star1327p@gmail.com,2025-10-17 07:09:21+00:00,GitHub,2025-10-17 07:09:21+00:00,DOC Add cross-refs to references in examples (#32514),53
+scikit-learn/scikit-learn,6e222813b8f84621f9c98f2fcf496fa53f607007,Thomas S.,th.salvatore@gmail.com,2025-10-16 15:17:49+00:00,GitHub,2025-10-16 15:17:49+00:00,CI Set `COMMIT_MESSAGE` to allow commit markers detection in `unit-tests.yml` (#32501),86
+scikit-learn/scikit-learn,0c27a07f68e0eda7e1fcbce44a7615addec7f232,Arturo Amor,86408019+ArturoAmorQ@users.noreply.github.com,2025-10-16 06:53:51+00:00,GitHub,2025-10-16 06:53:51+00:00,DOC Clarify splitter criteria in Random Forest and Decision Tree (#32416),73
+scikit-learn/scikit-learn,796de8ea12f98e74e79242babe31a3692472e69c,Dea María Léon,deamarialeon@gmail.com,2025-10-15 16:23:44+00:00,GitHub,2025-10-15 16:23:44+00:00,CI Update test file regex for check-changelog.yml rule (#32507),63
+scikit-learn/scikit-learn,90ef87a79e959dd6969bc67c2ef1cbb65a11389d,Olivier Grisel,olivier.grisel@ensta.org,2025-10-14 16:57:20+00:00,GitHub,2025-10-14 16:57:20+00:00,Fix `cython-lint` reported problem in `sklearn/cluster/_hdbscan/_tree.pyx` (#32499),83
+scikit-learn/scikit-learn,38a5ab4d4841effc258142e148fcf8a3df809dd3,Christine P. Chai,star1327p@gmail.com,2025-10-14 12:54:12+00:00,GitHub,2025-10-14 12:54:12+00:00,DOC Correct typos and format issues in examples (#32494),56
+scikit-learn/scikit-learn,79c11ad64d67fd8dd3ea7f59f8d1b876b4385f18,Anne Beyer,anne.beyer@mailbox.org,2025-10-14 09:56:49+00:00,GitHub,2025-10-14 09:56:49+00:00,DOC make build instructions more coherent in `doc/developers/advanced_installation.rst` (#32343),96
+scikit-learn/scikit-learn,bde39c1afc8de16ff50ff743b40b89acfd44dd4c,Loïc Estève,loic.esteve@ymail.com,2025-10-13 15:45:19+00:00,GitHub,2025-10-13 15:45:19+00:00,CI Do not close automated wheels issue when tests pass (#32493),63
+scikit-learn/scikit-learn,5f1491a703ce531a2db45adc7d8fcec5493cdf99,Jérôme Dockès,jerome@dockes.org,2025-10-13 15:41:02+00:00,GitHub,2025-10-13 15:41:02+00:00,"Add support for array API to RidgeCV, RidgeClassifier and RidgeClassifierCV (#27961)
+
+Co-authored-by: Olivier Grisel <olivier.grisel@ensta.org>
+Co-authored-by: Omar Salman <omar.salman@arbisoft.com>",198
+scikit-learn/scikit-learn,7b7ba5e93f19e515e00840f491c8ea1f24115154,scikit-learn-bot,tjpfdev@gmail.com,2025-10-13 15:04:15+00:00,GitHub,2025-10-13 15:04:15+00:00,":lock: :robot: CI Update lock files for main CI build(s) :lock: :robot: (#32486)
+
+Co-authored-by: Lock file bot <noreply@github.com>
+Co-authored-by: Olivier Grisel <olivier.grisel@ensta.org>",190
+scikit-learn/scikit-learn,fdeeda1550fea670cc216fb6b07f80846fa4a164,Marco Edward Gorelli,33491632+MarcoGorelli@users.noreply.github.com,2025-10-13 12:22:14+00:00,GitHub,2025-10-13 12:22:14+00:00,"MNT Enforce `--ban-relative-imports` in cython-lint (#32489)
+
+Co-authored-by: Loïc Estève <loic.esteve@ymail.com>",113
+scikit-learn/scikit-learn,eab19cb0d57262e41cc5f7ed647d2004d90b039e,Olivier Grisel,olivier.grisel@ensta.org,2025-10-13 12:11:10+00:00,GitHub,2025-10-13 12:11:10+00:00,MAINT remove the conda-forge/label/python_rc from the free-threaded lock file config (#32488),93
+mlflow/mlflow,af03190591016eb2d9561b5af83227ebe0756fdd,Serena Ruan,82044803+serena-ruan@users.noreply.github.com,2025-11-10 07:01:36+00:00,GitHub,2025-11-10 07:01:36+00:00,"Add GetTrace proto (#18555)
+
+Signed-off-by: Serena Ruan <serena.rxy@gmail.com>",78
+mlflow/mlflow,9a3591e90e11f4a02cbe459c835c798a3f1f90bc,kingroryg,sarthakmunshi@gmail.com,2025-11-10 06:31:52+00:00,GitHub,2025-11-10 06:31:52+00:00,"Added bucket-ownership checks for Amazon S3 (#18542)
+
+Signed-off-by: Sarthak Munshi <smunshii@amazon.com>
+Signed-off-by: harupy <17039389+harupy@users.noreply.github.com>
+Co-authored-by: Sarthak Munshi <smunshii@amazon.com>
+Co-authored-by: harupy <17039389+harupy@users.noreply.github.com>
+Co-authored-by: Claude <noreply@anthropic.com>",336
+mlflow/mlflow,b98e6247e0e6a69ade11a6c9cd62cbcf6282138e,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-10 05:49:48+00:00,GitHub,2025-11-10 05:49:48+00:00,"Clarify mlflow gc command behavior for pinned runs and registered models (#18704)
+
+Signed-off-by: harupy <17039389+harupy@users.noreply.github.com>
+Signed-off-by: Harutaka Kawamura <hkawamura0130@gmail.com>
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com>
+Co-authored-by: harupy <17039389+harupy@users.noreply.github.com>
+Co-authored-by: Claude <noreply@anthropic.com>
+Co-authored-by: Harutaka Kawamura <hkawamura0130@gmail.com>
+Co-authored-by: Yuki Watanabe <31463517+B-Step62@users.noreply.github.com>",538
+mlflow/mlflow,414072546a06fc9430d77d708de889fec89d09f4,Harutaka Kawamura,hkawamura0130@gmail.com,2025-11-10 05:11:54+00:00,GitHub,2025-11-10 05:11:54+00:00,"Improve cherry-pick warning message for better clarity (#18756)
+
+Signed-off-by: harupy <17039389+harupy@users.noreply.github.com>
+Co-authored-by: Claude <noreply@anthropic.com>",176
+mlflow/mlflow,fecb077f5465cc18353c93cec8a72d7b4f5c57d6,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-08 08:53:19+00:00,GitHub,2025-11-08 08:53:19+00:00,"Add pyspark and OpenTelemetry OTLP exporters to test dependencies (#18606)
+
+Signed-off-by: harupy <17039389+harupy@users.noreply.github.com>
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com>
+Co-authored-by: harupy <17039389+harupy@users.noreply.github.com>
+Co-authored-by: Harutaka Kawamura <hkawamura0130@gmail.com>",350
+mlflow/mlflow,84dd462ce41a9b13297c2f9df3aed0ebbf411634,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-08 04:07:44+00:00,GitHub,2025-11-08 04:07:44+00:00,"Pin click!=8.3.0 in mcp extra to fix MCP server failure (#18748)
+
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com>
+Co-authored-by: harupy <17039389+harupy@users.noreply.github.com>",215
+mlflow/mlflow,7dc7298f96ec7a477987b79f4eb6c6c26ac4b40c,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-08 04:06:36+00:00,GitHub,2025-11-08 04:06:36+00:00,"Upgrade uv to 0.9.8 and exclude databricks-connect (#18746)
+
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com>
+Co-authored-by: harupy <17039389+harupy@users.noreply.github.com>",210
+mlflow/mlflow,9747143054e1a6ff197ec3576d2a4b536efeef80,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-08 01:49:00+00:00,GitHub,2025-11-08 01:49:00+00:00,"Fix MCP server uv installation command for external users (#18745)
+
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com>
+Co-authored-by: harupy <17039389+harupy@users.noreply.github.com>",217
+mlflow/mlflow,54dbdbbe5557486460fceb6a3922608f58f33fc9,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-08 00:16:27+00:00,GitHub,2025-11-08 00:16:27+00:00,"Fix prettier formatting in CHANGELOG.md (#18743)
+
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com>
+Co-authored-by: harupy <17039389+harupy@users.noreply.github.com>",199
+mlflow/mlflow,c207871f5ef0793d7f29f7a07c57dff4e7b0b58f,mlflow-app[bot],191841109+mlflow-app[bot]@users.noreply.github.com,2025-11-07 18:18:43+00:00,GitHub,2025-11-07 18:18:43+00:00,"Run `python3 dev/update_changelog.py --prev-version 3.5...` (#18739)
+
+Signed-off-by: mlflow-app[bot] <mlflow-app[bot]@users.noreply.github.com>
+Signed-off-by: B-Step62 <yuki.watanabe@databricks.com>
+Co-authored-by: mlflow-app[bot] <mlflow-app[bot]@users.noreply.github.com>
+Co-authored-by: B-Step62 <yuki.watanabe@databricks.com>",329
+mlflow/mlflow,b39e1a8b6f12704638504747a164649fcff9aacd,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-07 16:00:01+00:00,GitHub,2025-11-07 16:00:01+00:00,"Restore subprocess timeout fix in test_plugin_validation.py (#18732)
+
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com>
+Co-authored-by: harupy <17039389+harupy@users.noreply.github.com>",219
+mlflow/mlflow,71256a360d12e973db3e915821b33b516d4d219c,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-07 15:14:59+00:00,GitHub,2025-11-07 15:14:59+00:00,"Add guidance comments to PR template encouraging compact descriptions (#18737)
+
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com>
+Co-authored-by: harupy <17039389+harupy@users.noreply.github.com>",229
+mlflow/mlflow,09016a75b7ba07434b3272ebb3e8bd13776a3fea,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-07 13:51:22+00:00,GitHub,2025-11-07 13:51:22+00:00,"Migrate lightweight GitHub Actions jobs to ubuntu-slim runners (#18736)
+
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com>
+Co-authored-by: harupy <17039389+harupy@users.noreply.github.com>",222
+mlflow/mlflow,d730991ffd29970475907f13aaf359e1da042888,Yuki Watanabe,31463517+B-Step62@users.noreply.github.com,2025-11-07 10:28:21+00:00,GitHub,2025-11-07 10:28:21+00:00,"Add chat conversion for Otel GenAI Semconv (#18731)
+
+Signed-off-by: B-Step62 <yuki.watanabe@databricks.com>",107
+mlflow/mlflow,44ea8c33090ba6718d84de8307fef373e8a4c986,Yuki Watanabe,31463517+B-Step62@users.noreply.github.com,2025-11-07 09:53:04+00:00,GitHub,2025-11-07 09:53:04+00:00,"Fix eval result button link (#18667)
+
+Signed-off-by: B-Step62 <yuki.watanabe@databricks.com>",92
+mlflow/mlflow,a595c1e257c20f52708a9d2af3734ef027a5ff95,Roberto Barroso-Luque,34043109+RobertoBarrosoLuque@users.noreply.github.com,2025-11-07 09:52:58+00:00,GitHub,2025-11-07 09:52:58+00:00,"Add FireworksAI to Model Providers Tracing Integrations (#18678)
+
+Signed-off-by: RobertoBarrosoLuque <34043109+RobertoBarrosoLuque@users.noreply.github.com>
+Signed-off-by: B-Step62 <yuki.watanabe@databricks.com>
+Co-authored-by: Yuki Watanabe <31463517+B-Step62@users.noreply.github.com>
+Co-authored-by: B-Step62 <yuki.watanabe@databricks.com>",342
+mlflow/mlflow,c4d75173be193005b0df4c4c2514bf171e8190e4,Serena Ruan,82044803+serena-ruan@users.noreply.github.com,2025-11-07 08:17:34+00:00,GitHub,2025-11-07 08:17:34+00:00,"Search traces docs update (#18687)
+
+Signed-off-by: Serena Ruan <serena.rxy@gmail.com>",85
+mlflow/mlflow,fc5b06f3393c931f607330cfea181fdd73fe918d,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-07 07:56:45+00:00,GitHub,2025-11-07 07:56:45+00:00,"Add change type indicators to documentation preview comments (#18729)
+
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com>
+Co-authored-by: harupy <17039389+harupy@users.noreply.github.com>",220
+mlflow/mlflow,fccad9897bda856a3b2405bf2a6211c68579a087,Yuki Watanabe,31463517+B-Step62@users.noreply.github.com,2025-11-07 06:51:33+00:00,GitHub,2025-11-07 06:51:33+00:00,"Add back eval result table (#18666)
+
+Signed-off-by: B-Step62 <yuki.watanabe@databricks.com>",91
+mlflow/mlflow,9160b611d38a42e7d5e1fc69679baa25a487f816,Bryan Qiu,55931436+bbqiu@users.noreply.github.com,2025-11-07 06:21:45+00:00,GitHub,2025-11-07 06:21:45+00:00,"[ML-59128] Docs: Agent Server Introduction (#18725)
+
+Signed-off-by: bbqiu <bryan.qiu@databricks.com>
+Signed-off-by: Serena Ruan <82044803+serena-ruan@users.noreply.github.com>
+Co-authored-by: Serena Ruan <82044803+serena-ruan@users.noreply.github.com>",251
+mlflow/mlflow,58efa71ee8afbcc3d0d393610ff2b417dbf7516f,Yuki Watanabe,31463517+B-Step62@users.noreply.github.com,2025-11-07 06:05:57+00:00,GitHub,2025-11-07 06:05:57+00:00,"Fix otel endpoint in the doc (#18728)
+
+Signed-off-by: B-Step62 <yuki.watanabe@databricks.com>",93
+mlflow/mlflow,a419a463de11204b2e50eeac6af4f80b23547085,Serena Ruan,82044803+serena-ruan@users.noreply.github.com,2025-11-07 05:50:52+00:00,GitHub,2025-11-07 05:50:52+00:00,"Support more attributes translation and fix serialization (#18661)
+
+Signed-off-by: Serena Ruan <serena.rxy@gmail.com>",117
+mlflow/mlflow,52d539784a68315ddb0869364c145ab776390bff,Daniel Lok,daniel.lok@databricks.com,2025-11-07 05:14:37+00:00,GitHub,2025-11-07 05:14:37+00:00,"Update navbar header to match mocks (#18714)
+
+Signed-off-by: Daniel Lok <daniel.lok@databricks.com>",99
+mlflow/mlflow,5bf76d7bf2bf90eb23e34dbfdbdb8ef077f7dc91,Yuki Watanabe,31463517+B-Step62@users.noreply.github.com,2025-11-07 05:11:14+00:00,GitHub,2025-11-07 05:11:14+00:00,"Organize tracing integration side bar (#18692)
+
+Signed-off-by: B-Step62 <yuki.watanabe@databricks.com>",102
+mlflow/mlflow,e14fe3fe342477cd159c6d7d70b6a1e89a7a6901,Yuki Watanabe,31463517+B-Step62@users.noreply.github.com,2025-11-07 03:58:32+00:00,GitHub,2025-11-07 03:58:32+00:00,"Add documentation for new tracing integrations (Otel) (#18691)
+
+Signed-off-by: B-Step62 <yuki.watanabe@databricks.com>
+Signed-off-by: Yuki Watanabe <31463517+B-Step62@users.noreply.github.com>",192
+mlflow/mlflow,dfb984bd143021a3a9379a41faa0f0ea6524c96e,Harutaka Kawamura,hkawamura0130@gmail.com,2025-11-07 03:55:43+00:00,GitHub,2025-11-07 03:55:43+00:00,"Skip `_raise_if_prompt` for Unity Catalog tag operations (#18707)
+
+Signed-off-by: harupy <17039389+harupy@users.noreply.github.com>",131
+mlflow/mlflow,171701191f0cf83296ae97c7328688830572e49e,Alkis Polyzotis,80279913+alkispoly-db@users.noreply.github.com,2025-11-07 03:32:25+00:00,GitHub,2025-11-07 03:32:25+00:00,"Fix incorrect LangGraph autolog API in UI documentation (#18726)
+
+Signed-off-by: Alkis Polyzotis <alkis.polyzotis@databricks.com>",129
+mlflow/mlflow,45d822c49410993b2d0f74c5a6f1ae35076819e4,Ben Wilson,39283302+BenWilson2@users.noreply.github.com,2025-11-07 01:39:15+00:00,GitHub,2025-11-07 01:39:15+00:00,"Fix return handling for scorer utils (#18702)
+
+Signed-off-by: Ben Wilson <benjamin.wilson@databricks.com>
+Co-authored-by: Claude <noreply@anthropic.com>",152
+mlflow/mlflow,59ccb005cff06cc3bd535e409e52585ecbcb00e6,Ben Wilson,39283302+BenWilson2@users.noreply.github.com,2025-11-07 01:33:43+00:00,GitHub,2025-11-07 01:33:43+00:00,"Move import tests to a distinct suite (#18642)
+
+Signed-off-by: Ben Wilson <benjamin.wilson@databricks.com>
+Signed-off-by: Ben Wilson <39283302+BenWilson2@users.noreply.github.com>",179
+mlflow/mlflow,2905e4972adf12a7214458ea25960927b1d95e3b,Daniel Lok,daniel.lok@databricks.com,2025-11-07 00:57:53+00:00,GitHub,2025-11-07 00:57:53+00:00,"[Sessions UI] Update empty state (#18708)
+
+Signed-off-by: Daniel Lok <daniel.lok@databricks.com>",96
+mlflow/mlflow,7b3f8b937acb50b3cc0f7f66220d40bdf9981a5f,Serena Ruan,82044803+serena-ruan@users.noreply.github.com,2025-11-07 00:57:44+00:00,GitHub,2025-11-07 00:57:44+00:00,"Fix async generator handling in LlamaIndex tracer (#18504)
+
+Signed-off-by: Serena Ruan <serena.rxy@gmail.com>
+Co-authored-by: Claude <noreply@anthropic.com>",156
+mlflow/mlflow,13dcfa5b8b653791242855eac8b950881a6b2bb2,Samraj Moorjani,samrajmoorjani@gmail.com,2025-11-07 00:44:21+00:00,GitHub,2025-11-07 00:44:21+00:00,"Update make judge documentation to avoid anti-patterns and add agent-as-a-judge (#18723)
+
+Signed-off-by: Samraj Moorjani <samraj.moorjani@databricks.com>",153
+mlflow/mlflow,448a622eb1ee14b6b25a002c954c0c7dce4976af,Yuki Watanabe,31463517+B-Step62@users.noreply.github.com,2025-11-06 23:33:46+00:00,GitHub,2025-11-06 23:33:46+00:00,"Hide top-level side nav while opening an experiment (#18705)
+
+Signed-off-by: B-Step62 <yuki.watanabe@databricks.com>",116
+mlflow/mlflow,f164925a00fc25c26ba3321f92c6179829e2ff60,Samraj Moorjani,samrajmoorjani@gmail.com,2025-11-06 23:05:57+00:00,GitHub,2025-11-06 23:05:57+00:00,"Agent-as-a-judge support for default Databricks endpoint (#18709)
+
+Signed-off-by: Samraj Moorjani <samraj.moorjani@databricks.com>",130
+mlflow/mlflow,3a2ee2d771d514f2af0960f1ddcf62e5fbdf282e,Samraj Moorjani,samrajmoorjani@gmail.com,2025-11-06 21:03:23+00:00,GitHub,2025-11-06 21:03:23+00:00,"Refactor Judge utils (#18622)
+
+Signed-off-by: Samraj Moorjani <samraj.moorjani@databricks.com>",94
+mlflow/mlflow,12085ed984957ef419109aeeac3c0f26ae07f668,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-06 15:40:31+00:00,GitHub,2025-11-06 15:40:31+00:00,"Allow GitHub Copilot bot to use /resolve and /review commands (#18718)
+
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com>
+Co-authored-by: harupy <17039389+harupy@users.noreply.github.com>
+Co-authored-by: Harutaka Kawamura <hkawamura0130@gmail.com>",281
+mlflow/mlflow,3ea18d0453b48e0e5d2b703693b4012593f6a3ef,mlflow-app[bot],191841109+mlflow-app[bot]@users.noreply.github.com,2025-11-06 14:29:51+00:00,GitHub,2025-11-06 14:29:51+00:00,"Update `uv.lock` (#18719)
+
+Signed-off-by: mlflow-app[bot] <mlflow-app[bot]@users.noreply.github.com>
+Co-authored-by: mlflow-app[bot] <mlflow-app[bot]@users.noreply.github.com>",175
+mlflow/mlflow,5a24882b1b153076cf62e05ffa64716c29aa4177,Harutaka Kawamura,hkawamura0130@gmail.com,2025-11-06 08:58:29+00:00,GitHub,2025-11-06 08:58:29+00:00,"Add Code Style Principles section to CLAUDE.md (#18713)
+
+Signed-off-by: harupy <17039389+harupy@users.noreply.github.com>
+Co-authored-by: Claude <noreply@anthropic.com>",168
+mlflow/mlflow,408ea4bab0abf59f95993ba538c2a019d455feee,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-06 06:29:14+00:00,GitHub,2025-11-06 06:29:14+00:00,"Filter out cancelled workflow runs in protect.js (#18703)
+
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com>
+Co-authored-by: harupy <17039389+harupy@users.noreply.github.com>",208
+mlflow/mlflow,cb1fcc119c27a2ef5f31ea6440a4eae8874c3476,Daniel Lok,daniel.lok@databricks.com,2025-11-06 05:50:56+00:00,GitHub,2025-11-06 05:50:56+00:00,"[Side nav] Preserve query param state when navigating (#18679)
+
+Signed-off-by: Daniel Lok <daniel.lok@databricks.com>",117
+mlflow/mlflow,33e1690b1813eb278c4ac44285d3db42343ab13d,Yuki Watanabe,31463517+B-Step62@users.noreply.github.com,2025-11-06 05:27:26+00:00,GitHub,2025-11-06 05:27:26+00:00,"Add new TS/JS integration docs (#18690)
+
+Signed-off-by: B-Step62 <yuki.watanabe@databricks.com>",95
+mlflow/mlflow,c34a9bd764bfdfe9e841f7f77e4a4f830d3b309b,Daniel Lok,daniel.lok@databricks.com,2025-11-06 05:18:37+00:00,GitHub,2025-11-06 05:18:37+00:00,"[Sessions UI] Improve rendering for chat turns without messages (#18681)
+
+Signed-off-by: Daniel Lok <daniel.lok@databricks.com>",127
+mlflow/mlflow,eb5c558788465419b0dc4cf687a57b29a92f49b0,Daniel Lok,daniel.lok@databricks.com,2025-11-06 05:13:28+00:00,GitHub,2025-11-06 05:13:28+00:00,[Sessions UI Columns][5/5] Persist column selection state (#18660),66
+mlflow/mlflow,15fa6b1f35d04e8d2ea2b0a762738bf0f04dbc9e,Daniel Lok,daniel.lok@databricks.com,2025-11-06 03:06:04+00:00,GitHub,2025-11-06 03:06:04+00:00,[Sessions UI Columns][4/5] Add token count and turn count columns (#18659),74
+mlflow/mlflow,f5c0269cbe32fc79647ebfa7d2d41a036d1663f5,Daniel Lok,daniel.lok@databricks.com,2025-11-06 03:00:25+00:00,GitHub,2025-11-06 03:00:25+00:00,"[Sessions UI] Link session ID column in main traces table to session view (#18664)
+
+Signed-off-by: Daniel Lok <daniel.lok@databricks.com>",137
+mlflow/mlflow,da3933e4f97ae2e12983f026e055deb89677ea42,Daniel Lok,daniel.lok@databricks.com,2025-11-06 01:19:01+00:00,GitHub,2025-11-06 01:19:01+00:00,[Sessions UI Columns][3/5] Add column selector and sorting (#18658),67
+mlflow/mlflow,4a2518c4b2ea35ca5262fcf15cb0d996106ca850,Daniel Lok,daniel.lok@databricks.com,2025-11-06 00:40:51+00:00,GitHub,2025-11-06 00:40:51+00:00,"Bump version of react-router-dom (#18689)
+
+Signed-off-by: Daniel Lok <daniel.lok@databricks.com>",96
+mlflow/mlflow,e692cb08ba08a90f139c749390a83ad1b6328dcf,TomuHirata,tomu.hirata@gmail.com,2025-11-05 23:31:22+00:00,GitHub,2025-11-05 23:31:22+00:00,"Revise prompt optimization documentation for clarity (#18579)
+
+Signed-off-by: Tomu Hirata <tomu.hirata@gmail.com>",113
+mlflow/mlflow,191727890a5d1ed3c135c79e379ff9c879533eac,Corey Zumar,39497902+dbczumar@users.noreply.github.com,2025-11-05 22:52:17+00:00,GitHub,2025-11-05 22:52:17+00:00,"UI: Support filtering by span content / type / name (#18683)
+
+Signed-off-by: dbczumar <corey.zumar@databricks.com>",114
+mlflow/mlflow,a6f99b24df6526cca77d643db9b546d2f81a1566,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-05 15:36:15+00:00,GitHub,2025-11-05 15:36:15+00:00,"Fix rerun-workflow-run concurrency to prevent cross-PR cancellation (#18693)
+
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com>
+Co-authored-by: harupy <17039389+harupy@users.noreply.github.com>",227
+mlflow/mlflow,59c979f9974b8dbad2948ff4bce308834a1ebf35,Harutaka Kawamura,hkawamura0130@gmail.com,2025-11-05 13:45:06+00:00,GitHub,2025-11-05 13:45:06+00:00,"Fix `mlflow.spark.load_model` to handle Unity Catalog Volumes paths correctly (#18672)
+
+Signed-off-by: harupy <17039389+harupy@users.noreply.github.com>
+Signed-off-by: mlflow-app[bot] <mlflow-app[bot]@users.noreply.github.com>
+Co-authored-by: mlflow-app[bot] <mlflow-app[bot]@users.noreply.github.com>
+Co-authored-by: Claude <noreply@anthropic.com>",348
+mlflow/mlflow,035184e82837b8eb90e34f25264685e868f1ab7e,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-05 12:52:00+00:00,GitHub,2025-11-05 12:52:00+00:00,"Add `?pr=<pr_number>` parameter to workflow URL in resolve.yml (#18686)
+
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com>
+Co-authored-by: harupy <17039389+harupy@users.noreply.github.com>
+Co-authored-by: Harutaka Kawamura <hkawamura0130@gmail.com>",282
+mlflow/mlflow,738a56d249e4da17b3c5e3b43b51845abb15eb26,Daniel Lok,daniel.lok@databricks.com,2025-11-05 12:11:03+00:00,GitHub,2025-11-05 12:11:03+00:00,[Sessions UI Columns][2/5] Add duration columns (#18657),56
+mlflow/mlflow,a6962c7ddd425d855307bad535a93a98241ba67d,Harutaka Kawamura,hkawamura0130@gmail.com,2025-11-05 11:25:24+00:00,GitHub,2025-11-05 11:25:24+00:00,"Fix `log_metric` to accept `mlflow.entities.Dataset` (#18585)
+
+Signed-off-by: harupy <17039389+harupy@users.noreply.github.com>
+Signed-off-by: Harutaka Kawamura <hkawamura0130@gmail.com>
+Signed-off-by: mlflow-app[bot] <mlflow-app[bot]@users.noreply.github.com>
+Co-authored-by: Claude <noreply@anthropic.com>
+Co-authored-by: mlflow-app[bot] <mlflow-app[bot]@users.noreply.github.com>",382
+mlflow/mlflow,bfe3f21100fa24970f1a57bf2ee12b8eb386ed49,Daniel Lok,daniel.lok@databricks.com,2025-11-05 11:05:35+00:00,GitHub,2025-11-05 11:05:35+00:00,[Sessions UI Columns][1/5] Fix source cell rendering (#18656),61
+mlflow/mlflow,efab7c30843eaead40864853355df3003ef91de2,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-05 10:13:42+00:00,GitHub,2025-11-05 10:13:42+00:00,"Replace external mlflow.org links with internal paths in sidebarsClassicML.ts (#18682)
+
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com>
+Co-authored-by: harupy <17039389+harupy@users.noreply.github.com>
+Co-authored-by: Harutaka Kawamura <hkawamura0130@gmail.com>",297
+mlflow/mlflow,856b445496a3fa04b1824fe7c11945e976c88fa4,Yuki Watanabe,31463517+B-Step62@users.noreply.github.com,2025-11-05 09:38:50+00:00,GitHub,2025-11-05 09:38:50+00:00,"Fix judge trace handling (#18654)
+
+Signed-off-by: B-Step62 <yuki.watanabe@databricks.com>
+Signed-off-by: Yuki Watanabe <31463517+B-Step62@users.noreply.github.com>",163
+mlflow/mlflow,64ba4fb002ba0d8b3634bd39a3b4996ecf388c40,Nick Miller,58093869+nicklamiller@users.noreply.github.com,2025-11-05 08:45:33+00:00,GitHub,2025-11-05 08:45:33+00:00,"Update broken and outdated python testing related links in `CONTRIBUTING.md` (#18677)
+
+Signed-off-by: Nick Miller <nicklamiller@gmail.com>
+Signed-off-by: Harutaka Kawamura <hkawamura0130@gmail.com>
+Co-authored-by: Harutaka Kawamura <hkawamura0130@gmail.com>",257
+mlflow/mlflow,edf53f35cf893331bbde79472e4a1d0225bc06fc,Daniel Lok,daniel.lok@databricks.com,2025-11-05 08:44:31+00:00,GitHub,2025-11-05 08:44:31+00:00,[Session View] Scroll to trace rather than open trace when clicking on sidebar (#18627),87
+mlflow/mlflow,42c02c800a827fc1c78308ff017c31145143b52e,Harutaka Kawamura,hkawamura0130@gmail.com,2025-11-05 07:59:14+00:00,GitHub,2025-11-05 07:59:14+00:00,"Add llms.txt plugin for AI-friendly documentation (#18676)
+
+Signed-off-by: harupy <17039389+harupy@users.noreply.github.com>
+Co-authored-by: Claude <noreply@anthropic.com>",171
+mlflow/mlflow,d786bd8f844a2524923dd84953180a1b3fe6d2ae,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-05 07:52:58+00:00,GitHub,2025-11-05 07:52:58+00:00,"Refactor clint linter position tracking with Position and Range classes (#18633)
+
+Signed-off-by: harupy <17039389+harupy@users.noreply.github.com>
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com>
+Co-authored-by: harupy <17039389+harupy@users.noreply.github.com>
+Co-authored-by: Claude <noreply@anthropic.com>",343
+mlflow/mlflow,34f8a08ec6dc32911b1bff632e6c87a554a6eeea,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-05 05:32:46+00:00,GitHub,2025-11-05 05:32:46+00:00,"Unhide build and dist folders in VS Code Explorer (#18675)
+
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com>
+Co-authored-by: harupy <17039389+harupy@users.noreply.github.com>
+Co-authored-by: Harutaka Kawamura <hkawamura0130@gmail.com>",269
+mlflow/mlflow,0286f743724197b1cad9054e3b5999d61cf92dbd,Serena Ruan,82044803+serena-ruan@users.noreply.github.com,2025-11-05 04:20:09+00:00,GitHub,2025-11-05 04:20:09+00:00,"Fix translation and add try catch (#18665)
+
+Signed-off-by: Serena Ruan <serena.rxy@gmail.com>",93
+mlflow/mlflow,6efebcc537e5c264c255c3e2150bcc2c5194f289,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-05 03:03:13+00:00,GitHub,2025-11-05 03:03:13+00:00,"Categorize tracing integrations by type (Agent Frameworks, Model Providers, Tools) (#18601)
+
+Signed-off-by: Yuki Watanabe <31463517+B-Step62@users.noreply.github.com>
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com>
+Co-authored-by: serena-ruan <82044803+serena-ruan@users.noreply.github.com>
+Co-authored-by: Yuki Watanabe <31463517+B-Step62@users.noreply.github.com>",401
+mlflow/mlflow,5032daef1e8e2bfa399fe747a2302a24c7cc813f,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-05 01:00:09+00:00,GitHub,2025-11-05 01:00:09+00:00,"Fix undefined model_info variable in quickstart documentation (#18671)
+
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com>
+Co-authored-by: harupy <17039389+harupy@users.noreply.github.com>",221
+mlflow/mlflow,ef23ed1143b31c968d382fc42b537ae41624b456,Corey Zumar,39497902+dbczumar@users.noreply.github.com,2025-11-04 21:08:33+00:00,GitHub,2025-11-04 21:08:33+00:00,"Don't require structured outputs for make_judge (#18643)
+
+Signed-off-by: dbczumar <corey.zumar@databricks.com>",110
+mlflow/mlflow,ff55dc2281b311a4b28ebcef8eacd006f7674638,danielseong1,daniel.seong@databricks.com,2025-11-04 18:34:30+00:00,GitHub,2025-11-04 18:34:30+00:00,"Add telemetry tracking for AI command usage (#18595)
+
+Signed-off-by: danielseong1 <daniel.seong@databricks.com>
+Signed-off-by: Daniel Seong <daniel.leem.seong@gmail.com>
+Co-authored-by: Claude <noreply@anthropic.com>
+Co-authored-by: Daniel Seong <daniel.leem.seong@gmail.com>",275
+mlflow/mlflow,b527930301f0582b667b729eb0950f7578b84194,Serena Ruan,82044803+serena-ruan@users.noreply.github.com,2025-11-04 11:08:00+00:00,GitHub,2025-11-04 11:08:00+00:00,"Fix llama index model logging with objects serialization (#18537)
+
+Signed-off-by: Serena Ruan <serena.rxy@gmail.com>",116
+mlflow/mlflow,13a55ab5142b1fd84ee195f8ab6cf084d3e5e219,Yuki Watanabe,31463517+B-Step62@users.noreply.github.com,2025-11-04 10:19:36+00:00,GitHub,2025-11-04 10:19:36+00:00,"[Vercel #4] Add doc + chat UI support for Vercel AI SDK integration (#18590)
+
+Signed-off-by: B-Step62 <yuki.watanabe@databricks.com>
+Signed-off-by: Yuki Watanabe <31463517+B-Step62@users.noreply.github.com>",206
+mlflow/mlflow,7039bdaa3595fbd1ddd04df09803fd821b9a03c9,Harutaka Kawamura,hkawamura0130@gmail.com,2025-11-04 09:08:06+00:00,GitHub,2025-11-04 09:08:06+00:00,"Fix timeout in plugin regression tests (#18663)
+
+Signed-off-by: harupy <17039389+harupy@users.noreply.github.com>",113
+mlflow/mlflow,33faf0c145003119eeb51771ef67cba461c3538a,mlflow-app[bot],191841109+mlflow-app[bot]@users.noreply.github.com,2025-11-04 08:37:08+00:00,GitHub,2025-11-04 08:37:08+00:00,"Run `python3 dev/update_mlflow_versions.py post-release...` (#18648)
+
+Signed-off-by: mlflow-app[bot] <mlflow-app[bot]@users.noreply.github.com>
+Signed-off-by: Serena Ruan <serena.rxy@gmail.com>
+Co-authored-by: mlflow-app[bot] <mlflow-app[bot]@users.noreply.github.com>
+Co-authored-by: Serena Ruan <serena.rxy@gmail.com>",319
+mlflow/mlflow,7713fd7359c0abf2fda7d4d215c3428cc7c2cfd2,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-04 08:31:38+00:00,GitHub,2025-11-04 08:31:38+00:00,"Fix pkill patterns in CLAUDE.md to prevent killing Copilot Coding Agent (#18653)
+
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com>
+Co-authored-by: harupy <17039389+harupy@users.noreply.github.com>
+Co-authored-by: Harutaka Kawamura <hkawamura0130@gmail.com>",291
+mlflow/mlflow,d28a8cc74a0cce8ea0fb1652d404d03bd687cd90,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-04 06:14:27+00:00,GitHub,2025-11-04 06:14:27+00:00,"Replace `yarn --cwd` with `(cd && yarn)` pattern in dev/run-dev-server.sh (#18652)
+
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com>
+Co-authored-by: harupy <17039389+harupy@users.noreply.github.com>",233
+mlflow/mlflow,cd7733832aec1dc4a4cb4a8594fcb2e7de33f912,Joel Robin P,76001552+joelrobin18@users.noreply.github.com,2025-11-04 05:30:40+00:00,GitHub,2025-11-04 05:30:40+00:00,"Gemini typescript sdk (#18207)
+
+Signed-off-by: joelrobin18 <joelrobin1818@gmail.com>
+Signed-off-by: Joel Robin P <76001552+joelrobin18@users.noreply.github.com>
+Co-authored-by: Yuki Watanabe <31463517+B-Step62@users.noreply.github.com>",235
+mlflow/mlflow,e26f1516276b00763494174e9c639abf10f6ec00,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-04 05:33:05+00:00,GitHub,2025-11-04 05:33:05+00:00,"Fix incorrect AssessmentSourceType.LLM in docstring examples (#18649)
+
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com>
+Co-authored-by: harupy <17039389+harupy@users.noreply.github.com>",220
+mlflow/mlflow,db5aa4f17fe2a0f77dcf3213487e688ca046c855,Yuki Watanabe,31463517+B-Step62@users.noreply.github.com,2025-11-04 05:31:15+00:00,GitHub,2025-11-04 05:31:15+00:00,"Display trace metadata (#18609)
+
+Signed-off-by: B-Step62 <yuki.watanabe@databricks.com>",87
+mlflow/mlflow,8515725a0ee510ba6bc6f19bc27ecce3b80c24a0,Daniel Lok,daniel.lok@databricks.com,2025-11-04 04:24:57+00:00,GitHub,2025-11-04 04:24:57+00:00,"[Session View] Add ""session"" tag in single chat view header (#18626)",68
+mlflow/mlflow,2cb6a42192acef8c9ccd9ea8ada1b719875c7090,Yuki Watanabe,31463517+B-Step62@users.noreply.github.com,2025-11-04 03:53:45+00:00,GitHub,2025-11-04 03:53:45+00:00,"Support automatically tracking session ID for LangGraph (#18608)
+
+Signed-off-by: B-Step62 <yuki.watanabe@databricks.com>",120
+mlflow/mlflow,19c4895a5796d8a91ddc262cddb1e058a860f2db,Daniel Lok,daniel.lok@databricks.com,2025-11-04 03:08:22+00:00,GitHub,2025-11-04 03:08:22+00:00,"[Doc fix] Fix table in prompt optimization / rewriting pages (#18646)
+
+Signed-off-by: Daniel Lok <daniel.lok@databricks.com>",124
+mlflow/mlflow,35cf50702db08af248cb2ff76d1560904a782b36,Alkis Polyzotis,80279913+alkispoly-db@users.noreply.github.com,2025-11-03 18:51:58+00:00,GitHub,2025-11-03 18:51:58+00:00,"Add description field to all built-in scorers (#18547)
+
+Signed-off-by: Alkis Polyzotis <alkis.polyzotis@databricks.com>
+Co-authored-by: Claude <noreply@anthropic.com>",166
+mlflow/mlflow,f38ace548050ec89deb01efe312010a05570c565,Serena Ruan,82044803+serena-ruan@users.noreply.github.com,2025-11-03 15:26:33+00:00,GitHub,2025-11-03 15:26:33+00:00,"Fix BatchGetTraces proto (#18640)
+
+Signed-off-by: Serena Ruan <serena.rxy@gmail.com>",84
+mlflow/mlflow,0ead4514d9f96264d4b60c8efb7f634567de200b,TomuHirata,tomu.hirata@gmail.com,2025-11-03 14:50:17+00:00,GitHub,2025-11-03 14:50:17+00:00,"Support structured outputs in make_judge (#18529)
+
+Signed-off-by: Tomu Hirata <tomu.hirata@gmail.com>
+Signed-off-by: TomuHirata <tomu.hirata@gmail.com>",151
+mlflow/mlflow,923e6e9812f84772f9a371c3e8c6688be2c80123,mlflow-app[bot],191841109+mlflow-app[bot]@users.noreply.github.com,2025-11-03 13:52:56+00:00,GitHub,2025-11-03 13:52:56+00:00,"Run `python3 dev/update_changelog.py --prev-version 3.5...` (#18638)
+
+Signed-off-by: mlflow-app[bot] <mlflow-app[bot]@users.noreply.github.com>
+Signed-off-by: Serena Ruan <serena.rxy@gmail.com>
+Co-authored-by: mlflow-app[bot] <mlflow-app[bot]@users.noreply.github.com>
+Co-authored-by: Serena Ruan <serena.rxy@gmail.com>",319
+mlflow/mlflow,22c7546ed5915d1f6d4e7bd8522eea0ad1cf1622,mlflow-app[bot],191841109+mlflow-app[bot]@users.noreply.github.com,2025-11-03 13:49:20+00:00,GitHub,2025-11-03 13:49:20+00:00,"Update `uv.lock` (#18637)
+
+Signed-off-by: mlflow-app[bot] <mlflow-app[bot]@users.noreply.github.com>
+Co-authored-by: mlflow-app[bot] <mlflow-app[bot]@users.noreply.github.com>",175
+mlflow/mlflow,70721aa0a3df01883052d570d4ace5ec1a7cf7a0,Serena Ruan,82044803+serena-ruan@users.noreply.github.com,2025-11-03 10:35:02+00:00,GitHub,2025-11-03 10:35:02+00:00,"Allow batch_get_traces to return when spans are more than stats (#18631)
+
+Signed-off-by: Serena Ruan <serena.rxy@gmail.com>
+Signed-off-by: Serena Ruan <82044803+serena-ruan@users.noreply.github.com>",198
+mlflow/mlflow,f383e669377e4fa96459c113d8c3f9956f9f7a5a,mlflow-app[bot],191841109+mlflow-app[bot]@users.noreply.github.com,2025-11-03 10:15:16+00:00,GitHub,2025-11-03 10:15:16+00:00,"Run `python3 dev/update_requirements.py && python3 bin/...` (#18630)
+
+Signed-off-by: mlflow-app[bot] <mlflow-app[bot]@users.noreply.github.com>
+Co-authored-by: mlflow-app[bot] <mlflow-app[bot]@users.noreply.github.com>",218
+mlflow/mlflow,8dcb6dadec6abade83ac1f6bf8a36af37afe8e9c,mlflow-app[bot],191841109+mlflow-app[bot]@users.noreply.github.com,2025-11-03 09:57:22+00:00,GitHub,2025-11-03 09:57:22+00:00,"Run `if [ -f dev/remove_experimental_decorators.py ]; t...` (#18628)
+
+Signed-off-by: mlflow-app[bot] <mlflow-app[bot]@users.noreply.github.com>
+Co-authored-by: mlflow-app[bot] <mlflow-app[bot]@users.noreply.github.com>",218
+mlflow/mlflow,03a3403c20e9b5a1a51fccfefff57e25a1f00988,Harutaka Kawamura,hkawamura0130@gmail.com,2025-11-03 09:27:47+00:00,GitHub,2025-11-03 09:27:47+00:00,"Update ML package version ranges (#18600)
+
+Signed-off-by: harupy <17039389+harupy@users.noreply.github.com>
+Signed-off-by: mlflow-app[bot] <mlflow-app[bot]@users.noreply.github.com>
+Signed-off-by: Harutaka Kawamura <hkawamura0130@gmail.com>
+Co-authored-by: mlflow-app[bot] <mlflow-app[bot]@users.noreply.github.com>
+Co-authored-by: Claude <noreply@anthropic.com>",362
+mlflow/mlflow,54194ee58e61c662bc0ac4e28ab23f6ecddfaab6,Serena Ruan,82044803+serena-ruan@users.noreply.github.com,2025-11-03 09:26:44+00:00,GitHub,2025-11-03 09:26:44+00:00,"Skip flaky test to unblock CI (#18629)
+
+Signed-off-by: Serena Ruan <serena.rxy@gmail.com>",89
+mlflow/mlflow,5e291ef5a06fa7f5e1b1ad67277de22e29b47195,Daniel Lok,daniel.lok@databricks.com,2025-11-03 09:26:09+00:00,GitHub,2025-11-03 09:26:09+00:00,[Session View] Make whole table row clickable to link to single session view (#18625),85
+mlflow/mlflow,90a5f34a6bbb9ac5ee583ee574e507d41005e812,Ben Wilson,39283302+BenWilson2@users.noreply.github.com,2025-11-03 09:16:49+00:00,GitHub,2025-11-03 09:16:49+00:00,"Fix plugin incompatibility with circular import (#18599)
+
+Signed-off-by: Ben Wilson <benjamin.wilson@databricks.com>
+Co-authored-by: Serena Ruan <serena.rxy@gmail.com>",167
+mlflow/mlflow,7dc9b71b0db923ae856158e430f2c4caf6aa190d,Serena Ruan,82044803+serena-ruan@users.noreply.github.com,2025-11-03 09:14:26+00:00,GitHub,2025-11-03 09:14:26+00:00,"Add RLIKE operator support for trace search (#18591)
+
+Signed-off-by: Serena Ruan <serena.rxy@gmail.com>",103
+mlflow/mlflow,d2b1ec3e450d2767ba5efeff19701333d833556a,Bryan Qiu,55931436+bbqiu@users.noreply.github.com,2025-11-03 09:13:15+00:00,GitHub,2025-11-03 09:13:15+00:00,"Introduce Agent Server (#18596)
+
+Signed-off-by: bbqiu <bryan.qiu@databricks.com>",80
+mlflow/mlflow,a3c4ad1a35a360aecb0ed4ecbf5e7eb1cfaf3ad9,Serena Ruan,82044803+serena-ruan@users.noreply.github.com,2025-11-03 07:23:44+00:00,GitHub,2025-11-03 07:23:44+00:00,"Fix search request on UI (#18605)
+
+Signed-off-by: Serena Ruan <serena.rxy@gmail.com>",84
+mlflow/mlflow,56dadf3c410fc63957b0c07d3b10bfbf89fa1479,Yuki Watanabe,31463517+B-Step62@users.noreply.github.com,2025-11-03 06:02:26+00:00,GitHub,2025-11-03 06:02:26+00:00,"Support using OpenTelemetry and MLflow SDK together for constructing a single trace. (#18540)
+
+Signed-off-by: B-Step62 <yuki.watanabe@databricks.com>
+Signed-off-by: Yuki Watanabe <31463517+B-Step62@users.noreply.github.com>",223
+mlflow/mlflow,124e3749c2a7c998f20a982da52f5547d1f0b27d,Serena Ruan,82044803+serena-ruan@users.noreply.github.com,2025-11-03 05:43:25+00:00,GitHub,2025-11-03 05:43:25+00:00,"Attributes translation for OTel clients (#18532)
+
+Signed-off-by: Serena Ruan <serena.rxy@gmail.com>",99
+mlflow/mlflow,2d94b61e4f312c2bd713f9a476879f3becbaec8e,Yuki Watanabe,31463517+B-Step62@users.noreply.github.com,2025-11-03 03:59:25+00:00,GitHub,2025-11-03 03:59:25+00:00,"Add basic doc for Otel support (#18623)
+
+Signed-off-by: B-Step62 <yuki.watanabe@databricks.com>",95
+mlflow/mlflow,01ac0c10a2f86898be0161b0032e35415b354bc8,Daniel Lok,daniel.lok@databricks.com,2025-11-03 03:48:14+00:00,GitHub,2025-11-03 03:48:14+00:00,"Add chat sessions tab (#18594)
+
+Signed-off-by: Daniel Lok <daniel.lok@databricks.com>",85
+mlflow/mlflow,ba666389a79da85794660d17962a0b0ed45eb9bc,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-02 09:26:16+00:00,GitHub,2025-11-02 09:26:16+00:00,"Add decorator metadata preservation rule to Python style guide (#18616)
+
+Signed-off-by: harupy <17039389+harupy@users.noreply.github.com>
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com>
+Co-authored-by: harupy <17039389+harupy@users.noreply.github.com>
+Co-authored-by: Claude <noreply@anthropic.com>",334
+mlflow/mlflow,cc8b022597de528e9a88da8ce557fb957413a13a,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-01 06:28:10+00:00,GitHub,2025-11-01 06:28:10+00:00,"Remove CircleCI commit status fetching from protect.js (#18615)
+
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com>
+Co-authored-by: harupy <17039389+harupy@users.noreply.github.com>",214
+numpy/numpy,84016ed504ce6334bffd850eefaa4af1a314bbc8,Matti Picus,matti.picus@gmail.com,2025-11-10 07:07:05+00:00,GitHub,2025-11-10 07:07:05+00:00,"Merge pull request #30183 from star1327p/grammar-issues
+
+DOC: Corrected grammatical issues in code comments",107
+numpy/numpy,b2bde8bc660463e0d7caa9276d4c49739ce615ab,star1327p,star1327p@gmail.com,2025-11-09 20:19:12+00:00,star1327p,2025-11-09 20:19:12+00:00,DOC: Corrected grammatical issues in code comments,50
+numpy/numpy,884aec9750f0e42d563792678b2454ea86218f69,Pieter Eendebak,pieter.eendebak@gmail.com,2025-11-09 13:12:49+00:00,GitHub,2025-11-09 13:12:49+00:00,"BUG: Allow np.percentile to operate on float16 data (#29105)
+
+* BUG: Allow np.percentile to operate on float16 data
+
+* add an extra regression test
+
+* add an extra regression test
+
+* remove unused default value
+
+* add release note
+
+* review comments: part1
+
+* review comments: part 2
+
+* review comments: part 3",310
+numpy/numpy,f39abd4ffbca44f01eec353115ffd2d7ad296fb2,Warren Weckesser,warren.weckesser@gmail.com,2025-11-07 19:50:59+00:00,GitHub,2025-11-07 19:50:59+00:00,"ENH: Updates for the `spin bench` command. (#30175)
+
+* MAINT: spin: Use sys.executable to run a Python script in the bench function.
+
+* ENH: spin: Expose --factor as an option for 'bench'",187
+numpy/numpy,15063ae71f5608529dbedd261279408903be5434,Warren Weckesser,warren.weckesser@gmail.com,2025-11-07 19:41:06+00:00,GitHub,2025-11-07 19:41:06+00:00,BUG: Fix check of PyMem_Calloc return value. (#30176),53
+numpy/numpy,2ec5d92ea05cc5daea8974dddb98c85738611c53,Warren Weckesser,warren.weckesser@gmail.com,2025-11-07 15:45:37+00:00,GitHub,2025-11-07 15:45:37+00:00,BUG: Fix handling by ``unique`` of signed zero in complex types. (#30125),73
+numpy/numpy,a0ce2fb88f8d631045bc568923a0a4c0a1b1414e,Amelia Thurdekoos,athurdekoos@quansight.com,2025-11-07 08:31:42+00:00,GitHub,2025-11-07 08:31:42+00:00,"MAINT: Migrate einsum.c.src to C++ (einsum.cpp) (#30142)
+
+Addresses one item from #29528
+
+No C++ templates were needed as einsum.c.src was not templated but was still a c.src 
+file for historical reason. This is a good starting point for future c++ migration work.
+
+What this PR does:
+
+- Renamed `einsum.c.src` to `einsum.cpp`
+- Updated references in genapi.py and meson.build
+- In `einsum.cpp`:
+  - Added `extern ""C""` C linkage where necessary
+  - Added 4 explicit casts to maintain functionality",497
+numpy/numpy,2b216b1a6072d28e4aa7b02a7e13e69713a20c5d,Joren Hammudoglu,jhammudoglu@gmail.com,2025-11-06 19:49:07+00:00,GitHub,2025-11-06 19:49:07+00:00,"BUG: ``numpy.random.*`` class runtime signatures (#30164)
+
+This fixes `inspect.signature` for
+
+- `np.random.BitGenerator`
+- `np.random.Generator`
+- `np.random.MT19937`
+- `np.random.PCG64`
+- `np.random.PCG64DXSM`
+- `np.random.Philox`
+- `np.random.RandomState`
+- `np.random.SFC64`
+- `np.random.SeedSequence`
+- `np.random.bit_generator.SeedlessSeedSequence`
+
+This also fixes a typo in `bit_generator.pxd` that accidentally defined an empty unused class `np.random.bit_generator.SeedlessSequence`.
+
+Related to #30104, #30114, #30121, #30124, #30126, #30137, #30138, #30140, #30143, #30146, #30147, and #30155",604
+numpy/numpy,125b5ce97176325a6ee6a1dbb22b0db995087598,Joren Hammudoglu,jhammudoglu@gmail.com,2025-11-06 19:13:06+00:00,GitHub,2025-11-06 19:13:06+00:00,MAINT: some ``numpy.polynomial.*`` namespace pollution cleanup (#30165),71
+numpy/numpy,666719b3742d5c7a887356de1320b0e959ee5ab5,Joren Hammudoglu,jhammudoglu@gmail.com,2025-11-06 17:38:18+00:00,GitHub,2025-11-06 17:38:18+00:00,"ENH: Add ``order`` parameter to ``np.ma.asanyarray`` (#30163)
+
+* ENH: Add ``order`` parameter to ``np.ma.asanyarray``
+
+* TYP: Update the ``np.ma.asanyarray`` stubs",163
+numpy/numpy,42cb3f932a01a7f58f6594d94dd202928450dbfa,Charles Harris,charlesr.harris@gmail.com,2025-11-06 17:27:47+00:00,GitHub,2025-11-06 17:27:47+00:00,"Merge pull request #30147 from jorenham/fix-remaining-top-level-function-signatures
+
+BUG, TYP: add the remaining ``_core.multiarray`` function runtime signatures",161
+numpy/numpy,2740d5f6a93bff84e14ef9a4eed1475cbd15f3fd,Rafael Laboissière,rafael@laboissiere.net,2025-11-06 15:49:46+00:00,GitHub,2025-11-06 15:49:46+00:00,"ENH: Run SWIG unit tests in CI action (#30161)
+
+* Replace deprecated unittest.makeSuite() by unittest.TestLoader().loadTestsFromTestCase()
+
+* Do not use negative values in argument of Tensor.<type>Max()
+
+The unit tests involving `<type>TestCase.testMaxWrongDim` do not work for
+`<type>` being one of `uchar`, `ushort`, `uint`, `ulong`, and
+`ulongLong` (which translate to `uint8`, `uint16`, `uint32`, `uint64`, and
+`uint64`, respectively). Instead of raising the expected `TypeError`, the
+unit tests raise `OverflowError`, with the error message “Python integer -1
+out of bounds for <type>”. This is fixed by replacing the negative values
+in the argument of the `max` function by positive ones.
+
+* Run unit tests for the SWIG binding at the end of the sdist job
+
+The unit tests will be run in the Linux workflow using the Makefile
+distributed in `tools/swig/test` directory. They are run after installation
+of NumPy in the system, ensuring that the C header files are correctly
+included (see GitHub issue [#30131](https://github.com/numpy/numpy/issues/30131)).",1060
+numpy/numpy,83a9fb44ff65d4e3463f19887f6e27f0eeaa774a,Matti Picus,matti.picus@gmail.com,2025-11-06 11:22:30+00:00,GitHub,2025-11-06 11:22:30+00:00,"Merge pull request #30160 from neutrinoceros/typ/array-ndmax-default
+
+TYP: fix an invalid default value for `array`'s `ndmax` parameter",135
+numpy/numpy,fa476b5ca9b9f6103b216e6fc096c55a422d3efb,jorenham,jhammudoglu@gmail.com,2025-11-06 10:37:06+00:00,jorenham,2025-11-06 10:37:06+00:00,DOC: add release note for #30147,32
+numpy/numpy,3b259283bcefc890147bc9eae1e62e57d5edb094,jorenham,jhammudoglu@gmail.com,2025-11-04 23:59:51+00:00,jorenham,2025-11-06 10:24:00+00:00,TYP: Allow passing `step=None` to `arange`,42
+numpy/numpy,25d74021d3b0f737c85aae9b512bbcbfc2ab6e79,jorenham,jhammudoglu@gmail.com,2025-11-04 23:22:15+00:00,jorenham,2025-11-06 10:23:59+00:00,TYP: update and improve the ``arange`` stubs,44
+numpy/numpy,49de145702ea29703259266355d39ea02315da6c,jorenham,jhammudoglu@gmail.com,2025-11-04 23:14:07+00:00,jorenham,2025-11-06 10:23:59+00:00,BUG: refine ``arange`` runtime signature for array-api compatibility,68
+numpy/numpy,32817ccf7812662e99508e82ce168c8ffc55ac2c,jorenham,jhammudoglu@gmail.com,2025-11-04 20:07:56+00:00,jorenham,2025-11-06 10:23:59+00:00,BUG: ``_core.multiarray`` function runtime signatures,53
+numpy/numpy,a90a3423c221f2b0899fc66e352d82bc4385c5af,Clément Robert,cr52@protonmail.com,2025-11-06 06:44:10+00:00,Clément Robert,2025-11-06 10:22:08+00:00,TYP: fix an invalid default value for `array`'s `ndmax` parameter,65
+numpy/numpy,d8e1c8ce6f0bd7c2dda825f88eb61e02525829ed,Matti Picus,matti.picus@gmail.com,2025-11-06 05:08:32+00:00,GitHub,2025-11-06 05:08:32+00:00,"Merge pull request #30153 from mdavidsaver/fix-decref-PyArray_NewFromDescr
+
+BUG: decref on error in PyArray_NewFromDescr (#30152)",129
+numpy/numpy,616311790f7e5fac795c332b365e648d7bf5d226,Matti Picus,matti.picus@gmail.com,2025-11-06 04:42:49+00:00,GitHub,2025-11-06 04:42:49+00:00,"Merge pull request #30155 from jorenham/fix-ndarray-dunder-signatures
+
+BUG, DOC: ``ndarray`` dunder method runtime signatures and missing docs",142
+numpy/numpy,fa63a5758ba90432dc9434e43252d4e1d891f8a2,Matti Picus,matti.picus@gmail.com,2025-11-06 03:43:59+00:00,GitHub,2025-11-06 03:43:59+00:00,"Merge pull request #30154 from athurdekoos/update_requires
+
+BUG: update requires to requirements in numpy.multiarray see #30142",127
+numpy/numpy,3a35b7c56d0d7c5ef5b7806c6bde336a58857bbe,Joren Hammudoglu,jhammudoglu@gmail.com,2025-11-05 23:28:28+00:00,GitHub,2025-11-05 23:28:28+00:00,BUG: array construction function runtime signatures (#30138),60
+numpy/numpy,641001177b485bac38cf048615d1802caaf07ba3,Joren Hammudoglu,jhammudoglu@gmail.com,2025-11-05 23:21:20+00:00,GitHub,2025-11-05 23:21:20+00:00,DOC: Remove nonexistent ``order`` parameter docs of ``ma.asanyarray`` (#30057),78
+numpy/numpy,7497f61ce72267a02e4de50026826af025f06426,jorenham,jhammudoglu@gmail.com,2025-11-05 22:57:29+00:00,jorenham,2025-11-05 22:57:29+00:00,"BUG, DOC: ``ndarray`` dunder method runtime signatures and missing docs",71
+numpy/numpy,83b118ea17a3e984853ef26eb4a3bfe73dcf977d,Amelia Thurdekoos,athurdekoos@quansight.com,2025-11-05 21:05:20+00:00,Amelia Thurdekoos,2025-11-05 21:05:20+00:00,BUG: update requires to requirements in numpy.multiarray see #30142,67
+numpy/numpy,05eab252df4918ea06c06250cf7d6b054d89fb1c,Michael Davidsaver,mdavidsaver@gmail.com,2025-11-05 19:26:19+00:00,Michael Davidsaver,2025-11-05 19:26:19+00:00,BUG: decref on error in PyArray_NewFromDescr (#30152),53
+numpy/numpy,ee591622a397b361f7cf6a136fc32c03a4e2bea0,T.Yamada,cielartisan@gmail.com,2025-11-05 11:41:55+00:00,GitHub,2025-11-05 11:41:55+00:00,FIX: Not show signature in git_version (#30149),47
+numpy/numpy,7388112cf643238dad828677455d4722a8382bec,diego_atencia,53157128+alektebel@users.noreply.github.com,2025-11-05 09:14:19+00:00,GitHub,2025-11-05 09:14:19+00:00,"DOC: Fix Returns section formatting in linalg.qr and linalg.svd (#30148)
+
+* DOC: Fix Returns section formatting in linalg.qr and linalg.svd
+
+Move initial return information from Returns section to Notes section
+to comply with numpydoc standards and fix rendering issues.
+
+Fixes #29779
+[skip actions][skip azp][skip cirrus]
+
+Co-authored-by: Ross Barnowski <rossbar@caltech.edu>
+Co-authored-by: Matti Picus <matti.picus@gmail.com>",428
+numpy/numpy,7aa023f008969a43648aaf4c3e707349abc7a2f7,Joren Hammudoglu,jhammudoglu@gmail.com,2025-11-04 22:57:32+00:00,GitHub,2025-11-04 22:57:32+00:00,BUG: ``broadcast`` runtime signatures (#30137),46
+numpy/numpy,e8687a3bf820ee6f47b919011a69ec106e8e95d5,Charles Harris,charlesr.harris@gmail.com,2025-11-04 17:50:25+00:00,GitHub,2025-11-04 17:50:25+00:00,"Merge pull request #30143 from jorenham/_core.multiarray-signatures
+
+BUG, TYP: ``_core.multiarray.*`` function runtime signatures",129
+numpy/numpy,91b4a3d326090da711a07ad4e8d403055a622a2b,jorenham,jhammudoglu@gmail.com,2025-11-04 07:57:12+00:00,jorenham,2025-11-04 16:44:29+00:00,TYP: ignore a python-version-dependent mypy false-positive,58
+numpy/numpy,93864e12bff826b56c6d7d9a572ca07420f9b37d,jorenham,jhammudoglu@gmail.com,2025-11-04 07:45:54+00:00,jorenham,2025-11-04 16:44:29+00:00,TST: Update `_convert2ma` test signature for `np.ma.empty_like`,63
+numpy/numpy,0d7844eef4ad646ed42852ddcc8f29f45466cbc0,jorenham,jhammudoglu@gmail.com,2025-11-04 07:39:04+00:00,jorenham,2025-11-04 16:42:58+00:00,TYP: ``_core.multiarray.*`` function signature updates,54
+numpy/numpy,e431aaaa7d465e47ebc39646fe0cf88759c7b728,jorenham,jhammudoglu@gmail.com,2025-11-04 06:34:09+00:00,jorenham,2025-11-04 16:42:58+00:00,BUG: ``_core.multiarray.*`` function runtime signatures,55
+numpy/numpy,3b44dc061343cdfb1f15bf7d8280a844aa994b76,Joren Hammudoglu,jhammudoglu@gmail.com,2025-11-04 16:40:35+00:00,GitHub,2025-11-04 16:40:35+00:00,"BUG, DOC, TYP: ``empty`` and ``zeros`` runtime signatures, and missing ``device`` parameter docs (#30140)
+
+* BUG: ``empty`` and ``zeros`` runtime signatures
+
+* TYP: `empty`, `zeros`, and `ones` parameter defaults and minor shape-type fix
+
+* TST: Update `_convert2ma` test signature for `np.ma.empty`",299
+numpy/numpy,0fdb1979cdfcdd31b61f423b66a384fabd1d7fd7,Matti Picus,matti.picus@gmail.com,2025-11-04 10:24:28+00:00,GitHub,2025-11-04 10:24:28+00:00,BLD: use scipy-openblas 0.3.30.7 (#30132),41
+numpy/numpy,17d15c74c0f7e2b56c86f301924d83abd1e98fe8,Matti Picus,matti.picus@gmail.com,2025-11-04 06:15:50+00:00,GitHub,2025-11-04 06:15:50+00:00,"Merge pull request #30141 from treycole/linalg-docs-fix
+
+MAINT: fix math markup (\times -> \\times) in numpy.linalg.multidot docstring Notes section",148
+numpy/numpy,b928580d9f596d1e003479dcdbecd368ce8459b9,Trey Cole,tbjcole@outlook.com,2025-11-04 03:08:21+00:00,Trey Cole,2025-11-04 03:08:21+00:00,MAINT: fix math markup (\times -> \\times) in numpy.linalg.multidot docstring Notes section,91
+numpy/numpy,1e424dae42a2d560520b6e053e8e60ac4205bfc7,Rafael Laboissière,rafael@laboissiere.net,2025-11-02 17:46:22+00:00,GitHub,2025-11-02 17:46:22+00:00,"BUG: Avoid compilation error of wrapper file generated with SWIG >= 4.4 (#30128)
+
+The `import_array` macro, which is defined in the file
+`numpy/core/code_generators/generate_numpy_api.py`, is intended for use
+inside an internal SWIG function that is called in the generated C wrapper
+file. This macro contains a return statement whose argument must match the
+function definition.
+
+Until version 4.3 of SWIG, the aforementioned function returned a `void*` value.
+However, in version 4.4, the return value was changed to `int`. This causes compilation of code using import_array() to fail with the following error message: `returning 'void *' from a function with return type 'int' makes integer from pointer without a cast [-Wint-conversion].`
+
+This commit resolves the issue by returning either `NULL` or `0`, depending
+on the SWIG version being used (< 3.4 or >= 3.4, respectively). This change
+has been successfully tested against SWIG versions 4.3 and 4.4.
+
+Closes: numpy/numpy#30122",986
+numpy/numpy,a8546b7812aaf4734fe82e42c69b068bd4db0718,Nathan Goldbaum,nathan.goldbaum@gmail.com,2025-11-02 08:13:31+00:00,GitHub,2025-11-02 08:13:31+00:00,"CI: disable flaky ubuntu UBsan CI job, and tweak macOS config (#30118)",70
+numpy/numpy,4dab17d1eb7ba9e889bbb12bc2caf88f865d277b,Matti Picus,matti.picus@gmail.com,2025-11-02 08:10:56+00:00,GitHub,2025-11-02 08:10:56+00:00,"Merge pull request #30068 from Abhi210/gh-11521-core-deprecations
+
+MAINT: remove deprecated `style` argument and deprecations in `fromnumeric`",142
+numpy/numpy,7e52b73098dcda9de9f7f45c60cf1c9f86ceb0d0,Ralf Gommers,ralf.gommers@gmail.com,2025-11-01 21:38:10+00:00,GitHub,2025-11-01 21:38:10+00:00,"DOC: remove outdated notes on how to build against numpy in conda-forge (#30127)
+
+Closes https://github.com/conda-forge/conda-forge.github.io/issues/2605
+
+[skip actions] [skip azp] [skip cirrus]",194
+numpy/numpy,7cb068fd0dbbd72c8da6ba13380bb32778265a29,Charles Harris,charlesr.harris@gmail.com,2025-11-01 18:43:37+00:00,GitHub,2025-11-01 18:43:37+00:00,"Merge pull request #30126 from jorenham/fix-nditer-runtime-signatures
+
+BUG: ``nditer`` runtime signatures",105
+numpy/numpy,27f8d11a1ad12170324b8aad18b5747c707fa9d1,Charles Harris,charlesr.harris@gmail.com,2025-11-01 18:30:51+00:00,GitHub,2025-11-01 18:30:51+00:00,"Merge pull request #30124 from jorenham/fix-flatiter-signatures
+
+BUG, TYP: ``flatiter`` method runtime signatures, and better stubs",131
+numpy/numpy,3ecfcbe8ad402ab1afe7784968a5200899b926a4,Charles Harris,charlesr.harris@gmail.com,2025-11-01 18:29:15+00:00,GitHub,2025-11-01 18:29:15+00:00,"Merge pull request #30114 from jorenham/ndarray-method-signatures
+
+BUG, TYP: ``ndarray`` method runtime signatures",114
+numpy/numpy,c9838f21677faf71ff82f7f2a6442622d569f71b,Charles Harris,charlesr.harris@gmail.com,2025-11-01 18:26:46+00:00,GitHub,2025-11-01 18:26:46+00:00,"Merge pull request #30121 from jorenham/fix-sctype-signatures
+
+BUG, TYP: scalar-type constructor runtime signatures",115
+numpy/numpy,57794dfb6efc2a0c8498e4bc91cbedfb08c2a78b,jorenham,jhammudoglu@gmail.com,2025-11-01 04:06:57+00:00,jorenham,2025-11-01 04:13:53+00:00,BUG: ``nditer`` runtime signatures,34
+numpy/numpy,247cf63f07a3a0a5d057850e94c6c427baf54f11,jorenham,jhammudoglu@gmail.com,2025-11-01 02:12:47+00:00,jorenham,2025-11-01 02:12:47+00:00,TYP: fix and improve the ``flatiter`` stubs,43
+numpy/numpy,2b2dac41564b31d826f55e9b00b718c8a1af583b,jorenham,jhammudoglu@gmail.com,2025-10-31 21:10:58+00:00,jorenham,2025-10-31 21:10:58+00:00,BUG: ``flatiter`` method signatures,35
+numpy/numpy,6ba89bd87b77b4ddae4b93cd8c46036ce9857d36,jorenham,jhammudoglu@gmail.com,2025-10-31 20:39:10+00:00,jorenham,2025-10-31 20:39:10+00:00,BUG: `long` and `ulong` constructor signatures,46
+numpy/numpy,e9b9047e4a8d765e84b962783011121b8c996b0d,jorenham,jhammudoglu@gmail.com,2025-10-31 19:43:01+00:00,jorenham,2025-10-31 19:43:01+00:00,STY: appease `ruff`,19
+numpy/numpy,1a1b67e058e960cf8ea33d3abb65fe53f88860db,jorenham,jhammudoglu@gmail.com,2025-10-31 19:42:18+00:00,jorenham,2025-10-31 19:42:18+00:00,TYP: update sctype constructor stubs,36
+numpy/numpy,40ead852e432aa9432acfbefce0e3b0c44ec3f10,jorenham,jhammudoglu@gmail.com,2025-10-31 19:41:52+00:00,jorenham,2025-10-31 19:41:52+00:00,TYP: update `_core._add_newdocs.scalars` stubs,46
+numpy/numpy,d4469b5e9db3f17a1ffbda1fba8c7947246219df,jorenham,jhammudoglu@gmail.com,2025-10-31 19:26:01+00:00,jorenham,2025-10-31 19:41:45+00:00,BUG: scalar constructor signatures,34
+numpy/numpy,3911b2fb5473ae02edf356ea68083ee502c91411,jorenham,jhammudoglu@gmail.com,2025-10-31 03:52:05+00:00,jorenham,2025-10-31 19:27:32+00:00,TYP: update the ``ndarray`` method stubs to match their new signatures,70
+numpy/numpy,d2c06ce177ae941c1b19c00767aaa1f99fad3255,jorenham,jhammudoglu@gmail.com,2025-10-31 03:27:22+00:00,jorenham,2025-10-31 19:26:31+00:00,BUG: ``ndarray`` method signatures,34
+numpy/numpy,779929c42dd5dfa32f07f1311233abea9f026310,Joren Hammudoglu,jhammudoglu@gmail.com,2025-10-31 16:18:40+00:00,GitHub,2025-10-31 16:18:40+00:00,TYP: shape-type-aware ``swapaxes`` (#30108),43
+numpy/numpy,824e5558f15c761a2ced8b8cb7d6acb7382ffd61,Charles Harris,charlesr.harris@gmail.com,2025-10-31 16:16:57+00:00,GitHub,2025-10-31 16:16:57+00:00,"Merge pull request #30104 from jorenham/gh-30095
+
+BUG, TYP: ufunc method signatures",83
+numpy/numpy,5d92c7ac7953e060bea20803e45cc8810796cb48,Joren Hammudoglu,jhammudoglu@gmail.com,2025-10-31 16:14:18+00:00,GitHub,2025-10-31 16:14:18+00:00,"BUG, TYP: Fix ``ma.core._convert2ma`` function signatures (#30099)
+
+* BUG: Fix ``ma.core._convert2ma`` function signatures
+
+* TYP: Annotate `ma.core.arange`
+
+* TYP: Annotate `ma.core.clip`
+
+* TYP: Annotate `ma.core.{empty, zeros, ones}`
+
+* TYP: Annotate `ma.core.{empty, zeros, ones}_like`
+
+* TYP: fix incorrect `ma.empty` call in a type-test
+
+* TYP: Annotate `ma.core.identity`
+
+* TYP: Annotate `ma.core.indices`
+
+* TYP: Annotate `ma.core.squeeze`
+
+* TYP: Update stubs for `ma.core._convert2ma`
+
+* BUG: Doctest bug workaround",526
+numpy/numpy,06f38aead4c3d136522a8968a10f1f87d530863e,Matti Picus,matti.picus@gmail.com,2025-10-31 09:03:52+00:00,GitHub,2025-10-31 09:03:52+00:00,"Merge pull request #30111 from WarrenWeckesser/unwrap-plot
+
+DOC: Add a plot to the 'unwrap' docstring.",102
+numpy/numpy,e535e3c3b64fd77c7c816b7cb06da67a5434825b,Abhishek Tiwari,Abhi210@users.noreply.github.com,2025-10-31 07:16:53+00:00,abhi210,2025-10-31 08:51:24+00:00,"Update numpy/_core/tests/test_arrayprint.py
+
+Co-authored-by: Matti Picus <matti.picus@gmail.com>",96
+numpy/numpy,3150dec424f75b3504a21e7fc990ffbb3075abab,Warren Weckesser,warren.weckesser@gmail.com,2025-10-31 03:00:31+00:00,Warren Weckesser,2025-10-31 03:00:34+00:00,"DOC: Add a plot to the 'unwrap' docstring.
+
+[skip actions] [skip azp] [skip cirrus]",83
+numpy/numpy,9d2f82eda826f952d06c971803fd6d004f6f33ec,jorenham,jhammudoglu@gmail.com,2025-10-30 20:48:27+00:00,jorenham,2025-10-30 20:48:27+00:00,TYP: update the `ufunc` method stubs to match their new signatures,66
+numpy/numpy,40f5f6fff96934999850337e9212f2b5470513fe,jorenham,jhammudoglu@gmail.com,2025-10-30 15:20:30+00:00,jorenham,2025-10-30 19:38:32+00:00,"BUG: ufunc method signatures
+
+Co-authored-by: Sebastian Berg <sebastianb@nvidia.com>",84
+numpy/numpy,d8eb2256ee4f21c90e8498c6008e08c960b3d174,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2025-10-30 19:00:33+00:00,GitHub,2025-10-30 19:00:33+00:00,"MAINT: Bump github/codeql-action from 4.31.0 to 4.31.2 (#30106)
+
+Bumps [github/codeql-action](https://github.com/github/codeql-action) from 4.31.0 to 4.31.2.
+- [Release notes](https://github.com/github/codeql-action/releases)
+- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/github/codeql-action/compare/4e94bd11f71e507f7f87df81788dff88d1dacbfb...0499de31b99561a6d14a36a5f662c2a54f91beee)
+
+---
+updated-dependencies:
+- dependency-name: github/codeql-action
+  dependency-version: 4.31.2
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",765
+numpy/numpy,2f291c2899d59a974a96a875c1f4ffd7c7215a00,Britney Whittington,103079612+bwhitt7@users.noreply.github.com,2025-10-30 17:27:27+00:00,GitHub,2025-10-30 17:27:27+00:00,"TST: Add thread-safe testing guidelines (#30101)
+
+* DOC: Add parallel testing guidelines
+
+* DOC: Fix code example
+
+* STY: Fix header length",139
+numpy/numpy,7612da0dacaf6927f849c7b7a850ad8211b7daf8,Charles Harris,charlesr.harris@gmail.com,2025-10-30 12:58:14+00:00,GitHub,2025-10-30 12:58:14+00:00,"Merge pull request #30100 from mattip/blobless
+
+BLD: use blobless checkout on CircleCI",86
+numpy/numpy,56243c991894dfbae2a6f9142927441e98c0f3f3,Matti Picus,matti.picus@gmail.com,2025-10-30 11:41:35+00:00,GitHub,2025-10-30 11:41:35+00:00,"BLD: update scipy-openblas, use -Dpkg_config_path (#30049)",58
+numpy/numpy,dc3549896bdc187d96275534b371c50778b6bf6f,mattip,matti.picus@gmail.com,2025-10-30 05:41:17+00:00,mattip,2025-10-30 05:47:58+00:00,BLD: use blobless checkout on CircleCI [skip actions][skip azp][skip cirrus],76
+numpy/numpy,cfda63ddd2a7cf06b77a09d5834f053c092bd85a,Matti Picus,matti.picus@gmail.com,2025-10-30 05:37:00+00:00,GitHub,2025-10-30 05:37:00+00:00,"Merge pull request #30097 from riku-sakamoto/update_armhf_CI_image
+
+CI: Update ARM job (armhf_test) to use Ubuntu 24.04",119
+numpy/numpy,32887277983a3e8ff0f24413ba48e6da1f2b4337,Abhishek Tiwari,Abhi210@users.noreply.github.com,2025-10-30 04:10:22+00:00,GitHub,2025-10-30 04:10:22+00:00,"Update doc/release/upcoming_changes/30068.expired.rst
+
+Co-authored-by: Joren Hammudoglu <jhammudoglu@gmail.com>",111
+numpy/numpy,fa84b04c51ae903caf8bcff66e47f74b514582af,Koki Watanabe,56009584+math-hiyoko@users.noreply.github.com,2025-10-30 01:48:47+00:00,GitHub,2025-10-30 01:48:47+00:00,"ENH: np.unique: support hash based unique for complex dtype (#29537)
+
+* save: editting
+
+* enh: implement unique_complex
+
+* fix: spin build
+
+* enh: impl unique_numeric for integer, float and complex
+
+* fix: case when complex is nan
+
+* fix: case when order is not guaranteed
+
+* fix: lint
+
+* fix: type of data
+
+* fix: error
+
+* enh: change template type for unordered_set
+
+* enh: set function
+
+* enh: refactoring
+
+* enh: refactoring
+
+* enh: refactor test
+
+* enh: apply inline
+
+* doc: performance and change
+
+* enh: test check -0.0 and -np.nan
+
+* enh: use fnv-hash for complex
+
+* fix: add const
+
+* fix: use memcpy
+
+* fix: use static_cast
+
+* fix: remove support for float
+
+* fix: change variable name
+
+* fix: inline
+
+* fix: template type
+
+* fix: padding buffer
+
+* fix: padding buffer
+
+* fix: use buffer
+
+* fix: add constexpr
+
+* fix: copy of long double
+
+* fix: valie_real -> value_imag
+
+* fix: reinterpret value pointer
+
+* fix: use NPY_BITSOF_*
+
+* fix: use fnv magic prime
+
+* enh: refactoring
+
+* doc: fix docs
+
+* doc: fix docs
+
+* enh: add comment
+
+* fix: use sizeof to hash complex
+
+* fix: use reinterpret_cast
+
+* fix: impl hash_complex_large
+
+* fix: use constexpr
+
+* fix: define hash_complex_clongdouble
+
+* fix: use NPY_SIZEOF_LONGDOUBLE
+
+* fix: use IEEEl2bitsrep
+
+* fix: remove designated initializers
+
+* fix: comment
+
+* fix: small fix
+
+* fix: change case for handling bit expression
+
+* fix: refactoring",1399
+numpy/numpy,b20568e62a39c79ee1a8eecdd1a36ccb35dbbbc0,Riku Sakamoto,rikusaka03@gmail.com,2025-10-29 15:26:04+00:00,Riku Sakamoto,2025-10-29 23:32:49+00:00,"CI: Update ARM job (armhf_test) to use Ubuntu 24.04
+
+Update the GitHub Actions image for the `armhf_test` job to Ubuntu 24.04-arm.
+(See gh-30086)",145
+numpy/numpy,fb55b5b50d6b8b3551efdd3ef8b9ed8bcb3a9f75,Charles Harris,charlesr.harris@gmail.com,2025-10-29 14:51:49+00:00,GitHub,2025-10-29 14:51:49+00:00,"Merge pull request #30091 from jorenham/fix-ma.core._frommethod
+
+BUG, TYP: Fix ``ma.core._frommethod`` function signatures",122
+numpy/numpy,615f5bb07676dd390f3fa2f7fb3d07ce37ea4068,Joren Hammudoglu,jhammudoglu@gmail.com,2025-10-29 03:45:08+00:00,GitHub,2025-10-29 03:45:08+00:00,Merge pull request #30093 from star1327p/typos-search,53
+numpy/numpy,d8e5d849789f501d890250430e48fdbcb43879b1,Christine P. Chai,star1327p@gmail.com,2025-10-29 03:21:18+00:00,GitHub,2025-10-29 03:21:18+00:00,"Update numpy/lib/_index_tricks_impl.py [skip actions][skip azp][skip cirrus]
+
+Co-authored-by: Joren Hammudoglu <jhammudoglu@gmail.com>",134
+numpy/numpy,d01d4a709d773c484afd62f4cb3d294330f6d377,star1327p,star1327p@gmail.com,2025-10-29 02:48:30+00:00,star1327p,2025-10-29 02:48:30+00:00,DOC: Correct grammatical usage like a/an [skip actions][skip azp][skip cirrus],78
+numpy/numpy,959d38fdf1004b601f1e375ea78ffd3debda321d,jorenham,jhammudoglu@gmail.com,2025-10-29 01:48:41+00:00,jorenham,2025-10-29 01:48:41+00:00,DOC: fix cross-reference warning for ambiguous `.ravel`,55
+numpy/numpy,f0e732b6c06626675bb7680e1d0e3e979d55ab1d,jorenham,jhammudoglu@gmail.com,2025-10-29 01:21:58+00:00,jorenham,2025-10-29 01:26:14+00:00,TYP: Annotate the ``ma.core._frommethod`` functions,51
+numpy/numpy,aaf43cab66ef41b22f8e7533d83d3483c78502e4,jorenham,jhammudoglu@gmail.com,2025-10-28 23:19:13+00:00,jorenham,2025-10-28 23:19:13+00:00,TYP: remove unused stubtest allowlist entries for ``numpy.ma``,62
+numpy/numpy,b205e91730e5be25a1da917a7d765b077a9f800f,jorenham,jhammudoglu@gmail.com,2025-10-28 21:27:24+00:00,jorenham,2025-10-28 21:27:24+00:00,BUG: Fix ``ma.core._frommethod`` function signatures,52
+numpy/numpy,e6478c508435e5dcaba256561eed4e117121a9d9,Sebastian Berg,sebastianb@nvidia.com,2025-10-28 18:14:20+00:00,GitHub,2025-10-28 18:14:20+00:00,BUG: Fix resize when it contains references (#29970),52
+numpy/numpy,2d73f33a0263584f1966be6ebb843be571ed47b4,Joren Hammudoglu,jhammudoglu@gmail.com,2025-10-28 16:56:42+00:00,GitHub,2025-10-28 16:56:42+00:00,"TYP: ``numpy.ma``: Annotate the callable wrapper classes (#30084)
+
+* TYP: stub ``ma.isMaskedArray``
+
+* TYP: stub (subclasses of) `ma.core._MaskedUFunc`
+
+* TYP: work around false postiive stubtest errors for `ma.isarray` and `ma.isMA`
+
+* TYP: stub `ma.masked_print_option`
+
+* TYP: stub `ma.core._frommethod` (partially)
+
+* TYP: ""dot"" the remaining callable wrapper instances",373
+numpy/numpy,a3a2f2fc2283f0b643e65b38b28592b63a9a786d,Marten van Kerkwijk,mhvk@astro.utoronto.ca,2025-10-28 10:29:19+00:00,GitHub,2025-10-28 10:29:19+00:00,"MAINT: replace use of asanyarray with ... to keep arrays (#29951)
+
+With gh-28576, it has become possible to ensure that when calling a ufunc, the output is guaranteed to be an array.
+
+This PR uses that to replace np.asanyarray calls in some functions. I'm not sure this is complete -- these were just parts of code for which test failed if np.anyarray(scalar) is made to return a read-only array (see gh-29876).
+
+I do think there are all small improvements, though.",465
+numpy/numpy,6cf1fddea79029c238dbd3c165b45132d2f1f867,Warren Weckesser,warren.weckesser@gmail.com,2025-10-27 23:16:46+00:00,GitHub,2025-10-27 23:16:46+00:00,"DOC: Fix the first small 'process_core_dims()' example. (#30083)
+
+[skip actions] [skip azp] [skip cirrus]",105
+numpy/numpy,6dfe8b5fdb6e03cfb0cf99be34d89b6655b926ec,Joren Hammudoglu,jhammudoglu@gmail.com,2025-10-27 20:23:35+00:00,GitHub,2025-10-27 20:23:35+00:00,Merge pull request #30082 from numpy/dependabot/github_actions/astral-sh/setup-uv-7.1.2,87
+numpy/numpy,46503eec3f0c8ffd7ff59edb2637e2f51225e864,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2025-10-27 19:53:50+00:00,GitHub,2025-10-27 19:53:50+00:00,"MAINT: Bump github/codeql-action from 4.30.9 to 4.31.0 (#30081)
+
+Bumps [github/codeql-action](https://github.com/github/codeql-action) from 4.30.9 to 4.31.0.
+- [Release notes](https://github.com/github/codeql-action/releases)
+- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/github/codeql-action/compare/16140ae1a102900babc80a33c44059580f687047...4e94bd11f71e507f7f87df81788dff88d1dacbfb)
+
+---
+updated-dependencies:
+- dependency-name: github/codeql-action
+  dependency-version: 4.31.0
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",765
+numpy/numpy,b1b9bbd5882c5cb17547d4b1254e6fddb9f87d12,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2025-10-27 19:38:33+00:00,GitHub,2025-10-27 19:38:33+00:00,"MAINT: Bump astral-sh/setup-uv from 7.1.1 to 7.1.2
+
+Bumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.1.1 to 7.1.2.
+- [Release notes](https://github.com/astral-sh/setup-uv/releases)
+- [Commits](https://github.com/astral-sh/setup-uv/compare/2ddd2b9cb38ad8efd50337e8ab201519a34c9f24...85856786d1ce8acfbcc2f13a5f3fbd6b938f9f41)
+
+---
+updated-dependencies:
+- dependency-name: astral-sh/setup-uv
+  dependency-version: 7.1.2
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>",577
+numpy/numpy,0218a25f39d957a39c7f392cfefb97a143f2ef5c,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2025-10-27 18:30:04+00:00,GitHub,2025-10-27 18:30:04+00:00,"MAINT: Bump actions/upload-artifact from 4.6.2 to 5.0.0 (#30080)
+
+Bumps [actions/upload-artifact](https://github.com/actions/upload-artifact) from 4.6.2 to 5.0.0.
+- [Release notes](https://github.com/actions/upload-artifact/releases)
+- [Commits](https://github.com/actions/upload-artifact/compare/ea165f8d65b6e75b540449e92b4886f43607fa02...330a01c490aca151604b8cf639adc76d48f6c5d4)
+
+---
+updated-dependencies:
+- dependency-name: actions/upload-artifact
+  dependency-version: 5.0.0
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",700
+numpy/numpy,0959a545c464211191686120dad8a6e38453d84c,Matti Picus,matti.picus@gmail.com,2025-10-26 10:30:31+00:00,GitHub,2025-10-26 10:30:31+00:00,BUG: prefer passing a pointer to the helper function to avoid punning aliasing (#30077),87
+numpy/numpy,8afe11889d9216807cfa0644991f36df31279e64,Nathan Goldbaum,nathan.goldbaum@gmail.com,2025-10-25 16:33:14+00:00,GitHub,2025-10-25 16:33:14+00:00,BUG: avoid negating INT_MIN in PyArray_Round implementation (#30071),68
+numpy/numpy,1bdb36f0b0cea252366a61165c04817f280e2cb5,Abhishek Tiwari,Abhi210@users.noreply.github.com,2025-10-25 07:51:58+00:00,GitHub,2025-10-25 07:51:58+00:00,Merge branch 'main' into gh-11521-core-deprecations,51
+numpy/numpy,9e42499c6088e895b99fb593a2d4b194948d62fb,Warren Weckesser,warren.weckesser@gmail.com,2025-10-25 07:43:48+00:00,GitHub,2025-10-25 07:43:48+00:00,"DOC: Fix a couple typos in generalized-ufuncs.rst. (#30074)
+
+[skip actions] [skip azp] [skip cirrus]",100
+numpy/numpy,41cebd0f891f54d3090d4544d3f7a932ec0d4782,abhi210,27881020+Abhi210@users.noreply.github.com,2025-10-24 07:29:15+00:00,abhi210,2025-10-25 03:13:12+00:00,"This PR reference #11521. It removes deprecated functionality and cleans up outdated code paths:
+
+- Removed the deprecated `style` parameter from `array2string` in `numpy/_core/arrayprint.py`, along with its related documentation and tests.
+- Replaced the deprecation warning for `np.sum` called on generators with a `TypeError` in `numpy/_core/fromnumeric.py`, since this behavior is now unsupported.
+- Removed a leftover docstring that was intended to be deleted in PR #26268.",478
+numpy/numpy,153a3979c2f81cf0fd24ffbcd31ce288e5d17b2c,Joren Hammudoglu,jhammudoglu@gmail.com,2025-10-24 22:28:51+00:00,GitHub,2025-10-24 22:28:51+00:00,Merge pull request #30073 from star1327p/an-1D-to-a-1D,54
+numpy/numpy,07ef0177960daf11bd66541077a7bc98d76b883a,Christine P. Chai,star1327p@gmail.com,2025-10-24 21:36:42+00:00,GitHub,2025-10-24 21:36:42+00:00,DOC: Correct a typo: an 1d -> a 1d [skip actions][skip azp][skip cirrus],72
+numpy/numpy,1d053b3482b178ed057474402ae94c80701796e0,Britney Whittington,103079612+bwhitt7@users.noreply.github.com,2025-10-24 15:17:29+00:00,GitHub,2025-10-24 15:17:29+00:00,TST: Remove unneeded test__datasource thread-unsafe markers (#30064),68
+numpy/numpy,df32a985df1459e2e1ab4aab94d56341ccb24b37,Joren Hammudoglu,jhammudoglu@gmail.com,2025-10-24 01:14:18+00:00,GitHub,2025-10-24 01:14:18+00:00,"TYP: ``numpy.ma``: Annotate 27 functions related to masks and fill-values (#30067)
+
+* TYP: Annotate ``ma.make_mask()`` and ``ma.make_mask_descr()``
+
+* TYP: Annotate ``ma.make_mask_none()``
+
+* TYP: ``ma.core``: move some of the classes to the top (for the sake of sanity)
+
+* TYP: ``ma.core``: introduce a type alias for boolean mask arrays
+
+* TYP: Annotate ``ma.getmaskarray()``
+
+* TYP: Annotate ``ma.getdata()``
+
+* TYP: update type-tests for ``ma.getmask()`` to use the literal `False` bool type
+
+* TYP: Annotate ``ma.mask_or()``
+
+* TYP: Annotate ``ma.flatten_mask()``
+
+* TYP: Annotate ``ma.flatten_structured_array()``
+
+* TYP: Annotate ``ma.masked_invalid()``
+
+* TYP: Annotate ``ma.masked_where()``
+
+* TYP: Annotate ``ma.masked_object()`` and ``ma.masked_values()``
+
+* TYP: Annotate ``ma.fix_invalid()``
+
+* TYP: Annotate ``ma.*_fill_value()``",843
+numpy/numpy,852091a09cc58e2eddd41f713665e449a209b1fa,Joren Hammudoglu,jhammudoglu@gmail.com,2025-10-24 01:12:54+00:00,GitHub,2025-10-24 01:12:54+00:00,"TYP: ``polynomial``: Simplify ``chebpts{1,2}`` function stubs (#30065)",70
+pandas-dev/pandas,f4851e500a43125d505db64e548af0355227714b,Matthew Roeschke,10647082+mroeschke@users.noreply.github.com,2025-11-08 20:40:33+00:00,GitHub,2025-11-08 20:40:33+00:00,"DOC: Remove ..versionadded directives before 2.0 (#63035)
+
+Co-authored-by: Richard Shadrach <45562402+rhshadrach@users.noreply.github.com>",138
+pandas-dev/pandas,a2a5f870c0d4822c23773c88160ecd4dcf0f9f21,xingyubobo33333,13339536952@163.com,2025-11-08 18:49:55+00:00,GitHub,2025-11-08 18:49:55+00:00,Remove the @doc decorator from pandas/core/accessor.py (#63026),63
+pandas-dev/pandas,cd0efe1f171a92724ce2b9eb13c98d36464a2417,ADITYA KUSHWAHA,aditykushwaha69@gmail.com,2025-11-08 17:43:09+00:00,GitHub,2025-11-08 17:43:09+00:00,ENH: Add solution guidance to IntCastingNaNError message (#62838) (#63044),74
+pandas-dev/pandas,e95175c8671f3f4e3f6ff390d726330af44f3d68,Wang Haoxiang,"2795352227@qq,com",2025-11-08 17:40:06+00:00,GitHub,2025-11-08 17:40:06+00:00,"TST: Add regression tests for enlarging MultiIndex with None keys (GH… (#63025)
+
+Co-authored-by: wdyy20041223 <2795352227@qq,com>
+Co-authored-by: pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>",219
+pandas-dev/pandas,2498bd14454f6bcd7431b55deeb7980b451efc72,Christine P. Chai,star1327p@gmail.com,2025-11-08 15:19:01+00:00,GitHub,2025-11-08 15:19:01+00:00,DOC: Correct grammar issues about a/an usage (#63042),53
+pandas-dev/pandas,0d06ac85bbb64d30ad37b1139dcf08ae37a21270,Joris Van den Bossche,jorisvandenbossche@gmail.com,2025-11-08 01:40:42+00:00,GitHub,2025-11-08 01:40:42+00:00,"CI: ensure to trigger the sdist/wheel builds on release event (#62626)
+
+Co-authored-by: Matthew Roeschke <10647082+mroeschke@users.noreply.github.com>",150
+pandas-dev/pandas,4a417cfe3b06a07a50b2140c84edbe1bb0c37463,Matthew Roeschke,10647082+mroeschke@users.noreply.github.com,2025-11-08 00:59:50+00:00,GitHub,2025-11-08 00:59:50+00:00,"REF: Release gil in is_range_indexer, is_sequence_range (#63038)",64
+pandas-dev/pandas,942c56b92b9008bc7d0e122c2480bcb65cea0586,Matthew Roeschke,10647082+mroeschke@users.noreply.github.com,2025-11-07 21:03:07+00:00,GitHub,2025-11-07 21:03:07+00:00,CLN: Replace get_option(infer_string) with using_string_dtype (#63036),70
+pandas-dev/pandas,9b82f9635de6d4765e1c25904e6d268c793d905a,jbrockmendel,jbrockmendel@gmail.com,2025-11-07 19:43:03+00:00,GitHub,2025-11-07 19:43:03+00:00,DEPR: verify_integrity in DataFrame.set_index (#63033),54
+pandas-dev/pandas,f1904ae09adfaf4923598bb1b2c9b20fd06ecbc3,Joris Van den Bossche,jorisvandenbossche@gmail.com,2025-11-07 18:18:26+00:00,GitHub,2025-11-07 18:18:26+00:00,"CoW: add readonly flag to ExtensionArrays, return read-only EA/ndarray in .array/EA.to_numpy() (#61925)",103
+pandas-dev/pandas,ee3ade7d0ba243d545245f0ba98aec269f788262,Kevin Amparado,109636487+KevsterAmp@users.noreply.github.com,2025-11-07 17:53:30+00:00,GitHub,2025-11-07 17:53:30+00:00,Remove ALL gitpod/docker/devcontainer related files and docs (#62859),69
+pandas-dev/pandas,e0398c43e51c50b1213bce562cc62b382fb26681,Li,litang_99@yahoo.com,2025-11-07 17:23:31+00:00,GitHub,2025-11-07 17:23:31+00:00,BUG: empty slice assignment raises if datetime column is present #50942 (#62934),80
+pandas-dev/pandas,c7db90f4a13dac78001afd6e7a7d3613636788b1,Lu Yibo,1478354316@qq.com,2025-11-07 17:21:25+00:00,GitHub,2025-11-07 17:21:25+00:00,DOC: Replace @Appender with inline docstring in io\sas\sas_xport.py (#63021),76
+pandas-dev/pandas,00a7c411572758cb7ff4926ad1d24f19d62faa49,jbrockmendel,jbrockmendel@gmail.com,2025-11-06 23:01:04+00:00,GitHub,2025-11-06 23:01:04+00:00,"REF: inline array_to_datetime64 cases, update tests (#63015)",60
+pandas-dev/pandas,564197951e50711085837e15d96054416f416fff,Matthew Roeschke,10647082+mroeschke@users.noreply.github.com,2025-11-06 21:35:13+00:00,GitHub,2025-11-06 21:35:13+00:00,TST: Reduce deep copies in the test suite (#62970),50
+pandas-dev/pandas,ebbd16c271835845e5a66785625a4b88086d908d,Marco Edward Gorelli,33491632+MarcoGorelli@users.noreply.github.com,2025-11-06 19:08:44+00:00,GitHub,2025-11-06 19:08:44+00:00,DOC: Correct return type for `DataFrame.hist` (#63011),54
+pandas-dev/pandas,ee172bad83bcf3e47b21f78de36cebd5a37e4df0,invain01,3038026071@qq.com,2025-11-06 18:53:28+00:00,GitHub,2025-11-06 18:53:28+00:00,STY: Add strict=True in zip() in \core (#63005),47
+pandas-dev/pandas,52972f42f9a7d53e24295a2007897d6b93fec0d1,Patrick Hoefler,61934744+phofl@users.noreply.github.com,2025-11-06 17:13:08+00:00,GitHub,2025-11-06 17:13:08+00:00,DOC: Add versionadded markers for anti joins (#62962),53
+pandas-dev/pandas,de6f6b3af36c35fe00b2bd4089e9348e7a8190e6,jbrockmendel,jbrockmendel@gmail.com,2025-11-06 17:10:43+00:00,GitHub,2025-11-06 17:10:43+00:00,DEPR: silent string casting in binary Timedelta operations (#62989),67
+pandas-dev/pandas,844e1e171460b6cfb2c510b8489c95e02709eadc,Matthew Roeschke,10647082+mroeschke@users.noreply.github.com,2025-11-06 17:01:57+00:00,GitHub,2025-11-06 17:01:57+00:00,DOC: Add filesystem keyword arg and documentation to DataFrame.to_parquet (#62924),82
+pandas-dev/pandas,ac6db7e1174fb73860c2e36d013809a857843339,Geeeeeene,154046108+Geeeeeene@users.noreply.github.com,2025-11-06 16:46:50+00:00,GitHub,2025-11-06 16:46:50+00:00,"   DOC: Replace @Appender decorators with inline docstrings in IntervalIndex (#63000)
+
+Co-authored-by: pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>",176
+pandas-dev/pandas,0627903105c7c4f8cfdba48792f2e9648b1d3a6b,Nithurshen,75428875+Nithurshen@users.noreply.github.com,2025-11-06 16:36:27+00:00,GitHub,2025-11-06 16:36:27+00:00,TST: Add regression test for pivot on empty frame with period dtype (GH62705) (#63003),86
+pandas-dev/pandas,31942c8e46a12c9a19106846428241b5cf6aa4eb,Wang Haoxiang,"2795352227@qq,com",2025-11-06 16:25:19+00:00,GitHub,2025-11-06 16:25:19+00:00,"TST: Add regression tests for setitem with different string storage (… (#63009)
+
+Co-authored-by: wdyy20041223 <2795352227@qq,com>",129
+pandas-dev/pandas,88c276a489abd1742c84ca1cafedb1b9e93f083a,Álvaro Kothe,kothe65@gmail.com,2025-11-06 00:06:16+00:00,GitHub,2025-11-06 00:06:16+00:00,BUG: fix polluted window in skewness computation (#62863),57
+pandas-dev/pandas,65a2a749773a4ee11b07048143ab03bc4846fd72,jbrockmendel,jbrockmendel@gmail.com,2025-11-06 00:04:38+00:00,GitHub,2025-11-06 00:04:38+00:00,BUG: empty_frame[tuple] = values corrupting frame (#63002),58
+pandas-dev/pandas,930b66d6b50c1acc66311cd04cff8e75da15e86c,Matthew Roeschke,10647082+mroeschke@users.noreply.github.com,2025-11-05 22:30:02+00:00,GitHub,2025-11-05 22:30:02+00:00,TST: Improve runtime of some unit tests (#62968),48
+pandas-dev/pandas,093586f3741fed574633307691b4900a4ae55f71,Joris Van den Bossche,jorisvandenbossche@gmail.com,2025-11-05 21:36:32+00:00,GitHub,2025-11-05 21:36:32+00:00,DOC: fix --extra-inex-url keyword in install docs for nightly wheels (#63001),77
+pandas-dev/pandas,08c2c0d3d166109f6286337355259e0dff5effbb,Matthew Roeschke,10647082+mroeschke@users.noreply.github.com,2025-11-05 21:19:45+00:00,GitHub,2025-11-05 21:19:45+00:00,REF: Make deep keyword only in Block(Manager).copy (#62969),59
+pandas-dev/pandas,50d8d1eb4440b0819dde5ae15cbd5bef9c8bf2d4,Richard Shadrach,45562402+rhshadrach@users.noreply.github.com,2025-11-05 18:31:51+00:00,GitHub,2025-11-05 18:31:51+00:00,DEPR/BUG: Do not ignore sort in concat for DatetimeIndex (#62843),65
+pandas-dev/pandas,03a528956b1bf7cf325a9008ebc691ba784e491e,Lu Yibo,1478354316@qq.com,2025-11-05 18:13:31+00:00,GitHub,2025-11-05 18:13:31+00:00,Add strict=true in zip() in tests\arrays (#62997),49
+pandas-dev/pandas,585c89e53252070e5e5b465697d4201dfd610aa2,Lu Yibo,1478354316@qq.com,2025-11-05 18:12:20+00:00,GitHub,2025-11-05 18:12:20+00:00,Add strict mode to zip in divmod tests in pandas\tests\arithmetic\test_numeric (#62996),87
+pandas-dev/pandas,842a2c61eff5173e4a96e6cb967fb99b6f94486d,invain01,3038026071@qq.com,2025-11-05 18:10:16+00:00,GitHub,2025-11-05 18:10:16+00:00,"STY: Add strict=True in zip() in \core, \tests and \scripts (#62984)",68
+pandas-dev/pandas,9f66b816821b2f6fbef3f6ad31a8643e5845c592,jbrockmendel,jbrockmendel@gmail.com,2025-11-05 00:20:33+00:00,GitHub,2025-11-05 00:20:33+00:00,CLN: remove unnecessary return tuple elements (#62987),54
+pandas-dev/pandas,5ba3d628226d40c0b72bd95779f3a68e3c02fad2,jbrockmendel,jbrockmendel@gmail.com,2025-11-04 22:08:30+00:00,GitHub,2025-11-04 22:08:30+00:00,BUG: td64 * masked_dtype raising (#62986),41
+pandas-dev/pandas,893c7842338aa1b35d5864e2dc5e6431c92dc184,Matthew Roeschke,10647082+mroeschke@users.noreply.github.com,2025-11-04 21:52:25+00:00,GitHub,2025-11-04 21:52:25+00:00,DOC: Remove ..versionchanged less than version 2.0 (#62939),59
+pandas-dev/pandas,c49fc828adf4a7b9c1e7d7dfb63e6c836e1e49d3,Matthew Roeschke,10647082+mroeschke@users.noreply.github.com,2025-11-04 20:10:02+00:00,GitHub,2025-11-04 20:10:02+00:00,CI: Use macos-15-intel in python-dev job (#62985),49
+pandas-dev/pandas,f0d73591e28882178cad0af098a3f62d962094cc,Richard Shadrach,45562402+rhshadrach@users.noreply.github.com,2025-11-04 20:03:52+00:00,GitHub,2025-11-04 20:03:52+00:00,BUG: Fix sorting behavior of DataFrame.join on list arguments (#62954),70
+pandas-dev/pandas,ede9a184699d3333b244f7b65089aa4f9f81f1c5,Lakshya Upadhyaya,lakshya.upadhyaya05@gmail.com,2025-11-04 19:35:07+00:00,GitHub,2025-11-04 19:35:07+00:00,DEPR: deprecate passing Series to Index.join (#62948),53
+pandas-dev/pandas,efe1a5c6280c6294022cca3e232dce8078695d42,Parthava Adabala,parthava.adabala@gmail.com,2025-11-04 18:03:17+00:00,GitHub,2025-11-04 18:03:17+00:00,"BUG: Handle non-dict items in json_normalize with max_level (#62848)
+
+Co-authored-by: pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>",159
+pandas-dev/pandas,241f07f85eeb6ff77d6c0cef76faea7aa5131679,Lu Yibo,1478354316@qq.com,2025-11-04 17:46:39+00:00,GitHub,2025-11-04 17:46:39+00:00,STY: Add strict=True to zip() calls in pandas/core/reshape/concat.py (#62983),77
+pandas-dev/pandas,2791388dec43ab8ac9d4fd552640804222a947f1,Lu Yibo,1478354316@qq.com,2025-11-04 17:45:39+00:00,GitHub,2025-11-04 17:45:39+00:00,STY: Add strict=True to zip() calls in pandas/core/reshape/encoding.py (Ruff B905) (#62982),91
+pandas-dev/pandas,c14d4f17c2dd94fe68f46bb731a312f2847b75f9,Richard Shadrach,45562402+rhshadrach@users.noreply.github.com,2025-11-04 17:28:14+00:00,GitHub,2025-11-04 17:28:14+00:00,DOC: Update Working with text data for 3.0 (#62581),51
+pandas-dev/pandas,cd8dc38ea0bb96029c8cf42cab937b6ae4d4f727,jbrockmendel,jbrockmendel@gmail.com,2025-11-04 17:13:35+00:00,GitHub,2025-11-04 17:13:35+00:00,DEPR: inconsistent string parsing in DatetimeIndex.indexer_at_time (#62945),75
+pandas-dev/pandas,a3c208d35565dfa82305a1399921d41b2343c248,FLOURA ANGEL,floura71196@gmail.com,2025-11-04 17:11:47+00:00,GitHub,2025-11-04 17:11:47+00:00,BUG: resample with asfreq ignores origin if the dataframe has a fixed frequency #62725 (#62763),95
+pandas-dev/pandas,f918172b340a00c947a36008eeebb3c635da229e,Matthew Roeschke,10647082+mroeschke@users.noreply.github.com,2025-11-04 15:57:44+00:00,GitHub,2025-11-04 15:57:44+00:00,BUG: copy.copy returning deep instead of shallow copy (#62971),62
+pandas-dev/pandas,09a83d7e1a6d6e2221872702db2aaf5a075600e4,Matthew Roeschke,10647082+mroeschke@users.noreply.github.com,2025-11-04 15:56:25+00:00,GitHub,2025-11-04 15:56:25+00:00,CLN: Use RangeIndex placeholder for Manager.reduce (#62972),59
+pandas-dev/pandas,2a4f6473dc46cb434b7b18cf59cff4948fd14ab2,Jixun Sun,160219251+AnonToky@users.noreply.github.com,2025-11-04 15:51:14+00:00,GitHub,2025-11-04 15:51:14+00:00,STY: apply b905 strict limit to zip in pandas/core/reshape/concat.py (#62978),77
+pandas-dev/pandas,f33207b9672daaac1d5243ee0aec6300e2098c75,Georgina Scott,154103190+georginas05@users.noreply.github.com,2025-11-04 13:00:30+00:00,GitHub,2025-11-04 13:00:30+00:00,"BUG: read_csv skipping a line with double quotes (#62855)
+
+Co-authored-by: u7397058 <Judy.Xie@anu.edu.au>
+Co-authored-by: Zephy <74450862+zephyrieal@users.noreply.github.com>",174
+pandas-dev/pandas,17b20d22bc31586cc5203a782ac577b52b45bede,Lobna Allam,allamlobna@gmail.com,2025-11-04 12:51:44+00:00,GitHub,2025-11-04 12:51:44+00:00,"DOC: Enhance BooleanDtype docstring (#62890)
+
+Co-authored-by: Richard Shadrach <45562402+rhshadrach@users.noreply.github.com>",125
+pandas-dev/pandas,af63a1cab9c1ebd55f5d4eef9548cbe425986fa5,Sreeja Govardhana,40860591+sreeja97@users.noreply.github.com,2025-11-04 12:49:20+00:00,GitHub,2025-11-04 12:49:20+00:00,"ENH: pd.NamedAgg forwards *args and **kwargs to aggfunc (#62729)
+
+Co-authored-by: pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>",155
+pandas-dev/pandas,607e489bd112d966df53fa3e1a410d15d2ec54ad,AustinOregonState,155777104+AustinOregonState@users.noreply.github.com,2025-11-03 22:12:11+00:00,GitHub,2025-11-03 22:12:11+00:00,DOC: Replace @doc decorator with inline docstrings for BaseMaskedArray (#62921),79
+pandas-dev/pandas,ead37b2db46ea6c0bccbac70a55a6517fa0d5843,pre-commit-ci[bot],66853113+pre-commit-ci[bot]@users.noreply.github.com,2025-11-03 17:30:09+00:00,GitHub,2025-11-03 17:30:09+00:00,"[pre-commit.ci] pre-commit autoupdate (#62967)
+
+Co-authored-by: pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>",137
+pandas-dev/pandas,865ae1dc1e4fa986ba654f72ab347b612516d353,Marco Edward Gorelli,33491632+MarcoGorelli@users.noreply.github.com,2025-11-03 17:05:43+00:00,GitHub,2025-11-03 17:05:43+00:00,DEPR: Deprecate DataFrame Interchange Protocol (#62920),55
+pandas-dev/pandas,4dc42966245b86cd700af94631660032745e0adf,Joris Van den Bossche,jorisvandenbossche@gmail.com,2025-11-03 16:44:41+00:00,GitHub,2025-11-03 16:44:41+00:00,WEB: add note to PDEP-10 about delayed timeline for requiring pyarrow (#61706),78
+pandas-dev/pandas,ffc6feea277a15e305cf2628422d4209eed05f51,Patrick Hoefler,61934744+phofl@users.noreply.github.com,2025-11-03 16:35:42+00:00,GitHub,2025-11-03 16:35:42+00:00,BUG: Series.resample failing for non-nanosecond unit that's out of bounds for nano reso (#62955),96
+pandas-dev/pandas,4075feaa134054121b911b45567f6116d9e5302b,Natalia Mokeeva,91160475+natmokval@users.noreply.github.com,2025-11-03 15:42:17+00:00,GitHub,2025-11-03 15:42:17+00:00,"BUG: bdate_range with ""cbh"" fails (#62873)",42
+pandas-dev/pandas,77fdffd507f26b7032f99097a384394a89f656d3,justmhie,155079311+justmhie@users.noreply.github.com,2025-11-02 12:44:52+00:00,GitHub,2025-11-02 12:44:52+00:00,DOC: Clarify groupby axis operations (#62853),45
+pandas-dev/pandas,8f359f8e13a501e7f26a215796fe094825ba86bd,Lonercode,91500485+Lonercode@users.noreply.github.com,2025-11-01 23:12:32+00:00,GitHub,2025-11-01 23:12:32+00:00,TST:replace ensure_clean with temp_file in test_file_buffer_url.py (#62953),75
+pandas-dev/pandas,54ab8060ca2556cef803121a210a029daf2147cb,matiaslindgren,matias.lindgren@iki.fi,2025-11-01 20:37:37+00:00,GitHub,2025-11-01 20:37:37+00:00,TST: Add test DataFrame.join with CategoricalIndex (#62812),59
+pandas-dev/pandas,c3bace88fe62cd9c6a780998117f6a11a8fed16c,Jayalakshmi M,161938860+jayalakshmiiii@users.noreply.github.com,2025-11-01 16:10:06+00:00,GitHub,2025-11-01 16:10:06+00:00,Add missing space in  README.md (#62951),40
+pandas-dev/pandas,82fa27153e5b646ecdb78cfc6ecf3e1750443892,jbrockmendel,jbrockmendel@gmail.com,2025-10-31 22:16:22+00:00,GitHub,2025-10-31 22:16:22+00:00,BUG: DatetimeIndex asof with string key (#62943),48
+pandas-dev/pandas,9be7f0660a60ed7f630836c074ea9a268f1b6801,jbrockmendel,jbrockmendel@gmail.com,2025-10-31 20:27:36+00:00,GitHub,2025-10-31 20:27:36+00:00,BUG: infer_freq with Series[pyarrow[timestamp]] (#62942),56
+pandas-dev/pandas,8226043690dd937c16363b4a619215e099e2bb00,jbrockmendel,jbrockmendel@gmail.com,2025-10-31 20:26:49+00:00,GitHub,2025-10-31 20:26:49+00:00,"BUG: DataFrame.combine_first, combine with non-unique columns (#62941)",70
+pandas-dev/pandas,bdc9a7b9d1288ecfc16f2b0866c8d133a6bf2974,jbrockmendel,jbrockmendel@gmail.com,2025-10-31 16:55:48+00:00,GitHub,2025-10-31 16:55:48+00:00,DEPR: to_datetime call in Series.combine_first (#62931),55
+pandas-dev/pandas,f59cbcb15d3d709ee827cb5a9fc7779b9ba6c131,jbrockmendel,jbrockmendel@gmail.com,2025-10-31 16:54:14+00:00,GitHub,2025-10-31 16:54:14+00:00,BUG: Series.combine_first with reindex None->Nan (#62932),57
+pandas-dev/pandas,98b70f030783094dc63abf4da1591a40a4d9db7c,jbrockmendel,jbrockmendel@gmail.com,2025-10-31 16:53:17+00:00,GitHub,2025-10-31 16:53:17+00:00,"DOC: docstring fixups, remove inaccurate line in DataFrame.combine docstring (#62933)",85
+pandas-dev/pandas,c99b3294a2dcb0b45d52fbe1130a90106163d756,Tyson Cung,45380903+tysoncung@users.noreply.github.com,2025-10-31 16:49:13+00:00,GitHub,2025-10-31 16:49:13+00:00,DOC: Update tolerance parameter type to include list-like in Index.reindex (#62935),83
+pandas-dev/pandas,46ed6b1c22d78619bb50bc3dee39b9bf718a21d9,Sanjana Moudgalya,36978563+sanjanam1998@users.noreply.github.com,2025-10-30 16:57:01+00:00,GitHub,2025-10-30 16:57:01+00:00,"API/BUG: freq retention in value_counts (#62532)
+
+Co-authored-by: William Ayd <william.ayd@icloud.com>",102
+pandas-dev/pandas,6e42b1fa7649e295488217a87c287843ef00e092,Lu Yibo,1478354316@qq.com,2025-10-30 16:00:35+00:00,GitHub,2025-10-30 16:00:35+00:00,"replace ensure_clean with temp_file in pandas/tests/io/sas/test_sas.py (#62916)
+
+Co-authored-by: Matthew Roeschke <10647082+mroeschke@users.noreply.github.com>",159
+pandas-dev/pandas,a59b12671815609c0b1982960c44c5ac7410d871,张博闻,83496317+zhangbowen-coder@users.noreply.github.com,2025-10-30 15:49:32+00:00,GitHub,2025-10-30 15:49:32+00:00,"TST: Every function ensure_clean in the file /pandas/tests/io/test_common.py  and /pandas/tests/io/pytables/test_store.py has been replaced. (#62895)
+
+Co-authored-by: Nikhil <72097440+Nikhil-Narayanan@users.noreply.github.com>
+Co-authored-by: Zorex Salvo <zorexsalvo@gmail.com>
+Co-authored-by: Christine P. Chai <star1327p@gmail.com>
+Co-authored-by: Aniket <148300120+Aniketsy@users.noreply.github.com>
+Co-authored-by: Wang Haoxiang <2795352227@qq,com>
+Co-authored-by: Natalia Mokeeva <91160475+natmokval@users.noreply.github.com>
+Co-authored-by: jbrockmendel <jbrockmendel@gmail.com>",584
+pandas-dev/pandas,54c26ec4d247097928320a7a77ba03c627a91b19,jbrockmendel,jbrockmendel@gmail.com,2025-10-29 23:05:34+00:00,GitHub,2025-10-29 23:05:34+00:00,BUG: DateOffset(normalize=True).rollback (#62910),49
+pandas-dev/pandas,09278ed51aad2b5b23826e5c226524c93570803f,jbrockmendel,jbrockmendel@gmail.com,2025-10-29 23:03:29+00:00,GitHub,2025-10-29 23:03:29+00:00,BUG: retain NAs in ufunc on ArrowEA (#62908),44
+pandas-dev/pandas,36f5e2572e25234ddb0e7a95903dc08ccdaed94d,Aniket,148300120+Aniketsy@users.noreply.github.com,2025-10-29 20:51:07+00:00,GitHub,2025-10-29 20:51:07+00:00,BUG: Raise TypeError for mismatched signed/unsigned dtypes in IntervalIndex.from_arrays (#62376),96
+pandas-dev/pandas,8e0ae73b349d29951f04d3a52de1e7e09f0af852,jbrockmendel,jbrockmendel@gmail.com,2025-10-29 19:24:37+00:00,GitHub,2025-10-29 19:24:37+00:00,TST: fix duplicate parametrization/xfail in test_setitem_integer_with_missing_raises (#62907),93
+pandas-dev/pandas,22e251201035833cb2f037b6cb541292db63747f,jbrockmendel,jbrockmendel@gmail.com,2025-10-29 18:39:13+00:00,GitHub,2025-10-29 18:39:13+00:00,BUG: rename with Series with non-unique index (#62906),54
+pandas-dev/pandas,ec4c97d4a64d96f028a7702444aae41c6e05b734,Natalia Mokeeva,91160475+natmokval@users.noreply.github.com,2025-10-29 18:37:24+00:00,GitHub,2025-10-29 18:37:24+00:00,DOC: inconsistent default values in the initialiser for RangeIndex (#62901),75
+pandas-dev/pandas,c4aa5126458274a96dcc37a1ff3c64f2d55d0d1d,Wang Haoxiang,"2795352227@qq,com",2025-10-29 18:36:01+00:00,GitHub,2025-10-29 18:36:01+00:00,"STY: Add strict=True to zip() calls in pandas\tests\arrays (#62905)
+
+Co-authored-by: wdyy20041223 <2795352227@qq,com>",117
+pandas-dev/pandas,86a4db1a3a4cf2dca726f4ad4cc8d539662d6042,Aniket,148300120+Aniketsy@users.noreply.github.com,2025-10-29 17:21:57+00:00,GitHub,2025-10-29 17:21:57+00:00,TST : Add comprehensive unit tests for tm.shares_memory utility function (GH#55372) (#62291),92
+pandas-dev/pandas,c253856fbbb17da449065c910aeddf1f1f80a3e3,Christine P. Chai,star1327p@gmail.com,2025-10-29 17:12:06+00:00,GitHub,2025-10-29 17:12:06+00:00,DOC: Correct grammatical issues with a/an usage (#62904),56
+pandas-dev/pandas,6d304c496758bd490e0413f1a03ea3bc8b6698d8,Zorex Salvo,zorexsalvo@gmail.com,2025-10-29 17:01:06+00:00,GitHub,2025-10-29 17:01:06+00:00,STY: use strict zip in `pandas/tests/window` (#62852),53
+pandas-dev/pandas,f8dea12a679ae824a11996504091d33886e91aba,Nikhil,72097440+Nikhil-Narayanan@users.noreply.github.com,2025-10-29 16:50:56+00:00,GitHub,2025-10-29 16:50:56+00:00,TST: ensuring bins in cut during tiling are predictably small (#62868),70
+pandas-dev/pandas,94c7e8891bee3700c088043923be5b31623963e7,Patrick Hoefler,61934744+phofl@users.noreply.github.com,2025-10-29 00:42:18+00:00,GitHub,2025-10-29 00:42:18+00:00,PERF: Avoid deep copies when casting dtypes in merge (#62902),61
+pandas-dev/pandas,235e6ff41c14f69e8214d47d89c65387b390d32e,Matthew Roeschke,10647082+mroeschke@users.noreply.github.com,2025-10-28 23:32:19+00:00,GitHub,2025-10-28 23:32:19+00:00,TST: Speed up slow tests (#62885),33
+pandas-dev/pandas,4c71a22f9e990d3954f0151bc06533b99df8e4e1,Matthew Roeschke,10647082+mroeschke@users.noreply.github.com,2025-10-28 23:30:54+00:00,GitHub,2025-10-28 23:30:54+00:00,PERF: Shallow copy Series in timeseries plotting (#62886),57
+pandas-dev/pandas,ce3298b948b8536f37a8d0c44da079cbf4a32533,jbrockmendel,jbrockmendel@gmail.com,2025-10-28 17:19:43+00:00,GitHub,2025-10-28 17:19:43+00:00,"BUG: concat([ints, bools]) incorrect casting (#62889)",53
+pandas-dev/pandas,1e09c37ce79dc222638beb5b6bc5b80a5b119b37,Wang Haoxiang,2795352227@qq.com,2025-10-28 17:17:35+00:00,GitHub,2025-10-28 17:17:35+00:00,"DOC: Inline docstrings in pandas\core\generic.py file for methods: is… (#62891)
+
+Co-authored-by: wdyy20041223 <2795352227@qq,com>",129
+pandas-dev/pandas,7ebabd110562524e1b6dc3b4a79c8f17691be65e,aokizy,3441854632@qq.com,2025-10-28 17:10:39+00:00,GitHub,2025-10-28 17:10:39+00:00,"TST: Replace ensure_clean with temp_file in test_file_store.py (#62896)
+
+Co-authored-by: aokizy <14817191+aokizy2@user.noreply.gitee.com>",137
+pandas-dev/pandas,9f4c0ba7b0bdb9b7a2cedcf159affbcb36bf8289,jbrockmendel,jbrockmendel@gmail.com,2025-10-27 22:47:49+00:00,GitHub,2025-10-27 22:47:49+00:00,DEPR: inplace keyword in interpolate.resample (#62847),54
+pandas-dev/pandas,c9d96a745a4b2de0cf623443d2314cd158fd09b1,Tim Smith,tss162000@gmail.com,2025-10-27 21:14:23+00:00,GitHub,2025-10-27 21:14:23+00:00,Add test for combine between two series (#62674),48
+pandas-dev/pandas,0350b56dd5d7178bb2347a03f7bd3f8c44c1a90b,Álvaro Kothe,kothe65@gmail.com,2025-10-27 20:56:19+00:00,GitHub,2025-10-27 20:56:19+00:00,BUG: make `maybe_convert_numeric` be able to convert to python integers (#62813),80
+pandas-dev/pandas,27368892d3740197be1fe02959f34e2567f832bd,HeoHeo,h0h6h2h5@gmail.com,2025-10-27 20:51:57+00:00,GitHub,2025-10-27 20:51:57+00:00,BUG: Recognize 2-tuple state without attrs dict (#62832),56
+pandas-dev/pandas,bf1a089694ed68c18d6dc745e5f6759ef1bc181a,Zephy,74450862+zephyrieal@users.noreply.github.com,2025-10-27 20:51:11+00:00,GitHub,2025-10-27 20:51:11+00:00,"DOC: Additional ""merge_asof"" Docs Explaination (#62753)",55
+pandas-dev/pandas,ba84f84af59e3de54ff020d5db85bc37a9028f0a,jbrockmendel,jbrockmendel@gmail.com,2025-10-27 20:50:41+00:00,GitHub,2025-10-27 20:50:41+00:00,Warn when unit keyword is ignored (#62841),42
+pandas-dev/pandas,8d48f02dfe7b925ad34de4b4a73064358dbe93b9,jbrockmendel,jbrockmendel@gmail.com,2025-10-27 20:49:14+00:00,GitHub,2025-10-27 20:49:14+00:00,BUG: freq invalidation in DatetimeIndex.where (#62850),54
+pandas-dev/pandas,a6684592dfae263cb540ff558427e5f29744fdc7,jbrockmendel,jbrockmendel@gmail.com,2025-10-27 20:42:35+00:00,GitHub,2025-10-27 20:42:35+00:00,Warn on no-op rounding for datetimelike dtypes (#62844),55
+pandas-dev/pandas,98b6af4f8011b953d552230591d2cae15e92068e,Julien Palard,julien@palard.fr,2025-10-27 20:40:41+00:00,GitHub,2025-10-27 20:40:41+00:00,FIX: Two superfluous backticks. (#62845),40
+pandas-dev/pandas,a26efbc622e677ae89d7d886ccab28542c162ca9,Eve Loraine Nuñal,el.rain14@gmail.com,2025-10-27 20:31:56+00:00,GitHub,2025-10-27 20:31:56+00:00,STY: changed the strict value to True (#62854),46
+pandas-dev/pandas,332f0dfb4bc3bf656c4cc1f818f0640de828ceec,Shubhang Sinha,145453984+Zrahay@users.noreply.github.com,2025-10-27 20:27:36+00:00,GitHub,2025-10-27 20:27:36+00:00,"BUG: Validate numeric_only parameter in groupby aggregations (#62842)
+
+Co-authored-by: Zrahay <shubhangsinha4@gmail.com>",120
+pandas-dev/pandas,9a5f8469eef02af2667a38753a3adef25fb3c636,wysiwyg,74029983+Jericho0912@users.noreply.github.com,2025-10-27 20:27:28+00:00,GitHub,2025-10-27 20:27:28+00:00,TST : Removed ensure_clean from test_common_basic.py #62425 (#62856),68
+pandas-dev/pandas,99c78987bc381814cde5455ecb795b9b4dc4e915,llayague,51508912+llayague@users.noreply.github.com,2025-10-27 20:25:04+00:00,GitHub,2025-10-27 20:25:04+00:00,STY: add strict in zip on test_frame_subplots.py (#62857),57
+apache/airflow,7f53be7f43ff441ee8c0c8c58b8ea1c7b56144e7,Jorge Rocamora,33847633+aeroyorch@users.noreply.github.com,2025-11-09 21:47:43+00:00,GitHub,2025-11-09 21:47:43+00:00,"Add registry.secretNames and registry.connections options to Helm chart (#58094)
+
+Co-authored-by: Your Name <you@example.com>",125
+apache/airflow,4d596bcd08b3b9e04e853d6c212ba8d79e1f29fb,Jens Scheffler,95105677+jscheffl@users.noreply.github.com,2025-11-09 21:38:34+00:00,GitHub,2025-11-09 21:38:34+00:00,"Enable ruff PLW2101,PLW2901,PLW3301 rule (#57700)
+
+* Enable ruff PLW2901 rule
+
+* Fix follow-up mypy complaints after PLW2901 rule
+
+* Fix tests for pools and infinite size
+
+* Fix logic in bigquery
+
+* Fix variable renaming
+
+* Fix mypy alert
+
+* Review feedback by Wei
+
+* Fix mypy
+
+* Revert accidentially deleted line
+
+* Second pass review suggestions by Wei",354
+apache/airflow,a9fd899283a105b2dc1115b4449cf877d87d44cd,Ramit Kataria,ramitkat@amazon.com,2025-11-09 21:34:42+00:00,GitHub,2025-11-09 21:34:42+00:00,"AIP-67 - Multi-team: Per team executor config (#57910)
+
+This adds support for reading team specific config sections from the
+config file. This allows multiple teams to configure separate instances
+of the same type of executor.",226
+apache/airflow,14c7fedef5acd1ae8d50be093e9ef81a96fda6bf,Steve Ahn,steveahnahn@g.ucla.edu,2025-11-09 21:28:12+00:00,GitHub,2025-11-09 21:28:12+00:00,"Components of providers docs update (#57657)
+
+* components of providers docs update
+
+* comes installed
+
+* static check reproducible
+
+* added hooks, triggers and etc cmt
+
+* rebase regen files
+
+* reproducible static check",219
+apache/airflow,ac96487925ade4ea23dd2ef7fedf0e142b446b6b,Aaron Chen,nailo2c@gmail.com,2025-11-09 20:36:15+00:00,GitHub,2025-11-09 20:36:15+00:00,"Add `executor.running_dags` gauge to expose count of running DAGs (#12368) (#52815)
+
+* feature: introducing a counter for number of DAGs in running state
+
+* wrap emit executor.running_dags gague as a function
+
+* add test for _emit_running_dags_metric
+
+* add executor.running_dags to metrics.rst
+
+* use Sqlalchemy 2.0 style
+
+* check for metrics configuration before emitting running dags metric
+
+* Enable metrics configuration for running dags in DagFileProcessorManager test
+
+* Add configuration for multi-team support in test_bundles_with_team
+
+* add go-sdk/bin/.gitignore back
+
+* Update .gitignore to include all files except itself
+
+* Refactor running DAGs metric emission: move to SchedulerJobRunner and update tests
+
+* Add running DAGs metric and remove unused metrics check
+
+* Add dagrun_metrics_interval to config and update running DAGs metric to use 'scheduler' namespace
+
+* Remove unused import of DagRunState in test_emit_running_dags_metric
+
+* Fix Low dep tests:core
+
+* Rename running DAGs metric to 'scheduler.dagruns.running' for consistency and update related test assertions",1090
+apache/airflow,1f66c7fecf77ae9cd253f941699abbbe3ef9f5fc,majorosdonat,donat.majoros@gmail.com,2025-11-09 20:12:32+00:00,GitHub,2025-11-09 20:12:32+00:00,"Upgrade hungarian language package (#58104)
+
+* Upgrade hungarian language package
+
+* fix linting
+
+* fix linting",111
+apache/airflow,e7dfebfbba4d9b89383ea29a86ae48f5f68495fd,Bugra Ozturk,bugraoz93@users.noreply.github.com,2025-11-09 18:29:36+00:00,GitHub,2025-11-09 18:29:36+00:00,"Revert ""Remove unused NullFernet from Crypto (#57988)"" (#58107)
+
+This reverts commit c47c0817d8e11f885f4eef91232c08e1469e8c95.",126
+apache/airflow,38021c2a46cab0c92949a21a36461d8aab5b9a23,Jarek Potiuk,jarek@potiuk.com,2025-11-09 14:27:16+00:00,GitHub,2025-11-09 14:27:16+00:00,"Revert ""Fix duplicated SQLAlchemy sessions caused transactions fail to close (#57815)"" (#58097)
+
+This reverts commit e5cb168fafe40059233ed9ab5fa191f1958a89fd.",158
+apache/airflow,f4846a8706f9283b2ac189b9cd95dbb63eb5898f,Jarek Potiuk,jarek@potiuk.com,2025-11-09 13:28:28+00:00,GitHub,2025-11-09 13:28:28+00:00,"The e2e-tests workflows properly use workflow-name to pass name (#58100)
+
+The workflows used `inputs.name` but the passed input was really
+the `workflow-name` one.",163
+apache/airflow,cbf94175a7f1b5922331a895abc196719404f0f2,Jarek Potiuk,jarek@potiuk.com,2025-11-09 13:26:44+00:00,GitHub,2025-11-09 13:26:44+00:00,Update providers metadata 2025-11-08 (#58084),45
+apache/airflow,845e401a5ef302af1dc051ab0527e2f887fab289,Guan-Ming (Wesley) Chiu,105915352+guan404ming@users.noreply.github.com,2025-11-09 12:32:07+00:00,GitHub,2025-11-09 12:32:07+00:00,Fix ts-compile-lint-ui hook not finding any UI files (#58099),61
+apache/airflow,bc3a750af476b991ca34e6c696208f8e75ff99a7,Jarek Potiuk,jarek@potiuk.com,2025-11-09 10:15:27+00:00,GitHub,2025-11-09 10:15:27+00:00,"Fix release cleanup for providers (#58082)
+
+* Fix release cleanup for providers
+
+* Apply suggestion from @potiuk",112
+apache/airflow,c47c0817d8e11f885f4eef91232c08e1469e8c95,Jens Scheffler,95105677+jscheffl@users.noreply.github.com,2025-11-08 23:23:34+00:00,GitHub,2025-11-08 23:23:34+00:00,Remove unused NullFernet from Crypto (#57988),45
+apache/airflow,f64be4169fdcf6486e72b6996a6b47cd58e617f2,Jens Scheffler,95105677+jscheffl@users.noreply.github.com,2025-11-08 21:53:52+00:00,GitHub,2025-11-08 21:53:52+00:00,Add learnings from Airflow 3 migration (#57989),47
+apache/airflow,d627b90e63128b2a16d44e630d7c2b1344d0ef12,Aaron Wolmutt,163314771+aaron-wolmutt@users.noreply.github.com,2025-11-08 21:49:11+00:00,GitHub,2025-11-08 21:49:11+00:00,"add doc line for hot reloading ui in certain wsl environments (#57921)
+
+* docs: add doc for hot reloading in certain wsl environments
+
+* typo
+
+* Update contributing-docs/15_node_environment_setup.rst
+
+---------
+
+Co-authored-by: Elad Kalif <45845474+eladkal@users.noreply.github.com>",282
+apache/airflow,83ebad00bc66b9fdf8dc9aee8986578e9daf0540,Jens Scheffler,95105677+jscheffl@users.noreply.github.com,2025-11-08 18:39:22+00:00,GitHub,2025-11-08 18:39:22+00:00,Remove global from settings part1 (#57705),42
+apache/airflow,bfa9d5fe764e56eda010e7b4a8ca990b1fb3e834,Jarek Potiuk,jarek@potiuk.com,2025-11-08 18:08:31+00:00,GitHub,2025-11-08 18:08:31+00:00,Fix reproducibility check source tarball instructions (#58077),62
+apache/airflow,a4b3efd643bad9e24ad783681b9c7ae4820800e3,Elad Kalif,45845474+eladkal@users.noreply.github.com,2025-11-08 15:58:11+00:00,GitHub,2025-11-08 15:58:11+00:00,update CODEOWNERS (#58075),26
+apache/airflow,ff219fead12cef144df0082a50847bfa58b752f1,Amogh Desai,amoghrajesh1999@gmail.com,2025-11-08 14:55:55+00:00,GitHub,2025-11-08 14:55:55+00:00,Expanding task sdk integration tests to test asset operations (#58028),70
+apache/airflow,213294e573e67a63d15d0254d5226817e4c94520,Pierre Jeambrun,pierrejbrun@gmail.com,2025-11-08 14:00:59+00:00,GitHub,2025-11-08 14:00:59+00:00,Add number of queries guard for ui structure (#58051),53
+apache/airflow,167669f075b90215038e7b1e293131f26ccda5af,Amogh Desai,amoghrajesh1999@gmail.com,2025-11-08 13:28:08+00:00,GitHub,2025-11-08 13:28:08+00:00,Add test setup and example asset operation tests to task SDK integration tests (#58027),87
+apache/airflow,8f15ec960bf38020a29d2e0d987c1b03d6396a34,Jens Scheffler,95105677+jscheffl@users.noreply.github.com,2025-11-08 12:01:06+00:00,GitHub,2025-11-08 12:01:06+00:00,"Remove global from kerberos (#57702)
+
+* Remove global from kerberos
+
+* Review feedback to adjust pytest using a fixture
+
+* Apply suggestion from @potiuk
+
+Co-authored-by: Jarek Potiuk <jarek@potiuk.com>
+
+---------
+
+Co-authored-by: Jarek Potiuk <jarek@potiuk.com>",261
+apache/airflow,2bf24964beceeaf2689cddc751b73aec3e18cbfc,Jens Scheffler,95105677+jscheffl@users.noreply.github.com,2025-11-08 11:01:38+00:00,GitHub,2025-11-08 11:01:38+00:00,"Fix broken canary, remove unneeded crypto key generation (#58074)",65
+apache/airflow,efa434ec27cdc46b753fab316e3881830dd63d81,"LI,JHE-CHEN",103923510+RoyLee1224@users.noreply.github.com,2025-11-08 03:29:00+00:00,GitHub,2025-11-08 03:29:00+00:00,"feat: add resize function to dag run / TI notes (#57897)
+
+* feat: add resize funtion to notes
+
+* refactor: deduplicate markdown dialog storage key constant",155
+apache/airflow,e5cb168fafe40059233ed9ab5fa191f1958a89fd,Simon Meng,menghot@gmail.com,2025-11-08 00:53:53+00:00,GitHub,2025-11-08 00:53:53+00:00,Fix duplicated SQLAlchemy sessions caused transactions fail to close (#57815),77
+apache/airflow,8d0131c58fe910c2365e92d9025f592917241902,Anusha Kovi,parvathi.kovi@gmail.com,2025-11-07 23:40:13+00:00,GitHub,2025-11-07 23:40:13+00:00,"Fix MyPy type errors in api_fastapi(security.py),airflow/models(dag_version.py,hitl.py),mark_tasks.py (#58054)",110
+apache/airflow,fc05e4bbe578a682b2be8cb4345a4e1c47ec50b0,Chao-Hung Wan,qchwan@gmail.com,2025-11-07 20:54:07+00:00,GitHub,2025-11-07 20:54:07+00:00,"Enable PT006 rule to airflow-core tests (route/public) (#58011)
+
+Signed-off-by: Xch1 <qchwan@gmail.com>
+Co-authored-by: Kalyan R <kalyan.ben10@live.com>",152
+apache/airflow,3ba3c78404066c4262e15fe7162d25ea2158c121,Jens Scheffler,95105677+jscheffl@users.noreply.github.com,2025-11-07 20:40:31+00:00,GitHub,2025-11-07 20:40:31+00:00,"Remove global from serialization (#57703)
+
+* Remove global from serialization
+
+* Fix connection test and fernet instability",123
+apache/airflow,2abece069ac2f18c1c409f6da411724664a62e2f,Henry Chen,108824346+henry3260@users.noreply.github.com,2025-11-07 20:33:58+00:00,GitHub,2025-11-07 20:33:58+00:00,fix MyPy type errors in datamodels/hitl.py (#57808),51
+apache/airflow,7a69adf43c67eed34a3b2005cdc9a0e192433890,Pierre Jeambrun,pierrejbrun@gmail.com,2025-11-07 19:12:31+00:00,GitHub,2025-11-07 19:12:31+00:00,Add number of queries guard for ui next_run_assets (#58052),59
+apache/airflow,2c12bff3eddc8c6607052db14e6c46dfdc8b9717,ChenChen Lai,72776271+0lai0@users.noreply.github.com,2025-11-07 18:53:28+00:00,GitHub,2025-11-07 18:53:28+00:00,"Enable PT006 rule to standard Provider test(ssensor, trigge, util) 9 files (#58022)
+
+Signed-off-by: Your Name <yuchenlai87@gmail.com>
+Co-authored-by: Kalyan R <kalyan.ben10@live.com>",182
+apache/airflow,92f35b14019196a5ff374e5fcbe0ae27a9a8436a,Anusha Kovi,parvathi.kovi@gmail.com,2025-11-07 18:52:51+00:00,GitHub,2025-11-07 18:52:51+00:00,"Enable PT006 rule to 13 files in providers (apache) (#57998)
+
+Signed-off-by: Anusha Kovi <parvathi.kovi@gmail.com>
+Co-authored-by: Kalyan R <kalyan.ben10@live.com>",163
+apache/airflow,a0138b4813a49bf4c05d78525d35483313eec246,Anusha Kovi,parvathi.kovi@gmail.com,2025-11-07 18:51:35+00:00,GitHub,2025-11-07 18:51:35+00:00,"Enable PT006 rule to 19 files in providers (cncf,common) (#57995)
+
+Signed-off-by: Anusha Kovi <parvathi.kovi@gmail.com>
+Co-authored-by: Kalyan R <kalyan.ben10@live.com>",168
+apache/airflow,62e896bc9083f09096289a67fcf65d312b6adeb7,Anusha Kovi,parvathi.kovi@gmail.com,2025-11-07 18:50:06+00:00,GitHub,2025-11-07 18:50:06+00:00,"Enable PT006 rule to 19 files in providers (airbyte, alibaba, atlassian, papermill, presto, redis, singularity, sqlite, tableau, vertica, weaviate, elasticsearch, exasol) (#57986)
+
+Signed-off-by: Anusha Kovi <parvathi.kovi@gmail.com>
+Co-authored-by: Kalyan R <kalyan.ben10@live.com>",282
+apache/airflow,5891dea5a8f451494a75c700336f35371879348b,ChenChen Lai,72776271+0lai0@users.noreply.github.com,2025-11-07 18:48:47+00:00,GitHub,2025-11-07 18:48:47+00:00,"Enable PT006 rule to slack Provider test (#57963)
+
+Signed-off-by: Your Name <yuchenlai87@gmail.com>
+Co-authored-by: Kalyan R <kalyan.ben10@live.com>",148
+apache/airflow,094756a160fdc52576a47876c3e48c0a08bc8d7e,GUAN-HAO HUANG,101171023+rich7420@users.noreply.github.com,2025-11-07 18:47:48+00:00,GitHub,2025-11-07 18:47:48+00:00,"Enable PT006 rule to google Provider test (triggers) (#57953)
+
+Signed-off-by: rich7420 <rc910420@gmail.com>
+Co-authored-by: Kalyan R <kalyan.ben10@live.com>",156
+apache/airflow,c54baeadd58dabee11a71e88c00e430168bb9143,Chao-Hung Wan,qchwan@gmail.com,2025-11-07 18:46:57+00:00,GitHub,2025-11-07 18:46:57+00:00,"Enable PT006 rule to airflow-core tests (models) (#57951)
+
+Signed-off-by: Xch1 <qchwan@gmail.com>
+Co-authored-by: Kalyan R <kalyan.ben10@live.com>",146
+apache/airflow,ec669b977c6dbccca9048976c676bbc6e3d46238,GUAN-HAO HUANG,101171023+rich7420@users.noreply.github.com,2025-11-07 18:46:06+00:00,GitHub,2025-11-07 18:46:06+00:00,"Enable PT006 rule to google Provider test (triggers) (#57950)
+
+Signed-off-by: rich7420 <rc910420@gmail.com>
+Co-authored-by: Kalyan R <kalyan.ben10@live.com>",156
+apache/airflow,36b4545500aa46af86a4932f065b59c46148cd7a,Chao-Hung Wan,qchwan@gmail.com,2025-11-07 18:45:04+00:00,GitHub,2025-11-07 18:45:04+00:00,"Enable PT006 rule to airflow-core tests (models) (#57949)
+
+* modify test_asset
+
+Co-authored-by: Kalyan R <kalyan.ben10@live.com>
+Signed-off-by: Xch1 <qchwan@gmail.com>
+
+* modify test_backfill
+
+Co-authored-by: Kalyan R <kalyan.ben10@live.com>
+Signed-off-by: Xch1 <qchwan@gmail.com>
+
+* modify test_callback
+
+Co-authored-by: Kalyan R <kalyan.ben10@live.com>
+Signed-off-by: Xch1 <qchwan@gmail.com>
+
+* modify test_cleartasks
+
+Co-authored-by: Kalyan R <kalyan.ben10@live.com>
+Signed-off-by: Xch1 <qchwan@gmail.com>
+
+* modify test_connection
+
+Co-authored-by: Kalyan R <kalyan.ben10@live.com>
+Signed-off-by: Xch1 <qchwan@gmail.com>
+
+* modify test_dag
+
+Co-authored-by: Kalyan R <kalyan.ben10@live.com>
+Signed-off-by: Xch1 <qchwan@gmail.com>
+
+* modify test_dagrun
+
+Co-authored-by: Kalyan R <kalyan.ben10@live.com>
+Signed-off-by: Xch1 <qchwan@gmail.com>
+
+* modify test_deadline
+
+Co-authored-by: Kalyan R <kalyan.ben10@live.com>
+Signed-off-by: Xch1 <qchwan@gmail.com>
+
+---------
+
+Signed-off-by: Xch1 <qchwan@gmail.com>
+Co-authored-by: Kalyan R <kalyan.ben10@live.com>",1055
+apache/airflow,93f93035b5e9b616575d082f4c74b61886897e5f,Chao-Hung Wan,qchwan@gmail.com,2025-11-07 18:43:23+00:00,GitHub,2025-11-07 18:43:23+00:00,"Enable PT006 rule to airflow-core tests (core, dag_processing) (#57948)
+
+Signed-off-by: Xch1 <qchwan@gmail.com>
+Co-authored-by: Kalyan R <kalyan.ben10@live.com>",160
+apache/airflow,c3b19ac8cf546ca04c9f9d4e68f5a839c2632deb,GUAN-HAO HUANG,101171023+rich7420@users.noreply.github.com,2025-11-07 18:40:30+00:00,GitHub,2025-11-07 18:40:30+00:00,"Enable PT006 rule to google Provider test (log,openlineage,common,utils) (#57947)
+
+Signed-off-by: rich7420 <rc910420@gmail.com>
+Co-authored-by: Kalyan R <kalyan.ben10@live.com>",176
+apache/airflow,ce90b46a92116176a689091732a007c4aa094b66,GUAN-HAO HUANG,101171023+rich7420@users.noreply.github.com,2025-11-07 18:39:45+00:00,GitHub,2025-11-07 18:39:45+00:00,"Enable PT006 rule to google Provider test (operators part2)  (#57944)
+
+* modify test_variables
+
+Co-authored-by: Kalyan R <kalyan.ben10@live.com>
+Signed-off-by: rich7420 <rc910420@gmail.com>
+
+* fix for the ci test
+
+---------
+
+Signed-off-by: rich7420 <rc910420@gmail.com>
+Co-authored-by: Kalyan R <kalyan.ben10@live.com>",318
+apache/airflow,5bb13eb8fcff9af89d09cd594f11e72645f68832,GUAN-HAO HUANG,101171023+rich7420@users.noreply.github.com,2025-11-07 18:38:56+00:00,GitHub,2025-11-07 18:38:56+00:00,Enable PT006 rule to oracle Provider test (#57941),50
+apache/airflow,5b9436bc419d4f3830bdf9d6dda17b042e1f6199,GUAN-HAO HUANG,101171023+rich7420@users.noreply.github.com,2025-11-07 18:38:36+00:00,GitHub,2025-11-07 18:38:36+00:00,Enable PT006 rule to openlineage Provider test (#57940),55
+apache/airflow,c684cb67a3e5dcd57741e37af0a30d20e4578e30,GUAN-HAO HUANG,101171023+rich7420@users.noreply.github.com,2025-11-07 18:37:59+00:00,GitHub,2025-11-07 18:37:59+00:00,Enable PT006 rule to neo4j  Provider test (#57939),50
+apache/airflow,884cbeb3a0f154c84d5bef66d2fc1b12a6a77514,ChenChen Lai,72776271+0lai0@users.noreply.github.com,2025-11-07 18:37:42+00:00,GitHub,2025-11-07 18:37:42+00:00,Enable PT006 rule to celery Provider test (#57938),50
+apache/airflow,08e09a25711b1ee4e0c2903dfd3d6afbe7e92fa6,GUAN-HAO HUANG,101171023+rich7420@users.noreply.github.com,2025-11-07 18:37:21+00:00,GitHub,2025-11-07 18:37:21+00:00,Enable PT006 rule to mysql Provider test (#57937),49
+apache/airflow,3a783ecf4c017182d9c964bad7e8cdab1ddc4b15,GUAN-HAO HUANG,101171023+rich7420@users.noreply.github.com,2025-11-07 18:36:46+00:00,GitHub,2025-11-07 18:36:46+00:00,"Enable PT006 rule to microsoft Provider test(azure,mssql,psrp) (#57936)",71
+apache/airflow,139a7846e85d0de8575af3b1d6f34d3ca391c973,ChenChen Lai,72776271+0lai0@users.noreply.github.com,2025-11-07 18:36:12+00:00,GitHub,2025-11-07 18:36:12+00:00,Enable PT006 rule to postgres Provider test (#57934),52
+apache/airflow,a533af5f788f70100ef793c83b41fc0087961ee6,GUAN-HAO HUANG,101171023+rich7420@users.noreply.github.com,2025-11-07 18:35:50+00:00,GitHub,2025-11-07 18:35:50+00:00,Enable PT006 rule to microsoft Provider test(operators) (#57928),64
+apache/airflow,4d7c077e450366ad97597ce8edcd2237eaa79213,ChenChen Lai,72776271+0lai0@users.noreply.github.com,2025-11-07 18:28:03+00:00,GitHub,2025-11-07 18:28:03+00:00,Enable PT006 rule to sftp Provider test (#57924),48
+apache/airflow,63a8f549f2a28a28f3ce2de321c3789eb4af49be,Anusha Kovi,parvathi.kovi@gmail.com,2025-11-07 16:26:50+00:00,GitHub,2025-11-07 16:26:50+00:00,"Enable PT006 rule to 14 files in providers (databricks,dbt,docker) (#57994)
+
+Signed-off-by: Anusha Kovi <parvathi.kovi@gmail.com>
+Co-authored-by: Kalyan R <kalyan.ben10@live.com>",178
+apache/airflow,e4f9fef36e828d9a66f5e783f404d9acc2bc8a65,Pierre Jeambrun,pierrejbrun@gmail.com,2025-11-07 15:27:49+00:00,GitHub,2025-11-07 15:27:49+00:00,Add number of queries guard for ui calendar (#58044),52
+apache/airflow,f5789979b9c9a81e21e703669ec1038225604763,Shahar Epstein,60007259+shahar1@users.noreply.github.com,2025-11-07 15:19:25+00:00,GitHub,2025-11-07 15:19:25+00:00,Update Hebrew translation 2025-11-07 (#58041),45
+apache/airflow,7594818de51ddddb04794918c981e9e0e66fbd8c,Lê Nam Khánh,55955273+khanhkhanhlele@users.noreply.github.com,2025-11-07 15:03:53+00:00,GitHub,2025-11-07 15:03:53+00:00,fix typos in comments within triggerer_job_runner.py (#58013),61
+apache/airflow,56ddebe108c35f36cd3c2128b2a01f2a79d94122,Pierre Jeambrun,pierrejbrun@gmail.com,2025-11-07 14:54:05+00:00,GitHub,2025-11-07 14:54:05+00:00,Add number of queries guard for ui grid (#57977),48
+apache/airflow,58a2abd912b3586ea23a8285ec44960a090274db,Pierre Jeambrun,pierrejbrun@gmail.com,2025-11-07 14:53:46+00:00,GitHub,2025-11-07 14:53:46+00:00,Add number of queries guard for ui team (#57980),48
+apache/airflow,db0260d00bee6e9853e3128654b6a9fdfc778500,Shahar Epstein,60007259+shahar1@users.noreply.github.com,2025-11-07 14:51:59+00:00,GitHub,2025-11-07 14:51:59+00:00,Update Arabic translation 2025-11-07 (#58042),45
+apache/airflow,816d3dc233ae67e5d868b7e03173f0946f7a5e10,Gurram Sai Ganesh,saiganeshgurram66@gmail.com,2025-11-07 14:33:38+00:00,GitHub,2025-11-07 14:33:38+00:00,"Docs: Add note on running prek inside Breeze (#58039)
+
+* Docs: Add note on running prek inside Breeze
+
+* Update dev/breeze/doc/03_developer_tasks.rst
+
+---------
+
+Co-authored-by: Jarek Potiuk <jarek@potiuk.com>",209
+apache/airflow,d1a4c0c056a6f906867bb4c28aa127f3eeca9667,Amogh Desai,amoghrajesh1999@gmail.com,2025-11-07 14:05:19+00:00,GitHub,2025-11-07 14:05:19+00:00,Stubbing missing tests for task sdk integration testing for dagruns (#58036),76
+apache/airflow,e6d650bac627f70488c9f440b843d3040cce67c5,Amogh Desai,amoghrajesh1999@gmail.com,2025-11-07 13:57:21+00:00,GitHub,2025-11-07 13:57:21+00:00,Stubbing missing tests for task sdk integration testing for connection (#58029),79
+apache/airflow,d9a3b2c1d0d428039b683a876b6cb1bdbac3c8de,Amogh Desai,amoghrajesh1999@gmail.com,2025-11-07 13:56:47+00:00,GitHub,2025-11-07 13:56:47+00:00,Stubbing missing tests for task sdk integration testing for variables (#58030),78
+apache/airflow,76d7178383997db3f3cfb30f7b6b51a61ad698b1,Amogh Desai,amoghrajesh1999@gmail.com,2025-11-07 13:56:33+00:00,GitHub,2025-11-07 13:56:33+00:00,Stubbing missing tests for task sdk integration testing for xcoms (#58031),74
+apache/airflow,468d2f25d46f709fd8caa1775e34c85002710e5f,Vincent,97131062+vincbeck@users.noreply.github.com,2025-11-07 13:43:52+00:00,GitHub,2025-11-07 13:43:52+00:00,Fix logout in Fab and Keycloak auth managers (#57992),53
+apache/airflow,c09e3f92d314586b23b848572221000eb3cb861b,Anusha Kovi,parvathi.kovi@gmail.com,2025-11-07 13:39:59+00:00,GitHub,2025-11-07 13:39:59+00:00,"Enable PT006 rule to 23 files in providers (amazon -> hooks, links, log, queues) (#58003)",89
+apache/airflow,571e03f2a5333a562145c2f1567ab372e6c7c5c0,Anusha Kovi,parvathi.kovi@gmail.com,2025-11-07 13:38:34+00:00,GitHub,2025-11-07 13:38:34+00:00,Enable PT006 rule to 23 files in providers (all remaining files related to amazon) (#58005),91
+apache/airflow,2e90903435411040ec29242d6a584f4f6ef18454,Chao-Hung Wan,qchwan@gmail.com,2025-11-07 13:38:06+00:00,GitHub,2025-11-07 13:38:06+00:00,Enable PT006 rule to airflow-core tests (cli) (#58007),54
+apache/airflow,ee6dc199e16546620789e150a3c21f807b564bd9,Chao-Hung Wan,qchwan@gmail.com,2025-11-07 13:37:26+00:00,GitHub,2025-11-07 13:37:26+00:00,"Enable PT006 rule to airflow-core tests (route/ui, execution_api) (#58010)",74
+apache/airflow,682a50e80f66b8683d7e637c81d66014982a1731,Chao-Hung Wan,qchwan@gmail.com,2025-11-07 13:10:00+00:00,GitHub,2025-11-07 13:10:00+00:00,modify route/public (#58012),28
+apache/airflow,1b39eaf6991e92c5f6a4132b5a9587e793777f6e,Chao-Hung Wan,qchwan@gmail.com,2025-11-07 13:09:28+00:00,GitHub,2025-11-07 13:09:28+00:00,"Enable PT006 rule to airflow-core tests (auth, common, always, integration) (#58014)",84
+apache/airflow,138eddfa8bc091bf59e6385d80b5022b1c2d7685,Chao-Hung Wan,qchwan@gmail.com,2025-11-07 13:08:55+00:00,GitHub,2025-11-07 13:08:55+00:00,modify all remaining files related to airflow-core (#58015),59
+apache/airflow,ba9b8946d5321e5740169bdbfa74b6f2aa435828,Anusha Kovi,parvathi.kovi@gmail.com,2025-11-07 13:08:24+00:00,GitHub,2025-11-07 13:08:24+00:00,"Enable PT006 rule to 6 files in providers (edge3,git) (#58018)",62
+apache/airflow,dc5c6b2fd8b7dd85513bff33a75cdd72597605d0,ChenChen Lai,72776271+0lai0@users.noreply.github.com,2025-11-07 13:07:56+00:00,GitHub,2025-11-07 13:07:56+00:00,"Enable PT006 rule to standard Provider test(decorator, hook) 8 files (#58019)",77
+apache/airflow,5616b19966bb3d3dacf54bf3b4907b1939e23ac2,ChenChen Lai,72776271+0lai0@users.noreply.github.com,2025-11-07 13:07:21+00:00,GitHub,2025-11-07 13:07:21+00:00,PT006 modify standard (operator) (#58020),41
+apache/airflow,d7722e42027b4ab5ed622bfbec12338cfc54d1ca,GUAN-HAO HUANG,101171023+rich7420@users.noreply.github.com,2025-11-07 13:04:27+00:00,GitHub,2025-11-07 13:04:27+00:00,Enable PT006 rule to microsoft Provider test(transfers) (#57925),64
+apache/airflow,5717cc82a54c5769fbe69486aa849e21defcfa54,ChenChen Lai,72776271+0lai0@users.noreply.github.com,2025-11-07 13:04:08+00:00,GitHub,2025-11-07 13:04:08+00:00,"Enable PT006 rule to samba Provider test(transfers, hooks) (#57926)
+
+* Enable PT006 rule to samba Provider test
+
+* fix static check",131
+apache/airflow,63587d2cdad4fda2a227e65cadd2916a6b338477,GUAN-HAO HUANG,101171023+rich7420@users.noreply.github.com,2025-11-07 13:03:48+00:00,GitHub,2025-11-07 13:03:48+00:00,"Enable PT006 rule to microsoft Provider test(log,sensors) (#57927)",66
+apache/airflow,518be181956366d09b5742c99b4b9879d3bf9e94,ChenChen Lai,72776271+0lai0@users.noreply.github.com,2025-11-07 13:03:25+00:00,GitHub,2025-11-07 13:03:25+00:00,Enable PT006 rule to ssh Provider test (#57929),47
+apache/airflow,687f062f2d1dfef9596f23ce120f665bacff601b,GUAN-HAO HUANG,101171023+rich7420@users.noreply.github.com,2025-11-07 13:02:30+00:00,GitHub,2025-11-07 13:02:30+00:00,Enable PT006 rule to microsoft Provider test(hooks) (#57932),60
+apache/airflow,e95748a964ed87e7ba478ca63582dd4e218c20c3,Vincent,97131062+vincbeck@users.noreply.github.com,2025-11-07 12:52:01+00:00,GitHub,2025-11-07 12:52:01+00:00,Fix logout in airflow-core (#57990),35
+apache/airflow,0117e77b108f7d136130021067b903e8d1b06ea5,Yang Yule,yule.yang@samsung.com,2025-11-07 12:49:13+00:00,GitHub,2025-11-07 12:49:13+00:00,"Fix mypy type errors in test_taskinstance.py (#57942)
+
+* fix mypy type errors in test_taskinstance.py
+
+* Use tuple",114
+apache/airflow,7fed3901c324fa530f07b723df2dd8c4a57b3697,kyounghoonJang,matkimchi_@naver.com,2025-11-07 12:48:43+00:00,GitHub,2025-11-07 12:48:43+00:00,Migrate FAB GET /roles/{name} to FastAPI (#58009),49
+apache/airflow,62a73b164aa21c38070b7ea33844659b8796636f,Vincent,97131062+vincbeck@users.noreply.github.com,2025-11-07 12:47:11+00:00,GitHub,2025-11-07 12:47:11+00:00,Fix double redirection while authenticating in Fab auth manager (#57993),72
+apache/airflow,20146e543bc1cc53ab58498649d1dace36b9a9ac,"LI,JHE-CHEN",103923510+RoyLee1224@users.noreply.github.com,2025-11-07 12:44:09+00:00,GitHub,2025-11-07 12:44:09+00:00,fix: Add .txt extension for log download function (#57991),58
+apache/airflow,74ea291283bfe41118d988f2a5d53325b33dead4,Ankit Chaurasia,8670962+sunank200@users.noreply.github.com,2025-11-07 12:14:13+00:00,GitHub,2025-11-07 12:14:13+00:00,Fix Connection test failures due to Fernet key caching (#58034),63
+apache/airflow,8fe6c1c5682f3e1c461d1673e78584c669381746,Bugra Ozturk,bugraoz93@users.noreply.github.com,2025-11-07 07:19:07+00:00,GitHub,2025-11-07 07:19:07+00:00,Adjustments in release docs (#58008),36
+apache/airflow,4e2792208c201fef87fc870771f28a42e0f23b9a,Amogh Desai,amoghrajesh1999@gmail.com,2025-11-07 06:53:03+00:00,GitHub,2025-11-07 06:53:03+00:00,Expanding task sdk integration tests to test few dagrun operations (#57955),75
+apache/airflow,f5e202733e87632bf6e04f3395dfac8433b47113,Wei Lee,weilee.rx@gmail.com,2025-11-07 06:48:45+00:00,GitHub,2025-11-07 06:48:45+00:00,build: upgrade ruff to 0.14.4 (#58017),38
+apache/airflow,37c379582b1a060d797afe0110ffe8e2b39d4e46,Jarek Potiuk,jarek@potiuk.com,2025-11-07 00:43:32+00:00,GitHub,2025-11-07 00:43:32+00:00,Use VERSION_SUFFIX in airflow-ctl when preparing PyPI packages. (#58001),72
+apache/airflow,283b86bf3bb723358eec2152efb432cbabc0273d,Jarek Potiuk,jarek@potiuk.com,2025-11-07 00:27:12+00:00,GitHub,2025-11-07 00:27:12+00:00,Remove unnecessary `--tag` flag from git push (#57999),54
+apache/airflow,102b262db40b9521b71811b39cf1cfb5aec08194,Jarek Potiuk,jarek@potiuk.com,2025-11-07 00:18:39+00:00,GitHub,2025-11-07 00:18:39+00:00,"Further fixes for release preparation process for tarballs (#57996)
+
+When preparing tarballs for airflow-ctl, airflow, even if we are
+preparing tarballs for ""final"" version we need to prepare them from
+a tag that has version suffix added. And we need to know the suffix.
+
+The prepare-tarball command has now --version-suffix added as well
+as the VERSION, VERSION_SUFFIX and VERSION_RC variables have been
+synchronized to be the same for airflow, airflowctl, helm-chart -
+previously we used VERSION to contain also RC and VERSION_WITHOUT_RC
+to be final version - this is now synchronized across all release
+instructions.",619
+apache/airflow,a630926a18730f3adcfccb619a5904509c17d6bc,AutomationDev85,96178949+AutomationDev85@users.noreply.github.com,2025-11-06 21:11:05+00:00,GitHub,2025-11-06 21:11:05+00:00,"KubernetesPodTriggerer reads pod logs instead of KubernetesPodOperator (#57531)
+
+* Move container-related functions from PodManager to a separate file
+
+* Moved unit tests
+
+* Sync and async workflow use the same code to track Pod startup
+
+* Reworked unit tests and pod startup logic
+
+* Add api permission error detection for triggerer
+
+* Fix pytest fixture
+
+* Removed not requried code
+
+* Move log file reading to triggerer
+
+* Removed not required code
+
+* Removed not requried unit test
+
+* Fixed unit tests
+
+* Clean up unit tests
+
+* Adapt unit test
+
+* Adapt return type
+
+---------
+
+Co-authored-by: AutomationDev85 <AutomationDev85>",630
+apache/airflow,e4088edecd7d5de9bf45e2b91e18cc0b842177a9,Daniel Standish,15932138+dstandish@users.noreply.github.com,2025-11-06 20:46:38+00:00,GitHub,2025-11-06 20:46:38+00:00,"Update ORM for asset / dag partitioning (#57360)
+
+We add string field partition_key to models DagRun and AssetEvent so these entities can be partition aware.
+
+And we add new models AssetPartitionDagRun and PartitionedAssetKeyLog.
+
+Think of AssetPartitionDagRun as a provisional dag run. This record is created when there's an asset event that contributes to the creation of a dag run for this dag_id / partition_key combo. It may need to wait for other events before it's ready to be created though, and the scheduler will make this determination.
+
+The PartitionedAssetKeyLog entity is a mapping between AssetPartitionDagRun and its corresponding AssetEvent entities.",667
+apache/airflow,34adc27ed1260ecdaddfcaa55d0136363f309e2b,Jens Scheffler,95105677+jscheffl@users.noreply.github.com,2025-11-06 20:22:02+00:00,GitHub,2025-11-06 20:22:02+00:00,"Enable ruff PLW1509 rule (#57659)
+
+* Enable ruff PLW1509 rule
+
+* Fix pytests",76
+apache/airflow,189e7ecbf8a19100351756f6adfe67f81f047cb9,Jarek Potiuk,jarek@potiuk.com,2025-11-06 18:55:49+00:00,GitHub,2025-11-06 18:55:49+00:00,"Add `breeze ci upgrade` command to automate CI infrastructure upgrade (#57958)
+
+We have some semi-complex set of tools that take care about upgrading
+of all our CI infrastructure periodically. While dependabot has a lot of
+use, a lot of cases is not handled yet in it - such as upgrading the
+charts, important dependencies in our scripts, dockerfiles and so on.
+
+While we already have a set of prek hooks and github Actions that
+do a lot there, some of that has to be done periodically outside of
+dependabot - this CI wraps a number of those upgrade tools into a
+single `ci upgrade` command that can be run locally, generate and
+open PR - and can be used in both - main and any of the v*test
+branches.
+
+Future improvement areas:
+
+* docker container upgrades for Helm chart and docker compose
+* slack notification after such upgrade PR is opened
+* more .....",857
+apache/airflow,9607baef89bc9bf50c2805edb19fff171a1e37e7,Ash Berlin-Taylor,ash@apache.org,2025-11-06 18:38:27+00:00,GitHub,2025-11-06 18:38:27+00:00,"Update the version of postgres we test against (#57899)
+
+v13 is reaching EOL in a few weeks (well before we will release 3.2,
+certainly) and v18 is out now, so we should test against it",185
+apache/airflow,828c04c4f5c84423ee91bf667e98e25a6368e349,Jens Scheffler,95105677+jscheffl@users.noreply.github.com,2025-11-06 18:38:19+00:00,GitHub,2025-11-06 18:38:19+00:00,"Remove global from Fernet Crypto tooling (#57642)
+
+* Remove global from Fernet Crypto tooling
+
+* Add support for key rotation
+
+* Fix pytests
+
+* Fix pytests
+
+* Fix pytests",170
+apache/airflow,a29391b177a8c27af2a17c1faea82bbdb63e5b5a,ChenChen Lai,72776271+0lai0@users.noreply.github.com,2025-11-06 17:15:16+00:00,GitHub,2025-11-06 17:15:16+00:00,Enable PT006 rule to trino Provider test (#57931),49
+apache/airflow,1eb960e09d5ef087187254d02b8984da18151c30,GUAN-HAO HUANG,101171023+rich7420@users.noreply.github.com,2025-11-06 17:14:45+00:00,GitHub,2025-11-06 17:14:45+00:00,"modify test_variables (#57945)
+
+Signed-off-by: rich7420 <rc910420@gmail.com>
+Co-authored-by: Kalyan R <kalyan.ben10@live.com>",125
+apache/airflow,b1cdb0c0079235707f8288509cd7e0f42ea034ed,GUAN-HAO HUANG,101171023+rich7420@users.noreply.github.com,2025-11-06 17:14:16+00:00,GitHub,2025-11-06 17:14:16+00:00,"Enable PT006 rule to google Provider test (operators part1) (#57943)
+
+* modify test_variables
+
+Co-authored-by: Kalyan R <kalyan.ben10@live.com>
+Signed-off-by: rich7420 <rc910420@gmail.com>
+
+* fix ci test
+
+---------
+
+Signed-off-by: rich7420 <rc910420@gmail.com>
+Co-authored-by: Kalyan R <kalyan.ben10@live.com>",309

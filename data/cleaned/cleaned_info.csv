@@ -1,0 +1,6 @@
+repo_name,stars,forks,open_issues,language,description,created_at,updated_at,pushed_at
+scikit-learn/scikit-learn,63980,26419,2126,Python,scikit-learn: machine learning in Python,2010-08-17 09:43:38+00:00,2025-11-10 07:41:10+00:00,2025-11-10 02:35:49+00:00
+mlflow/mlflow,22892,4977,2039,Python,"The open source developer platform to build AI/LLM applications and models with confidence. Enhance your AI applications with end-to-end tracking, observability, and evaluations, all in one integrated platform.",2018-06-05 16:05:58+00:00,2025-11-10 08:03:38+00:00,2025-11-10 07:04:34+00:00
+numpy/numpy,30782,11673,2359,Python,The fundamental package for scientific computing with Python.,2010-09-13 23:02:39+00:00,2025-11-10 07:07:24+00:00,2025-11-10 07:07:05+00:00
+pandas-dev/pandas,47063,19273,3597,Python,"Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",2010-08-24 01:37:33+00:00,2025-11-10 05:48:10+00:00,2025-11-08 20:40:33+00:00
+apache/airflow,43145,15915,1711,Python,"Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",2015-04-13 18:04:58+00:00,2025-11-10 07:58:56+00:00,2025-11-10 06:55:58+00:00
