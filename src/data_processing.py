@@ -316,7 +316,7 @@ def compute_final_summary(issues_summary, commits_summary, info_summary, closed_
 
 # define save methd:
 
-def save_data(dataframe, filename):
+def save_cleaned_data(dataframe, filename):
     """Save data to csv file in the data/clean directory"""
     clean_data_dir = Path('../data/cleaned')
     clean_data_dir.mkdir(parents=True, exist_ok=True)

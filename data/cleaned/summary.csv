@@ -1,0 +1,6 @@
+repo_name,number_of_issues,avg_issue_age_days,median_issue_age_days,commit_count,stargazers_sum,average_time_to_close_hours
+apache/airflow,100,15.18,18.0,100,43145,77.38514880952381
+mlflow/mlflow,100,16.74,11.0,100,22892,91.65721717171718
+numpy/numpy,100,17.13,8.0,100,30782,98.30162356321839
+pandas-dev/pandas,100,18.1,18.0,100,47063,146.50711352657004
+scikit-learn/scikit-learn,100,19.47,7.0,100,63980,116.27015873015873
