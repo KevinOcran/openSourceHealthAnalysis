@@ -51,7 +51,7 @@ cd openSourceHealthAnalysis
 # GITHUB_TOKEN="your_personal_access_token"
 
 # Step 3: Install dependencies
-pip install -r requirements.txt # (Ensure you create this file)
+pip install -r requirements.txt 
 
 # Step 4: Run the data collection pipeline
 python src/api_fetch.py
