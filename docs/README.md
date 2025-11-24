@@ -127,7 +127,7 @@ This bar chart shows which projects have the fastest and slowest issue resolutio
 
 ## License
 
-[MIT, Apache 2.0, etc.]
+MIT
 
 ## Contact
 
